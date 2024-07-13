@@ -492,7 +492,7 @@ http://localhost:5001/live/high/2755.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 1 HINDI HD" tvg-logo="" group-title="Sports", STAR SPORTS 1 HINDI HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=1114582&extension=ts
 #EXTINF: -1 tvg-id="ts81" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/9/9e/Sony_Sports_Ten_1_2022.png" group-title="Sports", Sony Ten 1 HD
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+http://port.denver1769.in/ulpl2.php?tv=3557
 #EXTINF: -1 tvg-id="ts462" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_SD.png" group-title="Sports", Sony Ten 2 HD
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 #EXTINF: -1 tvg-id="ts464" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_SD.png" group-title="Sports", Sony Ten 3 HD
