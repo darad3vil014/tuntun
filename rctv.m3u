@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/raw/main/tataplay/epg.xml.gz"
 #EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/raw/main/jiotv/epg.xml.gz"
+#EXTINF: -1 group-title="Movies", Sony Max HD
+https://port.denver1769.in/oplx3.php?id=66180
 #EXTINF: -1 group-title="Entertainment", SET HD
 https://port.denver1769.in/oplx3.php?id=109948
 #EXTINF: -1 tvg-id="144" tvg-name="Colors HD" tvg-chno="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment", Colors HD
@@ -138,8 +140,6 @@ http://localhost:5001/live/high/871.m3u8
 http://localhost:5001/live/high/1162.m3u8
 #EXTINF: -1 tvg-id="2437" tvg-name="Wild Earth" tvg-chno="2437" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wild_Earth.png" group-title="Infotainment", Wild Earth
 http://localhost:5001/live/high/2437.m3u8
-#EXTINF: -1 group-title="Movies", Sony Max HD
-https://port.denver1769.in/oplx3.php?id=66180
 #EXTINF: -1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-chno="165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies", Zee Cinema HD
 http://localhost:5001/live/high/165.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD HD" group-title="Movies", STAR GOLD HD
@@ -171,7 +171,7 @@ http://localhost:5001/live/high/182.m3u8
 #EXTINF: -1 tvg-id="415" tvg-name="Zee Anmol Cinema" tvg-chno="415" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Movies", Zee Anmol Cinema
 http://localhost:5001/live/high/415.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD THRILLS" group-title="Movies", STAR GOLD THRILLS
-http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155996&extension=ts
+http://port.denver1769.in/ulpl2.php?tv=5192
 #EXTINF: -1 tvg-id="ts100" tvg-name="Zee Action" tvg-chno="488" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Movies", Zee Action
 http://localhost:5001/live/high/488.m3u8
 #EXTINF: -1 tvg-id="482" tvg-name="Colors Cineplex" tvg-chno="482" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Movies", Colors Cineplex
