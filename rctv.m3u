@@ -247,9 +247,9 @@ http://localhost:5001/live/high/816.m3u8
 #EXTINF: -1 tvg-id="ts345" tvg-name="Hungama" group-title="Kids", Hungama
 http://public.iptv18.tech/smart.php?id=11646
 #EXTINF: -1 tvg-name="Disney" group-title="Kids", Disney
-https://public.iptv18.tech/opl/oplex.php?id=167551
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/192985
 #EXTINF: -1 tvg-logo="" tvg-name="Sony YAY!" group-title="Kids", Sony YAY!
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1355
 #EXTINF: -1 tvg-name="Disney Junior" group-title="Kids", Disney Junior
 https://public.iptv18.tech/vallabh.php?tv=161865
 #EXTINF: -1 tvg-id="545" tvg-name="Nick" tvg-chno="545" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids", Nick
