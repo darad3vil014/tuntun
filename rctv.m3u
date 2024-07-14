@@ -228,17 +228,17 @@ http://localhost:5001/live/high/1292.m3u8
 http://localhost:5001/live/high/1955.m3u8
 #EXTINF: -1 tvg-id="2031" tvg-name="Fashion India" tvg-chno="2031" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Fashion_India.png" group-title="", Fashion India
 http://localhost:5001/live/high/2031.m3u8
-#EXTINF: -1 tvg-name="Puskara" tvg-logo="https://hls.tarangplus.in/images/Puskara/63b6b14519521d0fa70001af/large_16_9/1700033840.jpg" group-title="Smart Odia Club", Puskara
+#EXTINF: -1 tvg-name="Puskara" tvg-logo="https://hls.tarangplus.in/images/Puskara/63b6b14519521d0fa70001af/large_16_9/1700033840.jpg" group-title="SmartTube", Puskara
 https://content.jwplatform.com/manifests/Q3SqpLQq.m3u8
-#EXTINF: -1 tvg-name="Love Pain Kuchbhi Karega" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzljZDgwZDAtMzhhNy00NGI3LTg3MWItYmQ5MGE3YzcyZjcxXkEyXkFqcGdeQXVyNjgxNDM2Nzg@._V1_.jpg" group-title="Smart Odia Club", Love Pain Kuchbhi Karega
+#EXTINF: -1 tvg-name="Love Pain Kuchbhi Karega" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzljZDgwZDAtMzhhNy00NGI3LTg3MWItYmQ5MGE3YzcyZjcxXkEyXkFqcGdeQXVyNjgxNDM2Nzg@._V1_.jpg" group-title="SmartTube", Love Pain Kuchbhi Karega
 https://content.jwplatform.com/manifests/GBGw0PKh.m3u8
-#EXTINF: -1 tvg-name="Bhisma Pratigyana" tvg-logo="https://hls.tarangplus.in/images/Bhisma-Pratigyana/5d9aa56f19521dd4d5000001/large_16_9/1673853890.jpg" group-title="Smart Odia Club", Bhisma Pratigyana
+#EXTINF: -1 tvg-name="Bhisma Pratigyana" tvg-logo="https://hls.tarangplus.in/images/Bhisma-Pratigyana/5d9aa56f19521dd4d5000001/large_16_9/1673853890.jpg" group-title="SmartTube", Bhisma Pratigyana
 https://content.jwplatform.com/manifests/K3M8U488.m3u8
-#EXTINF: -1 tvg-name="Ishq Tu Hi Tu" tvg-logo="https://hls.tarangplus.in/images/Ishq-Tu-Hi-Tu/5d9aae6519521dd4d5000033/large_16_9/1698837859.jpg" group-title="Smart Odia Club", Ishq Tu Hi Tu
+#EXTINF: -1 tvg-name="Ishq Tu Hi Tu" tvg-logo="https://hls.tarangplus.in/images/Ishq-Tu-Hi-Tu/5d9aae6519521dd4d5000033/large_16_9/1698837859.jpg" group-title="SmartTube", Ishq Tu Hi Tu
 https://content.jwplatform.com/manifests/M6ziqCin.m3u8
-#EXTINF: -1 tvg-logo="https://hls.tarangplus.in/images/Hata-Dhari-Chalutha/5d9addc519521da209000001/large_16_9/1697112002.jpg" group-title="Smart Odia Club", Hata Dhari Chalutha
+#EXTINF: -1 tvg-logo="https://hls.tarangplus.in/images/Hata-Dhari-Chalutha/5d9addc519521da209000001/large_16_9/1697112002.jpg" group-title="SmartTube", Hata Dhari Chalutha
 https://content.jwplatform.com/manifests/299HrD4Y.m3u8
-#EXTINF: -1 tvg-logo="https://hls.tarangplus.in/images/Sister-Sridevi-%7C-Full-Movie/646dfe9119521d5909000004/large_16_9/1704708380.jpg" group-title="Smart Odia Club", Sister Sridevi
+#EXTINF: -1 tvg-logo="https://hls.tarangplus.in/images/Sister-Sridevi-%7C-Full-Movie/646dfe9119521d5909000004/large_16_9/1704708380.jpg" group-title="SmartTube", Sister Sridevi
 https://content.jwplatform.com/manifests/g1yc2P1h.m3u8
 
 #EXTINF: -1 tvg-id="816" tvg-name="Cartoon Network" tvg-chno="816" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids", Cartoon Network
