@@ -151,7 +151,7 @@ https://port.denver1769.in/oplx3.php?id=66176
 #EXTINF: -1 tvg-id="185" tvg-name="&Pictures HD" tvg-chno="185" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies", &Pictures HD
 http://localhost:5001/live/high/185.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD 2" group-title="Movies", STAR GOLD 2
-https://port.denver1769.in/oplx3.php?id=106133
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/43919
 #EXTINF: -1 group-title="Movies", Sony Wah
 https://port.denver1769.in/oplx3.php?id=112979
 #EXTINF: -1 tvg-id="ts823" tvg-name="Goldmines" group-title="Movies", Goldmines
