@@ -340,7 +340,7 @@ https://www.nandighoshatvlive.com/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id=3072 tvg-name="Shree Jagannath TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shree_Jagannath_TV.png" group-title="Odia", Shree Jagannath TV
 http://localhost:5001/live/3072.m3u8
 #EXTINF:-1 tvg-id=3073 tvg-name="Ekamra Manoranjan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Manoranjan.png" group-title="Odia", Ekamra Manoranjan
-http://localhost:5001/live/3073.m3u8
+https://live.ekamraott.com/manoranjan/manoranjan/video.m3u8
 #EXTINF:-1 tvg-id=1692 tvg-name="Badakhabar" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Badakhabar.png" group-title="Odia", Badakhabar
 https://live.ekamraott.com/badakhabar/badakhabar/video.m3u8
 #EXTINF:-1 tvg-id=799 tvg-name="Naxatra News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Naxatra_News.png" group-title="Odia", Naxatra News
