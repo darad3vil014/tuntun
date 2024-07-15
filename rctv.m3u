@@ -342,7 +342,7 @@ http://localhost:5001/live/3072.m3u8
 #EXTINF:-1 tvg-id=3073 tvg-name="Ekamra Manoranjan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Manoranjan.png" group-title="Odia", Ekamra Manoranjan
 http://localhost:5001/live/3073.m3u8
 #EXTINF:-1 tvg-id=1692 tvg-name="Badakhabar" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Badakhabar.png" group-title="Odia", Badakhabar
-http://localhost:5001/live/1692.m3u8
+https://live.ekamraott.com/badakhabar/badakhabar/video.m3u8
 #EXTINF:-1 tvg-id=799 tvg-name="Naxatra News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Naxatra_News.png" group-title="Odia", Naxatra News
 http://localhost:5001/live/799.m3u8
 #EXTINF: -1 tvg-id="1451" tvg-name="9 Bharat Samachar" tvg-chno="1451" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9_Bharat_Samachar.png" group-title="News", 9 Bharat Samachar
