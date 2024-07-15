@@ -576,7 +576,7 @@ https://live.ekamraott.com/jatra/jatra/video.m3u8
 #EXTINF: -1 tvg-id="2016" tvg-name="Ekamra Cinema" tvg-chno="2016" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Cinema.png" group-title="Odia", Ekamra Cinema
 http://localhost:5001/live/high/2016.m3u8
 #EXTINF: -1 tvg-id="ts1199" tvg-name="Ekamra Musiq" tvg-chno="2015" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Music.png" group-title="Odia", Ekamra Musiq
-http://localhost:5001/live/high/2015.m3u8
+https://live.ekamraott.com/musiq/musiq/video.m3u8
 #EXTINF: -1 tvg-id="2011" tvg-name="Ekamra Bharat Odia" tvg-chno="2011" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Bharat_Odia.png" group-title="Odia", Ekamra Bharat Odia
 http://localhost:5001/live/high/2011.m3u8
 #EXTINF: -1 tvg-id="2012" tvg-name="Paramatma" tvg-chno="2012" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Paramatma.png" group-title="Odia", Ekamra Paramatma
