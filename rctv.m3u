@@ -568,7 +568,7 @@ https://server.livelegitpro.in/prameyanews7/prameyanews7/index.fmp4.m3u8
 #EXTINF: -1 tvg-id="1481" tvg-name="Argus News" tvg-chno="1481" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Argus_TV.png" group-title="Odia", Argus News
 https://live.argusnews.in/hls/argustv.m3u8
 #EXTINF: -1 tvg-id="2010" tvg-name="Ekamra Nilachakra" tvg-chno="2010" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Nilach_akra.png" group-title="Odia", Ekamra Nilachakra
-http://localhost:5001/live/high/2010.m3u8
+https://live.ekamraott.com/nilachakra/nilachakra/video.m3u8
 #EXTINF: -1 tvg-id="702" tvg-name="DD Odia" tvg-chno="702" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Oriya.png" group-title="Odia", DD Odia
 http://localhost:5001/live/high/702.m3u8
 #EXTINF: -1 tvg-id="ts1200" tvg-name="Jatra Ekamra" tvg-chno="2227" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jatra_Ekamra.png" group-title="Odia", Jatra Ekamra
