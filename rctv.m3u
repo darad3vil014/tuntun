@@ -315,8 +315,6 @@ http://localhost:5001/live/high/504.m3u8
 http://localhost:5001/live/high/506.m3u8
 #EXTINF: -1 tvg-id="520" tvg-name="Sansad TV HD" tvg-chno="520" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="News", Sansad TV HD
 http://localhost:5001/live/high/520.m3u8
-#EXTINF: -1 tvg-id="631" tvg-name="MBC TV" tvg-chno="631" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MBC.png" group-title="Odia", MBC TV
-http://localhost:5001/live/high/631.m3u8
 #EXTINF: -1 tvg-id="652" tvg-name="Zee Hindustan" tvg-chno="652" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="News", Zee Hindustan
 http://localhost:5001/live/high/652.m3u8
 #EXTINF: -1 tvg-id="696" tvg-name="News18 Odia" tvg-chno="696" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png" group-title="Odia", News18 Odia
@@ -583,5 +581,7 @@ http://localhost:5001/live/high/2015.m3u8
 http://localhost:5001/live/high/2011.m3u8
 #EXTINF: -1 tvg-id="2012" tvg-name="Paramatma" tvg-chno="2012" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Paramatma.png" group-title="Odia", Ekamra Paramatma
 http://localhost:5001/live/high/2012.m3u8
+#EXTINF: -1 tvg-id="631" tvg-name="MBC TV" tvg-chno="631" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MBC.png" group-title="Odia", MBC TV
+http://localhost:5001/live/high/631.m3u8
 #EXTINF: -1 tvg-id="2258" tvg-name="Animax" tvg-chno="2258" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animax.png" group-title="Kids", Animax
 http://localhost:5001/live/high/2258.m3u8
