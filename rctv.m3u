@@ -240,14 +240,6 @@ https://content.jwplatform.com/manifests/M6ziqCin.m3u8
 https://content.jwplatform.com/manifests/299HrD4Y.m3u8
 #EXTINF: -1 tvg-logo="https://hls.tarangplus.in/images/Sister-Sridevi-%7C-Full-Movie/646dfe9119521d5909000004/large_16_9/1704708380.jpg" group-title="Smart Odia Club", Sister Sridevi
 https://content.jwplatform.com/manifests/g1yc2P1h.m3u8
-#EXTINF:-1 tvg-id=3072 tvg-name="Shree Jagannath TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shree_Jagannath_TV.png" group-title="Odia", Shree Jagannath TV
-http://localhost:5001/live/3072.m3u8
-#EXTINF:-1 tvg-id=3073 tvg-name="Ekamra Manoranjan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Manoranjan.png" group-title="Odia", Ekamra Manoranjan
-http://localhost:5001/live/3073.m3u8
-#EXTINF:-1 tvg-id=1692 tvg-name="Badakhabar" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Badakhabar.png" group-title="Odia", Badakhabar
-http://localhost:5001/live/1692.m3u8
-#EXTINF:-1 tvg-id=799 tvg-name="Naxatra News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Naxatra_News.png" group-title="Odia", Naxatra News
-http://localhost:5001/live/799.m3u8
 
 #EXTINF: -1 tvg-id="816" tvg-name="Cartoon Network" tvg-chno="816" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids", Cartoon Network
 http://localhost:5001/live/high/816.m3u8
@@ -347,6 +339,14 @@ http://localhost:5001/live/high/1403.m3u8
 http://localhost:5001/live/high/1408.m3u8
 #EXTINF: -1 tvg-id="ts805" tvg-name="Nandighosha" tvg-chno="1427" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="Odia", Nandighosha
 https://www.nandighoshatvlive.com/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id=3072 tvg-name="Shree Jagannath TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shree_Jagannath_TV.png" group-title="Odia", Shree Jagannath TV
+http://localhost:5001/live/3072.m3u8
+#EXTINF:-1 tvg-id=3073 tvg-name="Ekamra Manoranjan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Manoranjan.png" group-title="Odia", Ekamra Manoranjan
+http://localhost:5001/live/3073.m3u8
+#EXTINF:-1 tvg-id=1692 tvg-name="Badakhabar" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Badakhabar.png" group-title="Odia", Badakhabar
+http://localhost:5001/live/1692.m3u8
+#EXTINF:-1 tvg-id=799 tvg-name="Naxatra News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Naxatra_News.png" group-title="Odia", Naxatra News
+http://localhost:5001/live/799.m3u8
 #EXTINF: -1 tvg-id="1451" tvg-name="9 Bharat Samachar" tvg-chno="1451" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9_Bharat_Samachar.png" group-title="News", 9 Bharat Samachar
 http://localhost:5001/live/high/1451.m3u8
 #EXTINF: -1 tvg-id="1699" tvg-name="ANN News" tvg-chno="1699" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ANN_News.png" group-title="News", ANN News
