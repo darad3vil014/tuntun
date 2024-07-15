@@ -321,7 +321,7 @@ http://localhost:5001/live/high/631.m3u8
 #EXTINF: -1 tvg-id="652" tvg-name="Zee Hindustan" tvg-chno="652" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="News", Zee Hindustan
 http://localhost:5001/live/high/652.m3u8
 #EXTINF: -1 tvg-id="696" tvg-name="News18 Odia" tvg-chno="696" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png" group-title="Odia", News18 Odia
-http://localhost:5001/live/high/696.m3u8
+https://nw18live.cdn.jio.com/bpk-tv/News18_Odia_NW18_MOB/output01/index.m3u8?__hdnea__=st=1720695487~exp=1720781887~acl=/*~hmac=8b39d11f4a3d71a4774e123b0dcb34f399b562e533b61e3892780cb73caaef24
 #EXTINF: -1 tvg-id="764" tvg-name="Channel News Asia International" tvg-chno="764" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" group-title="News", Channel News Asia International
 http://localhost:5001/live/high/764.m3u8
 #EXTINF: -1 tvg-id="771" tvg-name="Live Today" tvg-chno="771" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Live_Today.png" group-title="News", Live Today
