@@ -345,6 +345,8 @@ https://live.ekamraott.com/manoranjan/manoranjan/video.m3u8
 https://live.ekamraott.com/badakhabar/badakhabar/video.m3u8
 #EXTINF:-1 tvg-id=799 tvg-name="Naxatra News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Naxatra_News.png" group-title="Odia", Naxatra News
 http://localhost:5001/live/799.m3u8
+#EXTINF:-1 tvg-id=3073 tvg-name="Ekamra Halchal" tvg-logo="https://i.ytimg.com/vi/JXxAPUXXLU4/hqdefault.jpg" group-title="Odia", Ekamra Halchal
+https://live.ekamraott.com/halchal/halchal/video.m3u8
 #EXTINF: -1 tvg-id="1451" tvg-name="9 Bharat Samachar" tvg-chno="1451" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9_Bharat_Samachar.png" group-title="News", 9 Bharat Samachar
 http://localhost:5001/live/high/1451.m3u8
 #EXTINF: -1 tvg-id="1699" tvg-name="ANN News" tvg-chno="1699" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ANN_News.png" group-title="News", ANN News
