@@ -327,7 +327,7 @@ http://localhost:5001/live/high/764.m3u8
 #EXTINF: -1 tvg-id="771" tvg-name="Live Today" tvg-chno="771" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Live_Today.png" group-title="News", Live Today
 http://localhost:5001/live/high/771.m3u8
 #EXTINF: -1 tvg-id="781" tvg-name="Kalinga TV" tvg-chno="781" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalinga_TV.png" group-title="Odia", Kalinga TV
-http://localhost:5001/live/high/781.m3u8
+https://server.thelegitpro.in/kalingatv/kalingatv/index.fmp4.m3u8
 #EXTINF: -1 tvg-id="858" tvg-name="Republic TV" tvg-chno="858" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="News", Republic TV
 http://localhost:5001/live/high/858.m3u8
 #EXTINF: -1 tvg-id="876" tvg-name="Times Now World" tvg-chno="876" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" group-title="News", Times Now World
