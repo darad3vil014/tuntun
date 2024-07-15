@@ -354,7 +354,7 @@ http://localhost:5001/live/high/1759.m3u8
 #EXTINF: -1 tvg-id="1886" tvg-name="Sansad TV Rajya Sabha" tvg-chno="1886" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sansad_TV_RajyaSabha.png" group-title="News", Sansad TV Rajya Sabha
 http://localhost:5001/live/high/1886.m3u8
 #EXTINF: -1 tvg-id="ts1202" tvg-name="One Paschima" tvg-chno="2355" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/One_Paschima.png" group-title="Odia", One Paschima
-http://localhost:5001/live/high/2355.m3u8
+https://live.ekamraott.com/onepaschima/onepaschima/video.m3u8
 #EXTINF: -1 tvg-id="183" tvg-name="B4U Music" tvg-chno="183" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music", B4U Music
 http://localhost:5001/live/high/183.m3u8
 #EXTINF: -1 tvg-id="250" tvg-name="Music India" tvg-chno="250" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music", Music India
