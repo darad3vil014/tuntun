@@ -339,7 +339,7 @@ http://localhost:5001/live/high/1403.m3u8
 #EXTINF: -1 tvg-id="1408" tvg-name="Reporter TV" tvg-chno="1408" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Reporter_TV.png" group-title="News", Reporter TV
 http://localhost:5001/live/high/1408.m3u8
 #EXTINF: -1 tvg-id="ts805" tvg-name="Nandighosha" tvg-chno="1427" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="Odia", Nandighosha
-http://localhost:5001/live/high/1427.m3u8
+https://www.nandighoshatvlive.com/hls/stream/index.m3u8
 #EXTINF: -1 tvg-id="1451" tvg-name="9 Bharat Samachar" tvg-chno="1451" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9_Bharat_Samachar.png" group-title="News", 9 Bharat Samachar
 http://localhost:5001/live/high/1451.m3u8
 #EXTINF: -1 tvg-id="1699" tvg-name="ANN News" tvg-chno="1699" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ANN_News.png" group-title="News", ANN News
