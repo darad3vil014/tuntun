@@ -18,15 +18,15 @@ https://port.denver1769.in/oplx3.php?id=112977
 https://port.denver1769.in/oplx3.php?id=104192
 #EXTINF: -1 tvg-id="ts115" tvg-name="Colors Odia" tvg-chno="198" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="Odia", Colors Odia
 http://localhost:5001/live/high/198.m3u8
-#EXTINF: -1 tvg-logo="https://www.tarangtv.in/taranglogo.png" group-title="Odia", Tarang TV
+#EXTINF: -1 tvg-logo="https://www.tarangtv.in/taranglogo.png" group-title="", Tarang TV
 https://otvvid-livecdn.vidgyor.com/tarangtv-origin/live/playlist.m3u8
-#EXTINF: -1 tvg-id="722" tvg-name="Zee Sarthak" tvg-chno="722" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="Odia", Zee Sarthak
+#EXTINF: -1 tvg-id="722" tvg-name="Zee Sarthak" tvg-chno="722" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="", Zee Sarthak
 http://localhost:5001/live/high/722.m3u8
-#EXTINF: -1 tvg-id="OdishaTV.in" tvg-logo="https://i.imgur.com/tCT3qL9.png" group-title="Odia", OTV
+#EXTINF: -1 tvg-id="OdishaTV.in" tvg-logo="https://i.imgur.com/tCT3qL9.png" group-title="", OTV
 https://otvvid-livecdn.vidgyor.com/otv-origin/live/playlist.m3u8
-#EXTINF: -1 tvg-id="718" tvg-name="Kanak News" tvg-chno="718" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png" group-title="Odia", Kanak News
+#EXTINF: -1 tvg-id="718" tvg-name="Kanak News" tvg-chno="718" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png" group-title="", Kanak News
 http://localhost:5001/live/high/718.m3u8
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Prarthana_TV.png" group-title="Odia", Prarthana TV
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Prarthana_TV.png" group-title="", Prarthana TV
 https://otvvid-livecdn.vidgyor.com/prarthana-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://rcnet.in/rctv/tmas.png" group-title="Odia", Tarang Music
 https://otvvid-livecdn.vidgyor.com/tarangmusic-origin/live/playlist.m3u8
@@ -40,6 +40,10 @@ http://localhost:5001/live/high/1957.m3u8
 http://localhost:5001/live/high/1958.m3u8
 #EXTINF: -1 tvg-id="ts1169" tvg-name="Jay Jagannath TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/JJAG_Thumbnail-v1/JJAG_Thumbnail.png" group-title="Odia", Jay Jagannath TV
 https://butterfly9cca.rciptv360.workers.dev/stream/@JayJagannathTVofficial/master.m3u8
+#EXTINF:-1 tvg-id=3072 tvg-name="Shree Jagannath TV" tvg-logo="http://192.168.1.35:5001/jtvimage/Shree_Jagannath_TV.png" group-title="Odia", Shree Jagannath TV
+http://localhost:5001/live/3072.m3u8
+#EXTINF:-1 tvg-id=3073 tvg-name="Ekamra Manoranjan" tvg-logo="http://192.168.1.35:5001/jtvimage/Ekamra_Manoranjan.png" group-title="Odia", Ekamra Manoranjan
+http://localhost:5001/live/3073.m3u8
 #EXTINF: -1 tvg-name="Sony Kal" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/6/6e/Sony_Kal_Logo.jpeg" group-title="Entertainment", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_3000k.m3u8
 #EXTINF: -1 tvg-id="202" tvg-name="DD National" tvg-chno="202" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment", DD National
