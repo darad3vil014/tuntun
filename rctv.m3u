@@ -559,7 +559,7 @@ http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155973&exten
 #EXTINF: -1 tvg-name="STAR SPORTS SELECT 2" group-title="Sports", STAR SPORTS SELECT 2
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=282676&extension=ts
 #EXTINF: -1 tvg-id="ts448" tvg-name="Prameya News 7" tvg-chno="779" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prameya_News_7.png" group-title="Odia", Prameya News 7
-http://localhost:5001/live/high/779.m3u8
+https://server.livelegitpro.in/prameyanews7/prameyanews7/index.fmp4.m3u8
 #EXTINF: -1 tvg-id="1481" tvg-name="Argus News" tvg-chno="1481" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Argus_TV.png" group-title="Odia", Argus News
 https://live.argusnews.in/hls/argustv.m3u8
 #EXTINF: -1 tvg-id="2010" tvg-name="Ekamra Nilachakra" tvg-chno="2010" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Nilach_akra.png" group-title="Odia", Ekamra Nilachakra
