@@ -3,19 +3,19 @@
 #EXTINF: -1 group-title="Movies", Sony Max HD
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF: -1 group-title="Entertainment", SET HD
-https://port.denver1769.in/oplx3.php?id=109948
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF: -1 tvg-id="144" tvg-name="Colors HD" tvg-chno="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment", Colors HD
 http://localhost:5001/live/high/144.m3u8
 #EXTINF: -1 tvg-name="STAR PLUS HD" group-title="Entertainment", STAR PLUS HD
 https://port.denver1769.in/oplx3.php?id=109949
 #EXTINF: -1 group-title="Entertainment", Sony Sab HD
-https://port.denver1769.in/oplx3.php?id=109953
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF: -1 tvg-id="167" tvg-name="Zee TV HD" tvg-chno="167" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment", Zee TV HD
 http://localhost:5001/live/high/167.m3u8
 #EXTINF: -1 tvg-name="STAR UTSAV" group-title="Entertainment", STAR UTSAV
 https://port.denver1769.in/oplx3.php?id=112977
 #EXTINF: -1 group-title="Entertainment", Sony Pal
-https://port.denver1769.in/oplx3.php?id=104192
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF: -1 tvg-id="ts115" tvg-name="Colors Odia" tvg-chno="198" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="Odia", Colors Odia
 http://localhost:5001/live/high/198.m3u8
 #EXTINF: -1 tvg-logo="https://www.tarangtv.in/taranglogo.png" group-title="Odia", Tarang TV
@@ -248,7 +248,7 @@ http://public.iptv18.tech/smart.php?id=11646
 #EXTINF: -1 tvg-name="Disney" group-title="Kids", Disney
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/192985
 #EXTINF: -1 tvg-logo="" tvg-name="Sony YAY!" group-title="Kids", Sony YAY!
-http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1355
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://tatakey-v2.sabbirhasan.trial.rocks/key?payload=gAAAAABkdG2_DLs611JKtXLbPZjlKX6LduJbM_6YjUtgU9kN4nun_M2IdNZYZjWanKj4EnQiX7GKykl7Ti4qr12WiN56a7Fl0zBfdjCfxFYR666DHQDoqP24RJdyuLExckI7zZrExGVBEmpiVT11AmMd-XRJ2SwCzsXzMZ_XPGdi8wKwOlFklI5qhIDm9hWJils2r4gwwjNrOh8ACLkXCENzSfTVVpaHPCypOJYcjIrnXaEa17Jpl58=
 #EXTINF:-1 tvg-id="144" group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png" ,Disney Junior
