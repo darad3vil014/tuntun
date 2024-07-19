@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/raw/main/tataplay/epg.xml.gz"
 #EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/raw/main/jiotv/epg.xml.gz"
 #EXTINF: -1 group-title="Movies", Sony Max HD
-https://port.denver1769.in/oplx3.php?id=66180
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF: -1 group-title="Entertainment", SET HD
 https://port.denver1769.in/oplx3.php?id=109948
 #EXTINF: -1 tvg-id="144" tvg-name="Colors HD" tvg-chno="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment", Colors HD
