@@ -249,8 +249,10 @@ http://public.iptv18.tech/smart.php?id=11646
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/192985
 #EXTINF: -1 tvg-logo="" tvg-name="Sony YAY!" group-title="Kids", Sony YAY!
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1355
-#EXTINF: -1 tvg-name="Disney Junior" group-title="Kids", Disney Junior
-https://public.iptv18.tech/vallabh.php?tv=161865
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://tatakey-v2.sabbirhasan.trial.rocks/key?payload=gAAAAABkdG2_DLs611JKtXLbPZjlKX6LduJbM_6YjUtgU9kN4nun_M2IdNZYZjWanKj4EnQiX7GKykl7Ti4qr12WiN56a7Fl0zBfdjCfxFYR666DHQDoqP24RJdyuLExckI7zZrExGVBEmpiVT11AmMd-XRJ2SwCzsXzMZ_XPGdi8wKwOlFklI5qhIDm9hWJils2r4gwwjNrOh8ACLkXCENzSfTVVpaHPCypOJYcjIrnXaEa17Jpl58=
+#EXTINF:-1 tvg-id="144" group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png" ,Disney Junior
+https://delta13tatasky.akamaized.net/out/i/2423338.mpd
 #EXTINF: -1 tvg-id="545" tvg-name="Nick" tvg-chno="545" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids", Nick
 http://localhost:5001/live/high/545.m3u8
 #EXTINF: -1 tvg-id="554" tvg-name="Discovery Kids" tvg-chno="554" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Kids", Discovery Kids
