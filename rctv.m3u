@@ -143,7 +143,7 @@ http://localhost:5001/live/high/2437.m3u8
 #EXTINF: -1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-chno="165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies", Zee Cinema HD
 http://localhost:5001/live/high/165.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD HD" group-title="Movies", STAR GOLD HD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155969&extension=ts
+http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=1868&deviceMac=00:1A:79:49:D0:93
 #EXTINF: -1 group-title="Movies", Sony Max 2
 https://port.denver1769.in/oplx3.php?id=66189
 #EXTINF: -1 tvg-name="STAR GOLD SELECT HD" group-title="Movies", STAR GOLD SELECT HD
