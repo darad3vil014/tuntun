@@ -246,11 +246,9 @@ https://content.jwplatform.com/manifests/g1yc2P1h.m3u8
 #EXTINF: -1 tvg-id="816" tvg-name="Cartoon Network" tvg-chno="816" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids", Cartoon Network
 http://localhost:5001/live/high/816.m3u8
 #EXTINF: -1 tvg-id="ts345" tvg-name="Hungama" group-title="Kids", Hungama
-http://public.iptv18.tech/smart.php?id=11646
+https://port.denver1769.in/oplx3.php?id=150480
 #EXTINF: -1 tvg-name="Disney" group-title="Kids", Disney
 http://port.denver1769.in/dd.php?tv=864
-#EXTINF:-1 tvg-id="ts587" tvg-name="Super Hungama" tvg-logo="" group-title="Kids",Super Hungama
-https://play.denver1769.in/tp2.mpd?id=587
 #EXTINF: -1 tvg-logo="" tvg-name="Sony YAY!" group-title="Kids", Sony YAY!
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1 tvg-id="ts144" group-title="Kids" tvg-logo="" ,Disney Junior
