@@ -248,11 +248,11 @@ http://localhost:5001/live/high/816.m3u8
 #EXTINF: -1 tvg-id="ts345" tvg-name="Hungama" group-title="Kids", Hungama
 https://port.denver1769.in/oplx3.php?id=150480
 #EXTINF: -1 tvg-name="Disney" group-title="Kids", Disney
-http://port.denver1769.in/dd.php?tv=864
+https://port.denver1769.in/oplx3.php?id=167551
 #EXTINF: -1 tvg-logo="" tvg-name="Sony YAY!" group-title="Kids", Sony YAY!
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1 tvg-id="ts144" group-title="Kids" tvg-logo="" ,Disney Junior
-https://play.denver1769.in/tp2.mpd?id=144
+ttps://port.denver1769.in/oplx3.php?id=153175
 #EXTINF: -1 tvg-id="545" tvg-name="Nick" tvg-chno="545" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids", Nick
 http://localhost:5001/live/high/545.m3u8
 #EXTINF: -1 tvg-id="554" tvg-name="Discovery Kids" tvg-chno="554" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Kids", Discovery Kids
