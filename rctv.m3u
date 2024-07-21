@@ -251,9 +251,7 @@ http://public.iptv18.tech/smart.php?id=11646
 http://port.denver1769.in/dd.php?tv=864
 #EXTINF: -1 tvg-logo="" tvg-name="Sony YAY!" group-title="Kids", Sony YAY!
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=144
-#EXTINF:-1 tvg-id="144" group-title="Kids" tvg-logo="" ,Disney Junior
+#EXTINF:-1 tvg-id="ts144" group-title="Kids" tvg-logo="" ,Disney Junior
 https://play.denver1769.in/tp2.mpd?id=144
 #EXTINF: -1 tvg-id="545" tvg-name="Nick" tvg-chno="545" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids", Nick
 http://localhost:5001/live/high/545.m3u8
