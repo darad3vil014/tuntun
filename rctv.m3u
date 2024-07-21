@@ -592,4 +592,5 @@ https://live.ekamraott.com/paramatma/paramatma/video.m3u8
 #EXTINF: -1 tvg-id="631" tvg-name="MBC TV" tvg-chno="631" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MBC.png" group-title="Odia", MBC TV
 http://localhost:5001/live/high/631.m3u8
 #EXTINF: -1 tvg-id="2258" tvg-name="Animax" tvg-chno="2258" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animax.png" group-title="Kids", Animax
-http://localhost:5001/live/high/2258.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=816
