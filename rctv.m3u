@@ -142,8 +142,10 @@ http://localhost:5001/live/high/1162.m3u8
 http://localhost:5001/live/high/2437.m3u8
 #EXTINF: -1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-chno="165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies", Zee Cinema HD
 http://localhost:5001/live/high/165.m3u8
-#EXTINF: -1 tvg-name="STAR GOLD HD" group-title="Movies", STAR GOLD HD
-http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=1868&deviceMac=00:1A:79:49:D0:93
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000661&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjkyMjk1MDk4NjMxIn0.eyJzdWIiOiIxMDM5MjgyNTkzIiwiaXNlIjp0cnVlLCJqdGkiOiI4YThhNGE3My1jY2YzLTRmY2QtOTYwYS04OWExMjc3MDIyMzgiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjk1NzYzMDY1LCJuYW1lIjoiUHJhdmVqIEtoYW4iLCJpYXQiOjE2OTU2NzY2NjUsImVudCI6W3siZXBpZCI6IlN1YnNjcmlwdGlvbl9Ccm93c2VyX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDAxNjkifV0sImNzbW8iOnsibWFzIjoiNiIsImR0IjoidHBtYSIsIm1hc2QiOiIyIn0sImlzcyI6InRwbWFfd2ViIn0.iVIxKbpQDzisPdihGr9Gu1aaMpxNm6tLTopepo6wNa0|Content-Type=application/octet-stream|R{SSM}|
+#EXTINF:-1 tvg-id="632" group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png" ,Star GOLD HD
+https://delta10tatasky.akamaized.net/out/i/5771658.mpd
 #EXTINF: -1 group-title="Movies", Sony Max 2
 https://port.denver1769.in/oplx3.php?id=66189
 #EXTINF: -1 tvg-name="STAR GOLD SELECT HD" group-title="Movies", STAR GOLD SELECT HD
