@@ -41,10 +41,7 @@ http://localhost:5001/live/high/1957.m3u8
 #EXTINF: -1 tvg-id="1958" tvg-name="Sidharth Bhakti" tvg-chno="1958" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_Bhakti.png" group-title="Odia", Sidharth Bhakti
 http://localhost:5001/live/high/1958.m3u8
 #EXTINF: -1 tvg-id="ts1169" tvg-name="Jay Jagannath TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/JJAG_Thumbnail-v1/JJAG_Thumbnail.png" group-title="Odia", Jay Jagannath TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Tsg+r5L6pgo4w7YlxZWWIw","kid":"kQZXn8QsUMqnUaQI+Xbxlg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_1951/output/manifest.mpd?hdnea=st=1722014314~exp=1722014914~acl=/bpk-tv/irdeto_com_Channel_411/output/*~id=1084464708~hmac=ed5fbe82fc257dfca1aaa1759a97802945736bf2d9a84f936cdc5882f841367a
+https://glittering-whispers.000webhostapp.com/play.php?id=1169
 #EXTINF: -1 tvg-name="Sony Kal" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/6/6e/Sony_Kal_Logo.jpeg" group-title="Entertainment", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_3000k.m3u8
 #EXTINF: -1 tvg-id="202" tvg-name="DD National" tvg-chno="202" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment", DD National
