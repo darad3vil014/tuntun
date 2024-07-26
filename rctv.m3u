@@ -41,7 +41,7 @@ http://localhost:5001/live/high/1957.m3u8
 #EXTINF: -1 tvg-id="1958" tvg-name="Sidharth Bhakti" tvg-chno="1958" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_Bhakti.png" group-title="Odia", Sidharth Bhakti
 http://localhost:5001/live/high/1958.m3u8
 #EXTINF: -1 tvg-id="ts1169" tvg-name="Jay Jagannath TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/JJAG_Thumbnail-v1/JJAG_Thumbnail.png" group-title="Odia", Jay Jagannath TV
-https://glittering-whispers.000webhostapp.com/play.php?id=1169
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1951/output/manifest.mpd?begin=20240720T132759&end=20240728T132759
 #EXTINF: -1 tvg-name="Sony Kal" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/6/6e/Sony_Kal_Logo.jpeg" group-title="Entertainment", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_3000k.m3u8
 #EXTINF: -1 tvg-id="202" tvg-name="DD National" tvg-chno="202" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment", DD National
