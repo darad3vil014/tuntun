@@ -41,7 +41,10 @@ https://jio.drmlive.au/jio/bpk-tv/Sidharth_Gold_MOB/Fallback/index.m3u8
 #EXTINF: -1 tvg-id="1958" tvg-name="Sidharth Bhakti" tvg-chno="1958" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_Bhakti.png" group-title="Odia", Sidharth Bhakti
 https://jio.drmlive.au/jio/bpk-tv/Sidharth_Bhakti_MOB/Fallback/index.m3u8
 #EXTINF: -1 tvg-id="ts1169" tvg-name="Jay Jagannath TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/JJAG_Thumbnail-v1/JJAG_Thumbnail.png" group-title="Odia", Jay Jagannath TV
-https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1951/output/manifest.mpd?begin=20240720T132759&end=20240728T132759
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7DkCI/4htHy1iJAJJihZhQ","kid":"fx7mTKDeWby6rzbfKXDt7A"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_1951/output/manifest.mpd?hdnea=st=1722183089~exp=1722183689~acl=/bpk-tv/irdeto_com_Channel_411/output/*~id=1084464708~hmac=a3dadd31233b66bd72ea2637a49e8893c48f457f664d1f2c6d2ab34ca49ab5c6
 #EXTINF: -1 tvg-name="Sony Kal" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/6/6e/Sony_Kal_Logo.jpeg" group-title="Entertainment", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_3000k.m3u8
 #EXTINF: -1 tvg-id="202" tvg-name="DD National" tvg-chno="202" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment", DD National
