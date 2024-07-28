@@ -157,7 +157,7 @@ http://localhost:5001/live/high/185.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD 2" group-title="Movies", STAR GOLD 2
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/43919
 #EXTINF: -1 group-title="Movies", Sony Wah
-http://iptvtree.net:8080/romaniamedia/8cc105f9f2/165801
+https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF: -1 tvg-id="ts823" tvg-name="Goldmines" group-title="Movies", Goldmines
 https://port.denver1769.in/oplx3.php?id=112972
 #EXTINF: -1 tvg-id="" tvg-name="Goldmines Bollywood" tvg-logo="https://raw.githubusercontent.com/darad3vil014/tuntun/main/gmb.jpg" group-title="Movies", Goldmines Bollywood
