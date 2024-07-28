@@ -254,8 +254,6 @@ http://localhost:5001/live/high/1226.m3u8
 http://localhost:5001/live/high/544.m3u8
 #EXTINF: -1 tvg-id="815" tvg-name="Sonic Nickelodeon" tvg-chno="815" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids", Sonic Nickelodeon
 http://localhost:5001/live/high/815.m3u8
-#EXTINF: -1 tvg-id="disney.xd.usa.eastern.us" tvg-name="Disney XD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US028Disney-XD.png" group-title="Kids", Disney XD
-http://vo01.mohdtv.com:8880/ALLChannels02ad32018ba4/47057099/3140
 #EXTINF: -1 tvg-id="1216" tvg-name="Highbrow" tvg-chno="1216" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png" group-title="Kids", Highbrow
 http://localhost:5001/live/high/1216.m3u8
 #EXTINF: -1 tvg-id="1430" tvg-name="Jio KIDS" tvg-chno="1430" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png" group-title="Kids", Jio KIDS
