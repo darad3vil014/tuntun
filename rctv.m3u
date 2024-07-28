@@ -567,7 +567,7 @@ https://jio.drmlive.au/jio/bpk-tv/DD_Oriya_MOB/Fallback/index.m3u8
 #EXTINF: -1 tvg-id="ts1200" tvg-name="Jatra Ekamra" tvg-chno="2227" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jatra_Ekamra.png" group-title="Odia", Jatra Ekamra
 https://live.ekamraott.com/jatra/jatra/video.m3u8
 #EXTINF: -1 tvg-id="2016" tvg-name="Ekamra Cinema" tvg-chno="2016" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Cinema.png" group-title="Odia", Ekamra Cinema
-http://localhost:5001/live/high/2016.m3u8
+https://live.ekamraott.com/cynema/cynema/video.m3u8
 #EXTINF: -1 tvg-id="ts1199" tvg-name="Ekamra Musiq" tvg-chno="2015" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Music.png" group-title="Odia", Ekamra Musiq
 https://live.ekamraott.com/musiq/musiq/video.m3u8
 #EXTINF: -1 tvg-id="2011" tvg-name="Ekamra Bharat Odia" tvg-chno="2011" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Bharat_Odia.png" group-title="Odia", Ekamra Bharat Odia
@@ -578,7 +578,7 @@ https://live.ekamraott.com/paramatma/paramatma/video.m3u8
 http://localhost:5001/live/high/631.m3u8
 #EXTINF: -1 tvg-id="2258" tvg-name="Animax" tvg-chno="2258" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animax.png" group-title="Kids", Animax
 https://jio.drmlive.au/jio/bpk-tv/Animax_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-epg="24/7 Tom and Jerry" tvg-name="Tom & Jerry" tvg-logo="https://www.redwolf.in/image/cache/catalog/artwork-Images/tom-and-jerry-design-image-438x438.jpg" group-title="Kids",Tom & Jerry
+#EXTINF:-1 tvg-id="rc247" tvg-epgurl="https://raw.githubusercontent.com/darad3vil014/tuntun/main/taj.xml" tvg-name="Tom & Jerry" tvg-logo="https://www.redwolf.in/image/cache/catalog/artwork-Images/tom-and-jerry-design-image-438x438.jpg" group-title="Kids",Tom & Jerry
 http://port.denver1769.in/Ply/tptv.php?id=16927
 
   
