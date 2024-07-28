@@ -144,7 +144,7 @@ http://localhost:5001/live/high/1162.m3u8
 http://localhost:5001/live/high/2437.m3u8
 #EXTINF: -1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-chno="165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies", Zee Cinema HD
 https://jio.drmlive.au/jio/bpk-tv/Zee_Cinema_HD_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="632" group-title="Movies" tvg-logo="" ,Star GOLD HD
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" group-title="Movies" tvg-logo="" ,STAR GOLD HD
 https://tplay.dinesh29.com.np/live/tataplay-universal/star-gold-hd/index.ts
 #EXTINF: -1 group-title="Movies", Sony Max 2
 https://port.denver1769.in/oplx3.php?id=66189
@@ -157,7 +157,7 @@ http://iptvtree.net:8080/romaniamedia/8cc105f9f2/43919
 #EXTINF: -1 group-title="Movies", Sony Wah
 https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF: -1 tvg-id="ts823" tvg-name="Goldmines" group-title="Movies", Goldmines
-https://port.denver1769.in/oplx3.php?id=112972
+https://tplay.dinesh29.com.np/live/tataplay-universal/goldmines/index.ts
 #EXTINF: -1 tvg-id="" tvg-name="Goldmines Bollywood" tvg-logo="https://raw.githubusercontent.com/darad3vil014/tuntun/main/gmb.jpg" group-title="Movies", Goldmines Bollywood
 https://port.denver1769.in/oplx3.php?id=112973
 #EXTINF:-1 tvg-id="87417" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20220801_200458_68.png" group-title="Movies",Bollywood Classic
@@ -238,6 +238,8 @@ https://port.denver1769.in/oplx3.php?id=150480
 https://port.denver1769.in/oplx3.php?id=167551
 #EXTINF: -1 tvg-logo="" tvg-name="Sony YAY!" group-title="Kids", Sony YAY!
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Super Hungama" group-title="Kids" tvg-logo="" ,Super Hungama
+https://tplay.dinesh29.com.np/live/tataplay-universal/super-hungama/index.ts
 #EXTINF:-1 tvg-id="ts144" group-title="Kids" tvg-logo="" ,Disney Junior
 ttps://port.denver1769.in/oplx3.php?id=153175
 #EXTINF: -1 tvg-id="545" tvg-name="Nick" tvg-chno="545" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids", Nick
