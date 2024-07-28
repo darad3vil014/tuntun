@@ -30,9 +30,9 @@ https://otvvid-livecdn.vidgyor.com/otv-origin/live/playlist.m3u8
 http://localhost:5001/live/high/718.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Prarthana_TV.png" group-title="Odia", Prarthana TV
 https://otvvid-livecdn.vidgyor.com/prarthana-origin/live/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://rcnet.in/rctv/tmas.png" group-title="Odia", Tarang Music
+#EXTINF: -1 tvg-logo="" group-title="Odia", Tarang Music
 https://otvvid-livecdn.vidgyor.com/tarangmusic-origin/live/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://rcnet.in/rctv/lan.webp" group-title="Odia", Alankar
+#EXTINF: -1 tvg-logo="" group-title="Odia", Alankar
 https://otvvid-livecdn.vidgyor.com/alankar-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="1956" tvg-name="Sidharth TV" tvg-chno="1956" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_TV.png" group-title="Odia", Sidharth TV
 https://jio.drmlive.au/jio/bpk-tv/Sidharth_TV_MOB/Fallback/index.m3u8
