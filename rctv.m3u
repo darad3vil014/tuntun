@@ -41,9 +41,7 @@ https://jio.drmlive.au/jio/bpk-tv/Sidharth_Gold_MOB/Fallback/index.m3u8
 #EXTINF: -1 tvg-id="1958" tvg-name="Sidharth Bhakti" tvg-chno="1958" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_Bhakti.png" group-title="Odia", Sidharth Bhakti
 https://jio.drmlive.au/jio/bpk-tv/Sidharth_Bhakti_MOB/Fallback/index.m3u8
 #EXTINF: -1 tvg-id="ts1169" tvg-name="Jay Jagannath TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/JJAG_Thumbnail-v1/JJAG_Thumbnail.png" group-title="Odia", Jay Jagannath TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"H+tEiehLrYmoQcbpElIOSg","kid":"gU+D+lGsUGajhuawU9LwZA"}],"type":"temporary"}
-https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_1951/output/manifest.mpd?hdnea=exp=1714137717~acl=/*~hmac=7317f9e031bdb253b7d5a1209ebd648f1d027a31dc3ea5b0f0e2463daf5a667e
+https://tplay.dinesh29.com.np/live/tataplay-universal/jay-jagannath/index.ts
 #EXTINF: -1 tvg-name="Sony Kal" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/6/6e/Sony_Kal_Logo.jpeg" group-title="Entertainment", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_3000k.m3u8
 #EXTINF: -1 tvg-id="202" tvg-name="DD National" tvg-chno="202" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment", DD National
