@@ -21,19 +21,19 @@ https://jio.drmlive.au/jio/bpk-tv/Colors_Oriya_MOB/Fallback/index.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="Star Kiran" tvg-logo="" group-title="Odia", Star Kiran
 http://port.denver1769.in/j.php?tv=41705
 #EXTINF: -1 tvg-logo="https://www.tarangtv.in/taranglogo.png" group-title="Odia", Tarang TV
-https://otvvid-livecdn.vidgyor.com/tarangtv-origin/live/playlist.m3u8
+https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="722" tvg-name="Zee Sarthak" tvg-chno="722" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="Odia", Zee Sarthak
 https://jio.drmlive.au/jio/bpk-tv/Sarthak_TV_MOB/Fallback/index.m3u8
 #EXTINF: -1 tvg-id="OdishaTV.in" tvg-logo="https://i.imgur.com/tCT3qL9.png" group-title="Odia", OTV
-https://otvvid-livecdn.vidgyor.com/otv-origin/live/playlist.m3u8
+https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="718" tvg-name="Kanak News" tvg-chno="718" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png" group-title="Odia", Kanak News
 https://jio.drmlive.au/jio/bpk-tv/Kanak_TV_MOB/Fallback/index.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Prarthana_TV.png" group-title="Odia", Prarthana TV
-https://otvvid-livecdn.vidgyor.com/prarthana-origin/live/playlist.m3u8
+https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-logo="" group-title="Odia", Tarang Music
-https://otvvid-livecdn.vidgyor.com/tarangmusic-origin/live/playlist.m3u8
+https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-logo="" group-title="Odia", Alankar
-https://otvvid-livecdn.vidgyor.com/alankar-origin/live/playlist.m3u8
+https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="1956" tvg-name="Sidharth TV" tvg-chno="1956" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_TV.png" group-title="Odia", Sidharth TV
 https://jio.drmlive.au/jio/bpk-tv/Sidharth_TV_MOB/Fallback/index.m3u8
 #EXTINF: -1 tvg-id="1957" tvg-name="Sidharth Gold" tvg-chno="1957" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_Gold.png" group-title="Odia", Sidharth Gold
