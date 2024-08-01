@@ -143,7 +143,7 @@ http://localhost:5001/live/high/1162.m3u8
 #EXTINF: -1 tvg-id="2437" tvg-name="Wild Earth" tvg-chno="2437" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wild_Earth.png" group-title="Infotainment", Wild Earth
 http://localhost:5001/live/high/2437.m3u8
 #EXTINF: -1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-chno="165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies", Zee Cinema HD
-https://jio.drmlive.au/jio/bpk-tv/Zee_Cinema_HD_MOB/Fallback/index.m3u8
+https://mrking.site/Ozee/stream.m3u8?id=0-9-zeecinemahd
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" group-title="Movies" tvg-logo="" ,STAR GOLD HD
 https://tplay.dinesh29.com.np/live/tataplay-universal/star-gold-hd/index.ts
 #EXTINF: -1 group-title="Movies", Sony Max 2
@@ -151,7 +151,7 @@ https://port.denver1769.in/oplx3.php?id=66189
 #EXTINF: -1 tvg-name="STAR GOLD SELECT HD" group-title="Movies", STAR GOLD SELECT HD
 https://port.denver1769.in/oplx3.php?id=66176
 #EXTINF: -1 tvg-id="185" tvg-name="&Pictures HD" tvg-chno="185" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies", &Pictures HD
-http://localhost:5001/live/high/185.m3u8
+https://mrking.site/Ozee/stream.m3u8?id=0-9-tvpictureshd
 #EXTINF: -1 tvg-name="STAR GOLD 2" group-title="Movies", STAR GOLD 2
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/43919
 #EXTINF: -1 group-title="Movies", Sony Wah
@@ -185,7 +185,7 @@ http://localhost:5001/live/high/487.m3u8
 #EXTINF: -1 tvg-id="1295" tvg-name="B4U Kadak" tvg-chno="1295" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="Movies", B4U Kadak
 http://localhost:5001/live/high/1295.m3u8
 #EXTINF: -1 tvg-id="1839" tvg-name="&Pictures" tvg-chno="1839" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="Movies", &Pictures
-http://localhost:5001/live/high/1839.m3u8
+https://mrking.site/Ozee/stream.m3u8?id=0-9-pictures
 #EXTINF: -1 tvg-name="STAR GOLD" group-title="Movies", STAR GOLD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=280766&extension=ts
 #EXTINF: -1 tvg-id="ts1183" tvg-logo="" group-title="Movies", &Xplor HD
@@ -200,10 +200,6 @@ http://localhost:5001/live/high/1322.m3u8
 https://port.denver1769.in/oplx3.php?id=109966
 #EXTINF: -1 tvg-id="486" tvg-name="Bhojpuri Cinema" tvg-chno="486" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png" group-title="Movies", Bhojpuri Cinema
 http://localhost:5001/live/high/486.m3u8
-#EXTINF: -1 tvg-id="1280" tvg-name="Manoranjan TV" tvg-chno="1280" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png" group-title="Movies", Manoranjan TV
-http://localhost:5001/live/high/1280.m3u8
-#EXTINF: -1 tvg-id="1281" tvg-name="Manoranjan Movies" tvg-chno="1281" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Movies.png" group-title="Movies", Manoranjan Movies
-http://localhost:5001/live/high/1281.m3u8
 #EXTINF: -1 tvg-id="1349" tvg-name="&Prive HD" tvg-chno="1349" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="Movies", &Prive HD
 http://localhost:5001/live/high/1349.m3u8
 #EXTINF: -1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-chno="1477" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movies", Colors Cineplex HD
@@ -214,19 +210,19 @@ http://localhost:5001/live/high/1691.m3u8
 http://localhost:5001/live/high/2762.m3u8
 #EXTINF: -1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" tvg-chno="1763" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Movies", Colors Cineplex Bollywood
 http://localhost:5001/live/high/1763.m3u8
-#EXTINF: -1 tvg-id="2757" tvg-name="Zee Zest" tvg-chno="2757" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Zest_HD.png" group-title="", Zee Zest
+#EXTINF: -1 tvg-id="2757" tvg-name="Zee Zest" tvg-chno="2757" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Zest_HD.png" group-title="Lifestyle", Zee Zest
 http://localhost:5001/live/high/2757.m3u8
-#EXTINF: -1 tvg-id="164" tvg-name="Travelxp HD" tvg-chno="164" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="", Travelxp HD
+#EXTINF: -1 tvg-id="164" tvg-name="Travelxp HD" tvg-chno="164" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Lifestyle", Travelxp HD
 http://localhost:5001/live/high/164.m3u8
-#EXTINF: -1 tvg-id="479" tvg-name="TLC HD" tvg-chno="479" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="", TLC HD
+#EXTINF: -1 tvg-id="479" tvg-name="TLC HD" tvg-chno="479" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="Lifestyle", TLC HD
 http://localhost:5001/live/high/479.m3u8
-#EXTINF: -1 tvg-id="560" tvg-name="GOOD TiMES" tvg-chno="560" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png" group-title="", GOOD TiMES
+#EXTINF: -1 tvg-id="560" tvg-name="GOOD TiMES" tvg-chno="560" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png" group-title="Lifestyle", GOOD TiMES
 http://localhost:5001/live/high/560.m3u8
-#EXTINF: -1 tvg-id="561" tvg-name="Food Food" tvg-chno="561" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="", Food Food
+#EXTINF: -1 tvg-id="561" tvg-name="Food Food" tvg-chno="561" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Lifestyle", Food Food
 http://localhost:5001/live/high/561.m3u8
-#EXTINF: -1 tvg-id="1292" tvg-name="Wellness" tvg-chno="1292" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wellness_TV.png" group-title="", Wellness
+#EXTINF: -1 tvg-id="1292" tvg-name="Wellness" tvg-chno="1292" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wellness_TV.png" group-title="Lifestyle", Wellness
 http://localhost:5001/live/high/1292.m3u8
-#EXTINF: -1 tvg-id="1955" tvg-name="Foodxp" tvg-chno="1955" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_XP.png" group-title="", Foodxp
+#EXTINF: -1 tvg-id="1955" tvg-name="Foodxp" tvg-chno="1955" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_XP.png" group-title="Lifestyle", Foodxp
 http://localhost:5001/live/high/1955.m3u8
 #EXTINF: -1 tvg-id="2031" tvg-name="Fashion India" tvg-chno="2031" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Fashion_India.png" group-title="", Fashion India
 http://localhost:5001/live/high/2031.m3u8
@@ -559,7 +555,7 @@ https://live.argusnews.in/hls/argustv.m3u8
 #EXTINF: -1 tvg-id="2010" tvg-name="Ekamra Nilachakra" tvg-chno="2010" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Nilach_akra.png" group-title="Odia", Ekamra Nilachakra
 https://live.ekamraott.com/nilachakra/nilachakra/video.m3u8
 #EXTINF: -1 tvg-id="702" tvg-name="DD Odia" tvg-chno="702" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Oriya.png" group-title="Odia", DD Odia
-https://jio.drmlive.au/jio/bpk-tv/DD_Oriya_MOB/Fallback/index.m3u8
+http://localhost:5001/live/high/702.m3u8
 #EXTINF: -1 tvg-id="ts1200" tvg-name="Jatra Ekamra" tvg-chno="2227" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jatra_Ekamra.png" group-title="Odia", Jatra Ekamra
 https://live.ekamraott.com/jatra/jatra/video.m3u8
 #EXTINF: -1 tvg-id="2016" tvg-name="Ekamra Cinema" tvg-chno="2016" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Cinema.png" group-title="Odia", Ekamra Cinema
