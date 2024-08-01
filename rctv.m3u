@@ -198,8 +198,6 @@ http://iptvtree.net:8080/romaniamedia/8cc105f9f2/297547
 http://localhost:5001/live/high/1322.m3u8
 #EXTINF: -1 group-title="Movies", Sony Pix HD
 https://port.denver1769.in/oplx3.php?id=109966
-#EXTINF: -1 tvg-id="486" tvg-name="Bhojpuri Cinema" tvg-chno="486" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png" group-title="Movies", Bhojpuri Cinema
-http://localhost:5001/live/high/486.m3u8
 #EXTINF: -1 tvg-id="1349" tvg-name="&Prive HD" tvg-chno="1349" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="Movies", &Prive HD
 http://localhost:5001/live/high/1349.m3u8
 #EXTINF: -1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-chno="1477" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movies", Colors Cineplex HD
