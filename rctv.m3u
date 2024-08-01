@@ -23,7 +23,7 @@ http://port.denver1769.in/j.php?tv=41705
 #EXTINF: -1 tvg-logo="https://www.tarangtv.in/taranglogo.png" group-title="Odia", Tarang TV
 https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="722" tvg-name="Zee Sarthak" tvg-chno="722" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="Odia", Zee Sarthak
-https://jio.drmlive.au/jio/bpk-tv/Sarthak_TV_MOB/Fallback/index.m3u8
+https://mrking.site/Ozee/stream.m3u8?id=0-9-sarthaktv
 #EXTINF: -1 tvg-id="OdishaTV.in" tvg-logo="https://i.imgur.com/tCT3qL9.png" group-title="Odia", OTV
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="718" tvg-name="Kanak News" tvg-chno="718" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png" group-title="Odia", Kanak News
@@ -321,7 +321,7 @@ http://localhost:5001/live/high/858.m3u8
 #EXTINF: -1 tvg-id="876" tvg-name="Times Now World" tvg-chno="876" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" group-title="News", Times Now World
 http://localhost:5001/live/high/876.m3u8
 #EXTINF: -1 tvg-id="1251" tvg-name="TV9 Bharatvarsh" tvg-chno="1251" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png" group-title="News", TV9 Bharatvarsh
-http://localhost:5001/live/high/1251.m3u8
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 #EXTINF: -1 tvg-id="1408" tvg-name="Reporter TV" tvg-chno="1408" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Reporter_TV.png" group-title="News", Reporter TV
 http://localhost:5001/live/high/1408.m3u8
 #EXTINF: -1 tvg-id="ts805" tvg-name="Nandighosha" tvg-chno="1427" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="Odia", Nandighosha
@@ -338,10 +338,6 @@ http://localhost:5001/live/799.m3u8
 https://live.ekamraott.com/halchal/halchal/video.m3u8
 #EXTINF:-1 tvg-id= tvg-name="Ekamra Baiscope" tvg-logo="" group-title="Odia", Ekamra Baiscope
 https://live.ekamraott.com/baiscope/baiscope/video.m3u8
-#EXTINF: -1 tvg-id="1451" tvg-name="9 Bharat Samachar" tvg-chno="1451" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9_Bharat_Samachar.png" group-title="News", 9 Bharat Samachar
-http://localhost:5001/live/high/1451.m3u8
-#EXTINF: -1 tvg-id="1699" tvg-name="ANN News" tvg-chno="1699" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ANN_News.png" group-title="News", ANN News
-http://localhost:5001/live/high/1699.m3u8
 #EXTINF: -1 tvg-id="1759" tvg-name="Buletin India" tvg-chno="1759" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Buletin_India.png" group-title="News", Buletin India
 http://localhost:5001/live/high/1759.m3u8
 #EXTINF: -1 tvg-id="1886" tvg-name="Sansad TV Rajya Sabha" tvg-chno="1886" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sansad_TV_RajyaSabha.png" group-title="News", Sansad TV Rajya Sabha
