@@ -5,7 +5,7 @@ https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF: -1 group-title="Entertainment", SET HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF: -1 tvg-id="144" tvg-name="Colors HD" tvg-chno="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment", Colors HD
-https://jio.drmlive.au/jio/bpk-tv/Colors_HD_MOB/Fallback/index.m3u8
+http://localhost:5001/live/high/144.m3u8
 #EXTINF: -1 tvg-name="STAR PLUS HD" group-title="Entertainment", STAR PLUS HD
 https://port.denver1769.in/oplx3.php?id=109949
 #EXTINF: -1 group-title="Entertainment", Sony Sab HD
@@ -17,29 +17,29 @@ https://port.denver1769.in/oplx3.php?id=112977
 #EXTINF: -1 group-title="Entertainment", Sony Pal
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF: -1 tvg-id="ts115" tvg-name="Colors Odia" tvg-chno="198" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="Odia", Colors Odia
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsOriya/JCHLS/index.m3u8
+http://localhost:5001/live/high/198.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="Star Kiran" tvg-logo="" group-title="Odia", Star Kiran
 http://port.denver1769.in/j.php?tv=41705
 #EXTINF: -1 tvg-logo="https://www.tarangtv.in/taranglogo.png" group-title="Odia", Tarang TV
 https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="722" tvg-name="Zee Sarthak" tvg-chno="722" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="Odia", Zee Sarthak
-https://mrking.site/Ozee/stream.m3u8?id=0-9-sarthaktv
+http://localhost:5001/live/high/722.m3u8
 #EXTINF: -1 tvg-id="OdishaTV.in" tvg-logo="https://i.imgur.com/tCT3qL9.png" group-title="Odia", OTV
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="718" tvg-name="Kanak News" tvg-chno="718" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png" group-title="Odia", Kanak News
-https://jio.drmlive.au/jio/bpk-tv/Kanak_TV_MOB/Fallback/index.m3u8
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Prarthana_TV.png" group-title="Odia", Prarthana TV
+http://localhost:5001/live/high/718.m3u8
+#EXTINF: -1 tvg-logo="" group-title="Odia", Prarthana TV
 https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-logo="" group-title="Odia", Tarang Music
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-logo="" group-title="Odia", Alankar
 https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="1956" tvg-name="Sidharth TV" tvg-chno="1956" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_TV.png" group-title="Odia", Sidharth TV
-https://jio.drmlive.au/jio/bpk-tv/Sidharth_TV_MOB/Fallback/index.m3u8
+http://localhost:5001/live/high/1956.m3u8
 #EXTINF: -1 tvg-id="1957" tvg-name="Sidharth Gold" tvg-chno="1957" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_Gold.png" group-title="Odia", Sidharth Gold
-https://jio.drmlive.au/jio/bpk-tv/Sidharth_Gold_MOB/Fallback/index.m3u8
+http://localhost:5001/live/high/1957.m3u8
 #EXTINF: -1 tvg-id="1958" tvg-name="Sidharth Bhakti" tvg-chno="1958" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_Bhakti.png" group-title="Odia", Sidharth Bhakti
-https://jio.drmlive.au/jio/bpk-tv/Sidharth_Bhakti_MOB/Fallback/index.m3u8
+http://localhost:5001/live/high/1958.m3u8
 #EXTINF: -1 tvg-id="ts1169" tvg-name="Jay Jagannath TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/JJAG_Thumbnail-v1/JJAG_Thumbnail.png" group-title="Odia", Jay Jagannath TV
 https://tplay.dinesh29.com.np/live/tataplay-universal/jay-jagannath/index.ts
 #EXTINF: -1 tvg-name="Sony Kal" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/6/6e/Sony_Kal_Logo.jpeg" group-title="Entertainment", Sony Kal
@@ -126,7 +126,7 @@ http://localhost:5001/live/high/541.m3u8
 http://localhost:5001/live/high/566.m3u8
 #EXTINF: -1 tvg-id="568" tvg-name="Discovery Science" tvg-chno="568" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png" group-title="Infotainment", Discovery Science
 http://localhost:5001/live/high/568.m3u8
-#EXTINF: -1 tvg-id="ts367" tvg-name="Star Life HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/FOXHD_Thumbnail-v2/FOXHD_Thumbnail.png" group-title="", Star Life HD
+#EXTINF: -1 tvg-id="ts367" tvg-name="Star Life HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/FOXHD_Thumbnail-v2/FOXHD_Thumbnail.png" group-title="Lifestyle", Star Life HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=156023&extension=ts
 #EXTINF: -1 tvg-id="575" tvg-name="Discovery Channel" tvg-chno="575" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-876-j5mcolzc-v2/imageContent-876-j5mcolzc-m2.png" group-title="Infotainment", Discovery Channel
 http://localhost:5001/live/high/575.m3u8
@@ -143,7 +143,7 @@ http://localhost:5001/live/high/1162.m3u8
 #EXTINF: -1 tvg-id="2437" tvg-name="Wild Earth" tvg-chno="2437" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wild_Earth.png" group-title="Infotainment", Wild Earth
 http://localhost:5001/live/high/2437.m3u8
 #EXTINF: -1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-chno="165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies", Zee Cinema HD
-https://mrking.site/Ozee/stream.m3u8?id=0-9-zeecinemahd
+http://localhost:5001/live/high/165.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" group-title="Movies" tvg-logo="" ,STAR GOLD HD
 https://tplay.dinesh29.com.np/live/tataplay-universal/star-gold-hd/index.ts
 #EXTINF: -1 group-title="Movies", Sony Max 2
@@ -177,7 +177,7 @@ https://port.denver1769.in/oplx3.php?id=221258
 #EXTINF: -1 tvg-id="ts100" tvg-name="Zee Action" tvg-chno="488" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Movies", Zee Action
 http://localhost:5001/live/high/488.m3u8
 #EXTINF: -1 tvg-id="482" tvg-name="Colors Cineplex" tvg-chno="482" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Movies", Colors Cineplex
-https://jio.drmlive.au/jio/bpk-tv/Colors_Cineplex_MOB/Fallback/index.m3u8
+http://localhost:5001/live/high/482.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD ROMANCE" group-title="Movies", STAR GOLD ROMANCE
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=156033&extension=ts
 #EXTINF: -1 tvg-id="487" tvg-name="Zee Bollywood" tvg-chno="487" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Movies", Zee Bollywood
@@ -185,7 +185,7 @@ http://localhost:5001/live/high/487.m3u8
 #EXTINF: -1 tvg-id="1295" tvg-name="B4U Kadak" tvg-chno="1295" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="Movies", B4U Kadak
 http://localhost:5001/live/high/1295.m3u8
 #EXTINF: -1 tvg-id="1839" tvg-name="&Pictures" tvg-chno="1839" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="Movies", &Pictures
-https://mrking.site/Ozee/stream.m3u8?id=0-9-pictures
+http://localhost:5001/live/high/1839.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD" group-title="Movies", STAR GOLD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=280766&extension=ts
 #EXTINF: -1 tvg-id="ts1183" tvg-logo="" group-title="Movies", &Xplor HD
@@ -567,7 +567,7 @@ https://live.ekamraott.com/paramatma/paramatma/video.m3u8
 #EXTINF: -1 tvg-id="631" tvg-name="MBC TV" tvg-chno="631" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MBC.png" group-title="Odia", MBC TV
 http://localhost:5001/live/high/631.m3u8
 #EXTINF: -1 tvg-id="2258" tvg-name="Animax" tvg-chno="2258" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animax.png" group-title="Kids", Animax
-https://jio.drmlive.au/jio/bpk-tv/Animax_MOB/Fallback/index.m3u8
+http://localhost:5001/live/high/2258.m3u8
 #EXTINF:-1 tvg-id="rc247" tvg-epgurl="https://raw.githubusercontent.com/darad3vil014/tuntun/main/taj.xml.gz" tvg-name="Tom & Jerry" tvg-logo="https://www.redwolf.in/image/cache/catalog/artwork-Images/tom-and-jerry-design-image-438x438.jpg" group-title="Kids",Tom & Jerry
 http://port.denver1769.in/Ply/tptv.php?id=16927
 
