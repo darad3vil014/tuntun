@@ -7,7 +7,7 @@ https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF: -1 tvg-id="144" tvg-name="Colors HD" tvg-chno="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment", Colors HD
 http://localhost:5001/live/high/144.m3u8
 #EXTINF: -1 tvg-name="STAR PLUS HD" group-title="Entertainment", STAR PLUS HD
-https://port.denver1769.in/oplx3.php?id=109949
+http://rstream.me/t/8/master.m3u8?t=0cb11bbf512beeae349348fd5321d7c3a1f6d667e7edd6545eccc6259e1a0d7e2faaa02e998a8977006ce7f781112b645d812fdf084b37440d3233baf3c28970312b71f4b0fd03625b16ea
 #EXTINF: -1 group-title="Entertainment", Sony Sab HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF: -1 tvg-id="167" tvg-name="Zee TV HD" tvg-chno="167" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment", Zee TV HD
