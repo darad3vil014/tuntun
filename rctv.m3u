@@ -13,7 +13,7 @@ https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF: -1 tvg-id="167" tvg-name="Zee TV HD" tvg-chno="167" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment", Zee TV HD
 http://localhost:5001/live/high/167.m3u8
 #EXTINF: -1 tvg-name="STAR UTSAV" group-title="Entertainment", STAR UTSAV
-http://rstream.me/t/551/master.m3u8
+http://rstream.me/t/551/master.m3u8?t=0cb11bbf512beeae349348fd5321d7c3a1f6d667e7edd6545eccc6259e1a0d7e2faaa02e998a8977006ce7f781112b645d812fdf084b37440d3233baf3c28970312b71f4b0fd03625b16ea
 #EXTINF: -1 group-title="Entertainment", Sony Pal
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF: -1 tvg-id="ts115" tvg-name="Colors Odia" tvg-chno="198" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="Odia", Colors Odia
@@ -110,10 +110,8 @@ http://localhost:5001/live/high/2078.m3u8
 http://localhost:5001/live/high/2149.m3u8
 #EXTINF: -1 tvg-id="2761" tvg-name="Zee Ganga" tvg-chno="2761" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Ganga.png" group-title="Entertainment", Zee Ganga
 http://localhost:5001/live/high/2761.m3u8
-#EXTINF: -1 tvg-name="STAR PLUS" group-title="Entertainment", STAR PLUS
-https://port.denver1769.in/oplx3.php?id=221252
 #EXTINF: -1 tvg-name="STAR BHARAT HD" group-title="Entertainment", STAR BHARAT HD
-https://port.denver1769.in/oplx3.php?id=109951
+http://rstream.me/t/244/master.m3u8?t=0cb11bbf512beeae349348fd5321d7c3a1f6d667e7edd6545eccc6259e1a0d7e2faaa02e998a8977006ce7f781112b645d812fdf084b37440d3233baf3c28970312b71f4b0fd03625b16ea
 #EXTINF: -1 group-title="Infotainment", Sony BBC Earth
 https://port.denver1769.in/oplx3.php?id=355552
 #EXTINF: -1 tvg-id="286" tvg-name="Animal Planet HD World" tvg-chno="286" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="Infotainment", Animal Planet HD World
@@ -145,19 +143,19 @@ http://localhost:5001/live/high/2437.m3u8
 #EXTINF: -1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-chno="165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies", Zee Cinema HD
 http://localhost:5001/live/high/165.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" group-title="Movies" tvg-logo="" ,STAR GOLD HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/star-gold-hd/index.ts
-#EXTINF: -1 group-title="Movies", Sony Max 2
+http://rstream.me/t/245/master.m3u8?t=0cb11bbf512beeae349348fd5321d7c3a1f6d667e7edd6545eccc6259e1a0d7e2faaa02e998a8977006ce7f781112b645d812fdf084b37440d3233baf3c28970312b71f4b0fd03625b16ea
+#EXTINF: -1 group-title="Movies" tvg-logo="", Sony Max 2
 https://port.denver1769.in/oplx3.php?id=66189
 #EXTINF: -1 tvg-name="STAR GOLD SELECT HD" group-title="Movies", STAR GOLD SELECT HD
 https://port.denver1769.in/oplx3.php?id=66176
 #EXTINF: -1 tvg-id="185" tvg-name="&Pictures HD" tvg-chno="185" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies", &Pictures HD
-https://mrking.site/Ozee/stream.m3u8?id=0-9-tvpictureshd
+http://localhost:5001/live/high/185.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD 2" group-title="Movies", STAR GOLD 2
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/43919
 #EXTINF: -1 group-title="Movies", Sony Wah
 https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF: -1 tvg-id="ts823" tvg-name="Goldmines" group-title="Movies", Goldmines
-https://tplay.dinesh29.com.np/live/tataplay-universal/goldmines/index.ts
+http://rstream.me/t/823/master.m3u8?t=0cb11bbf512beeae349348fd5321d7c3a1f6d667e7edd6545eccc6259e1a0d7e2faaa02e998a8977006ce7f781112b645d812fdf084b37440d3233baf3c28970312b71f4b0fd03625b16ea
 #EXTINF: -1 tvg-id="" tvg-name="Goldmines Bollywood" tvg-logo="https://raw.githubusercontent.com/darad3vil014/tuntun/main/gmb.jpg" group-title="Movies", Goldmines Bollywood
 https://port.denver1769.in/oplx3.php?id=112973
 #EXTINF:-1 tvg-id="87417" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20220801_200458_68.png" group-title="Movies",Bollywood Classic
@@ -227,7 +225,7 @@ http://localhost:5001/live/high/2031.m3u8
 #EXTINF: -1 tvg-id="816" tvg-name="Cartoon Network" tvg-chno="816" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids", Cartoon Network
 http://localhost:5001/live/high/816.m3u8
 #EXTINF: -1 tvg-id="ts345" tvg-name="Hungama" group-title="Kids", Hungama
-https://port.denver1769.in/oplx3.php?id=150480
+http://rstream.me/t/345/master.m3u8?t=0cb11bbf512beeae349348fd5321d7c3a1f6d667e7edd6545eccc6259e1a0d7e2faaa02e998a8977006ce7f781112b645d812fdf084b37440d3233baf3c28970312b71f4b0fd03625b16ea
 #EXTINF: -1 tvg-name="Disney" group-title="Kids", Disney
 https://port.denver1769.in/oplx3.php?id=167551
 #EXTINF: -1 tvg-logo="" tvg-name="Sony YAY!" group-title="Kids", Sony YAY!
