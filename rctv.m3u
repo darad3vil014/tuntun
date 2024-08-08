@@ -496,8 +496,6 @@ https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 2 HD" group-title="Sports", STAR SPORTS 2 HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=1114581&extension=ts
-#EXTINF: -1 tvg-name="STAR SPORTS SELECT 1 HD" group-title="Sports", STAR SPORTS SELECT 1 HD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=1114583&extension=ts
 #EXTINF: -1 tvg-id="204" tvg-name="DD Sports" tvg-chno="204" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports", DD Sports
 http://localhost:5001/live/high/204.m3u8
 #EXTINF: -1 tvg-id="1163" tvg-name="JioGames HD" tvg-chno="1163" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Esports_HD.png" group-title="Sports", JioGames HD
