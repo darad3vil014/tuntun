@@ -40,8 +40,8 @@ http://localhost:5001/live/high/1956.m3u8
 http://localhost:5001/live/high/1957.m3u8
 #EXTINF: -1 tvg-id="1958" tvg-name="Sidharth Bhakti" tvg-chno="1958" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_Bhakti.png" group-title="Odia", Sidharth Bhakti
 http://localhost:5001/live/high/1958.m3u8
-#EXTINF: -1 tvg-id="ts1169" tvg-name="Jay Jagannath TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/JJAG_Thumbnail-v1/JJAG_Thumbnail.png" group-title="Odia", Jay Jagannath TV
-https://tplay.dinesh29.com.np/live/tataplay-universal/jay-jagannath/index.ts
+#EXTINF: -1 tvg-id="ts1169" tvg-name="Jay Jagannath TV" tvg-logo="" group-title="Odia", Jay Jagannath TV
+http://rstream.me/t/1169/master.m3u8?t=0cb11bbf512beeae349348fd5321d7c3a1f6d667e7edd6545eccc6259e1a0d7e2faaa02e998a8977006ce7f781112b645d812fdf084b37440d3233baf3c28970312b71f4b0fd03625b16ea
 #EXTINF: -1 tvg-name="Sony Kal" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/6/6e/Sony_Kal_Logo.jpeg" group-title="Entertainment", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_3000k.m3u8
 #EXTINF: -1 tvg-id="202" tvg-name="DD National" tvg-chno="202" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment", DD National
@@ -113,7 +113,7 @@ http://localhost:5001/live/high/2761.m3u8
 #EXTINF: -1 tvg-name="STAR BHARAT HD" group-title="Entertainment", STAR BHARAT HD
 http://rstream.me/t/244/master.m3u8?t=0cb11bbf512beeae349348fd5321d7c3a1f6d667e7edd6545eccc6259e1a0d7e2faaa02e998a8977006ce7f781112b645d812fdf084b37440d3233baf3c28970312b71f4b0fd03625b16ea
 #EXTINF: -1 group-title="Infotainment", Sony BBC Earth
-https://port.denver1769.in/oplx3.php?id=355552
+http://rstream.me/t/158/master.m3u8?t=0cb11bbf512beeae349348fd5321d7c3a1f6d667e7edd6545eccc6259e1a0d7e2faaa02e998a8977006ce7f781112b645d812fdf084b37440d3233baf3c28970312b71f4b0fd03625b16ea
 #EXTINF: -1 tvg-id="286" tvg-name="Animal Planet HD World" tvg-chno="286" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="Infotainment", Animal Planet HD World
 http://localhost:5001/live/high/286.m3u8
 #EXTINF: -1 tvg-id="463" tvg-name="Discovery HD World" tvg-chno="463" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png" group-title="Infotainment", Discovery HD World
@@ -145,7 +145,7 @@ http://localhost:5001/live/high/165.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" group-title="Movies" tvg-logo="" ,STAR GOLD HD
 http://rstream.me/t/245/master.m3u8?t=0cb11bbf512beeae349348fd5321d7c3a1f6d667e7edd6545eccc6259e1a0d7e2faaa02e998a8977006ce7f781112b645d812fdf084b37440d3233baf3c28970312b71f4b0fd03625b16ea
 #EXTINF: -1 group-title="Movies" tvg-logo="", Sony Max 2
-https://port.denver1769.in/oplx3.php?id=66189
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD SELECT HD" group-title="Movies", STAR GOLD SELECT HD
 https://port.denver1769.in/oplx3.php?id=66176
 #EXTINF: -1 tvg-id="185" tvg-name="&Pictures HD" tvg-chno="185" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies", &Pictures HD
@@ -195,7 +195,7 @@ http://iptvtree.net:8080/romaniamedia/8cc105f9f2/297547
 #EXTINF: -1 tvg-id="1322" tvg-name="&Flix HD" tvg-chno="1322" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="Movies", &Flix HD
 http://localhost:5001/live/high/1322.m3u8
 #EXTINF: -1 group-title="Movies", Sony Pix HD
-https://port.denver1769.in/oplx3.php?id=109966
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF: -1 tvg-id="1349" tvg-name="&Prive HD" tvg-chno="1349" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="Movies", &Prive HD
 http://localhost:5001/live/high/1349.m3u8
 #EXTINF: -1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-chno="1477" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movies", Colors Cineplex HD
@@ -484,15 +484,15 @@ http://localhost:5001/live/high/2754.m3u8
 http://localhost:5001/live/high/2755.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 1 HINDI HD" tvg-logo="" group-title="Sports", STAR SPORTS 1 HINDI HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=1114582&extension=ts
-#EXTINF: -1 tvg-id="ts81" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/9/9e/Sony_Sports_Ten_1_2022.png" group-title="Sports", Sony Ten 1 HD
+#EXTINF: -1 tvg-id="ts81" tvg-logo="" group-title="Sports", Sony Ten 1 HD
 http://port.denver1769.in/ulpl2.php?tv=3557
-#EXTINF: -1 tvg-id="ts462" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_SD.png" group-title="Sports", Sony Ten 2 HD
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF: -1 tvg-id="ts464" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_SD.png" group-title="Sports", Sony Ten 3 HD
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF: -1 tvg-id="ts1192" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_SD.png" group-title="Sports", Sony Ten 4 HD
+#EXTINF: -1 tvg-id="ts462" tvg-logo="" group-title="Sports", Sony Ten 2 HD
+https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF: -1 tvg-id="ts464" tvg-logo="" group-title="Sports", Sony Ten 3 HD
+https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF: -1 tvg-id="ts1192" tvg-logo="" group-title="Sports", Sony Ten 4 HD
 https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
-#EXTINF: -1 tvg-id="ts35" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_SD.png" group-title="Sports", Sony Ten 5 HD
+#EXTINF: -1 tvg-id="ts35" tvg-logo="" group-title="Sports", Sony Ten 5 HD
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 2 HD" group-title="Sports", STAR SPORTS 2 HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=1114581&extension=ts
