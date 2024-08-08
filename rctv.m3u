@@ -520,30 +520,16 @@ http://localhost:5001/live/high/2183.m3u8
 http://localhost:5001/live/high/2766.m3u8
 #EXTINF: -1 tvg-name="ASTRO CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Sports", ASTRO CRICKET
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=315181&extension=ts
-#EXTINF: -1 tvg-name="STAR SPORTS 1 HINDI HD" tvg-logo="" group-title="Sports", STAR SPORTS 1 HINDI HD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155967&extension=ts
 #EXTINF: -1 tvg-name="STAR SPORTS 1 HD" tvg-logo="" group-title="Sports", STAR SPORTS 1 HD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=1114580&extension=ts
-#EXTINF: -1 tvg-name="STAR SPORTS 1" tvg-logo="" group-title="Sports", STAR SPORTS 1
-http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=282677&extension=ts
+http://rstream.me/t/78/master.m3u8?t=0cb11bbf512beeae349348fd5321d7c3a1f6d667e7edd6545eccc6259e1a0d7e2faaa02e998a8977006ce7f781112b645d812fdf084b37440d3233baf3c28970312b71f4b0fd03625b16ea
 #EXTINF: -1 tvg-name="STAR SPORTS 2 HD" tvg-logo="" group-title="Sports", STAR SPORTS 2 HD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155966&extension=ts
-#EXTINF: -1 tvg-name="STAR SPORTS 2" group-title="Sports", STAR SPORTS 2
-http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=282673&extension=ts
+http://rstream.me/t/235/master.m3u8?t=0cb11bbf512beeae349348fd5321d7c3a1f6d667e7edd6545eccc6259e1a0d7e2faaa02e998a8977006ce7f781112b645d812fdf084b37440d3233baf3c28970312b71f4b0fd03625b16ea
 #EXTINF: -1 tvg-name="STAR SPORTS 3" tvg-logo="" group-title="Sports", STAR SPORTS 3
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155976&extension=ts
-#EXTINF: -1 tvg-name="STAR SPORTS 3" tvg-logo="" group-title="Sports", STAR SPORTS 3
-http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=282678&extension=ts
 #EXTINF: -1 tvg-name="STAR SPORTS SELECT 1 HD" group-title="Sports", STAR SPORTS SELECT 1 HD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155972&extension=ts
-#EXTINF: -1 tvg-name="STAR SPORTS SELECT 1" group-title="Sports", STAR SPORTS SELECT 1
-http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=282675&extension=ts
+http://rstream.me/t/246/master.m3u8?t=0cb11bbf512beeae349348fd5321d7c3a1f6d667e7edd6545eccc6259e1a0d7e2faaa02e998a8977006ce7f781112b645d812fdf084b37440d3233baf3c28970312b71f4b0fd03625b16ea
 #EXTINF: -1 tvg-name="STAR SPORTS SELECT 2 HD" group-title="Sports", STAR SPORTS SELECT 2 HD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=1114584&extension=ts
-#EXTINF: -1 tvg-name="STAR SPORTS SELECT 2 HD" group-title="Sports", STAR SPORTS SELECT 2 HD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155973&extension=ts
-#EXTINF: -1 tvg-name="STAR SPORTS SELECT 2" group-title="Sports", STAR SPORTS SELECT 2
-http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=282676&extension=ts
+http://rstream.me/t/463/master.m3u8?t=0cb11bbf512beeae349348fd5321d7c3a1f6d667e7edd6545eccc6259e1a0d7e2faaa02e998a8977006ce7f781112b645d812fdf084b37440d3233baf3c28970312b71f4b0fd03625b16ea
 #EXTINF: -1 tvg-id="ts448" tvg-name="Prameya News 7" tvg-chno="779" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prameya_News_7.png" group-title="Odia", Prameya News 7
 https://server.livelegitpro.in/prameyanews7/prameyanews7/index.fmp4.m3u8
 #EXTINF: -1 tvg-id="1481" tvg-name="Argus News" tvg-chno="1481" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Argus_TV.png" group-title="Odia", Argus News
@@ -566,7 +552,3 @@ https://live.ekamraott.com/paramatma/paramatma/video.m3u8
 http://localhost:5001/live/high/631.m3u8
 #EXTINF: -1 tvg-id="2258" tvg-name="Animax" tvg-chno="2258" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animax.png" group-title="Kids", Animax
 http://localhost:5001/live/high/2258.m3u8
-#EXTINF:-1 tvg-id="rc247" tvg-epgurl="https://raw.githubusercontent.com/darad3vil014/tuntun/main/taj.xml.gz" tvg-name="Tom & Jerry" tvg-logo="https://www.redwolf.in/image/cache/catalog/artwork-Images/tom-and-jerry-design-image-438x438.jpg" group-title="Kids",Tom & Jerry
-http://port.denver1769.in/Ply/tptv.php?id=16927
-
-  
