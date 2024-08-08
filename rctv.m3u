@@ -7,13 +7,13 @@ https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF: -1 tvg-id="144" tvg-name="Colors HD" tvg-chno="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment", Colors HD
 http://localhost:5001/live/high/144.m3u8
 #EXTINF: -1 tvg-name="STAR PLUS HD" group-title="Entertainment", STAR PLUS HD
-https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=8
+http://tv.cloudcdn.me/live.ts?channelId=200&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF: -1 group-title="Entertainment", Sony Sab HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF: -1 tvg-id="167" tvg-name="Zee TV HD" tvg-chno="167" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment", Zee TV HD
 http://localhost:5001/live/high/167.m3u8
 #EXTINF: -1 tvg-name="STAR UTSAV" group-title="Entertainment", STAR UTSAV
-http://rstream.me/t/551/master.m3u8?t=0cb11bbf512beeae349348fd5321d7c3a1f6d667e7edd6545eccc6259e1a0d7e2faaa02e998a8977006ce7f781112b645d812fdf084b37440d3233baf3c28970312b71f4b0fd03625b16ea
+http://tv.cloudcdn.me/live.ts?channelId=12364&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF: -1 group-title="Entertainment", Sony Pal
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF: -1 tvg-id="ts115" tvg-name="Colors Odia" tvg-chno="198" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="Odia", Colors Odia
@@ -143,15 +143,15 @@ http://localhost:5001/live/high/2437.m3u8
 #EXTINF: -1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-chno="165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies", Zee Cinema HD
 http://localhost:5001/live/high/165.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" group-title="Movies" tvg-logo="" ,STAR GOLD HD
-http://rstream.me/t/245/master.m3u8?t=0cb11bbf512beeae349348fd5321d7c3a1f6d667e7edd6545eccc6259e1a0d7e2faaa02e998a8977006ce7f781112b645d812fdf084b37440d3233baf3c28970312b71f4b0fd03625b16ea
+http://185.156.74.131:25461/live/685034/245521/85561.m3u8?token=ShRZAEYJFQxGXF9dVAFVVAYPCAAADAkPVFBVVQdXUQdXV1RZVFIOD1UaShpGQUQDVlVuXFUXAw4AVwEGHRYTFVREbghRQw0UVQlTCwcDFEoVTFhYVBcDBhlAR15VFlxEAAcFVQdDGxQBQBJdR1tXCmhcVENYVlwUDwxCW10YRAlfaVUEWABZUkYCRAkXGRQPREgTD19AVVoZQFVeRUYHElQUCw9ADVsaRlsJTVtBRB8VAhN2cBcVFFAaQ1JfRw8JXxQLQ1hSQg5GFERRRmpEA0RMQ1BQWFxEF1gVBxMYRAtQTm4CWg9ZUwdMD1dbRhRcFQkTGRNYVlhcFlhFbkQPAhMME1AEVAYGRkU=
 #EXTINF: -1 group-title="Movies" tvg-logo="", Sony Max 2
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD SELECT HD" group-title="Movies", STAR GOLD SELECT HD
-https://port.denver1769.in/oplx3.php?id=66176
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451268.ts
 #EXTINF: -1 tvg-id="185" tvg-name="&Pictures HD" tvg-chno="185" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies", &Pictures HD
 http://localhost:5001/live/high/185.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD 2" group-title="Movies", STAR GOLD 2
-http://iptvtree.net:8080/romaniamedia/8cc105f9f2/43919
+http://premiumdedi.one/Jubilant7Relative/xmb1HEJBsY/451521
 #EXTINF: -1 group-title="Movies", Sony Wah
 https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF: -1 tvg-id="ts823" tvg-name="Goldmines" group-title="Movies", Goldmines
@@ -483,7 +483,7 @@ http://localhost:5001/live/high/2754.m3u8
 #EXTINF: -1 tvg-id="2755" tvg-name="Saregama Hum Bhojpuri" tvg-chno="2755" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saregama_Hum_Bhojpuri.png" group-title="Music", Saregama Hum Bhojpuri
 http://localhost:5001/live/high/2755.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 1 HINDI HD" tvg-logo="" group-title="Sports", STAR SPORTS 1 HINDI HD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=1114582&extension=ts
+http://185.156.74.131:25461/live/685034/245521/85565.m3u8?token=ShRZAEYJFQxGW19aBlYPVAAIU1ZQBV1QUFoPAgYNXlEFV1AHAgQAAlEaShpGQUQDVlVuXFUXAw4AVwECHRYTFVREbghRQw0UVQlTCwcDFEoVTFhYVBcDBhlAR15VFlwIRFpdTRcET0IBSghZWWpSA0FRUlATD1dDWQ4bFV5aOQJUW1APUUMNFFUaShpcRkZEDVZEWV0ZG1RcFkVWRVFEXF9DXQ0ZQ1RZEVYSSkwXDER0eRMZE1BBQlAMRF5eWkRcE1sCFA1DGxQNSzlKUEZCFFJZXFBDFwMUBUAbFVxVHjlSWV8PUAJDXwtWFRoPFwdEGxpcWl9cTVlHPUdeVRZcCERaXRw=
 #EXTINF: -1 tvg-id="ts81" tvg-logo="" group-title="Sports", Sony Ten 1 HD
 http://port.denver1769.in/ulpl2.php?tv=3557
 #EXTINF: -1 tvg-id="ts462" tvg-logo="" group-title="Sports", Sony Ten 2 HD
@@ -495,15 +495,15 @@ https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #EXTINF: -1 tvg-id="ts35" tvg-logo="" group-title="Sports", Sony Ten 5 HD
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 1 HD" tvg-logo="" group-title="Sports", STAR SPORTS 1 HD
-http://rstream.me/t/78/master.m3u8?t=0cb11bbf512beeae349348fd5321d7c3a1f6d667e7edd6545eccc6259e1a0d7e2faaa02e998a8977006ce7f781112b645d812fdf084b37440d3233baf3c28970312b71f4b0fd03625b16ea
+http://185.156.74.131:25461/live/685034/245521/85564.m3u8?token=ShRZAEYJFQxGDgBbUwYEUgBcBldXU1xVBgQHVQINUgMHBAgDAlgFV1waShpGQUQDVlVuXFUXAw4AVwEDHRYTFVREbghRQw0UVQlTCwcDFEoVTFhYVBcDBhlAR15VFlwIRFpdTRcET0IBSghZWWpSA0FRUlATD1dDWQ4bFV5aOQJUW1APUUMNFFUaShpcRkZEDVZEWV0ZG1RcFkVWRVFEXF9DXQ0ZQ1RZEVYSSkwXDERlbRMZE1BBQlAMRF5eWkRcE1sCFA1DGxQNSzlKUEZCFFJZXFBDFwMUBUAbFVxVHjlSWV8PUAJDXwtWFRoPFwdEGxpcWl9cTVlHPUdeVRZcCERaXRw=
 #EXTINF: -1 tvg-name="STAR SPORTS 2 HD" tvg-logo="" group-title="Sports", STAR SPORTS 2 HD
-http://rstream.me/t/235/master.m3u8?t=0cb11bbf512beeae349348fd5321d7c3a1f6d667e7edd6545eccc6259e1a0d7e2faaa02e998a8977006ce7f781112b645d812fdf084b37440d3233baf3c28970312b71f4b0fd03625b16ea
+http://185.156.74.131:25461/live/685034/245521/85566.m3u8?token=ShRZAEYJFQxGWlZbVgNSAlZZVFEHAQEDBFFVBFAAVFZTV1UCDAcCDgYaShpGQUQDVlVuXFUXAw4AVwEBHRYTFVREbghRQw0UVQlTCwcDFEoVTFhYVBcDBhlAR15VFlwIRFpdTRcET0IBSghZWWpSA0FRUlATD1dDWQ4bFV5aOQJUW1APUUMNFFUaShpcRkZEDVZEWV0ZG1RcFkVWRVFEXF9DXQ0ZQ1RZEVYSSkwXDERlbRMZE1BBQlAMRF5eWkRcE1sCFA1DGxQNSzlKUEZCFFJZXFBDFwMUBUAbFVxVHjlSWV8PUAJDXwtWFRoPFwdEGxpcWl9cTVlHPUdeVRZcCERaXRw=
 #EXTINF: -1 tvg-name="STAR SPORTS 3" tvg-logo="" group-title="Sports", STAR SPORTS 3
-http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155976&extension=ts
+http://185.156.74.131:25461/live/685034/245521/85652.m3u8?token=ShRZAEYJFQxGDAUMUQAHV1ZaBVEIAloPB1oBBgQNBQcCBVQCBgQGUAAaShpGQUQDVlVuXFUXAw4AVAIFHRYTFVREbghRQw0UVQlTCwcDFEoVTFhYVBcDBhlAR15VFlwIRFpdTRcET0IBSghZWWpSA0FRUlATD1dDWQ4bFV5aOQJUW1APUUMNFFUaShpcRkZEDVZEWV0ZG1RcFkVWRVFEXF9DXQ0ZQ1RZEVYSSkwXDERlbRMZE1BBQlAMRF5eWkRcE1sCFA1DGxQNSzlKUEZCFFJZXFBDFwMUBUAbFVxVHjlSWV8PUAJDXwtWFRoPFwdEGxpcWl9cTVlHPUdeVRZcCERaXRw=
 #EXTINF: -1 tvg-name="STAR SPORTS SELECT 1 HD" group-title="Sports", STAR SPORTS SELECT 1 HD
-http://rstream.me/t/246/master.m3u8?t=0cb11bbf512beeae349348fd5321d7c3a1f6d667e7edd6545eccc6259e1a0d7e2faaa02e998a8977006ce7f781112b645d812fdf084b37440d3233baf3c28970312b71f4b0fd03625b16ea
+http://premiumdedi.one/Jubilant7Relative/xmb1HEJBsY/451471
 #EXTINF: -1 tvg-name="STAR SPORTS SELECT 2 HD" group-title="Sports", STAR SPORTS SELECT 2 HD
-http://rstream.me/t/463/master.m3u8?t=0cb11bbf512beeae349348fd5321d7c3a1f6d667e7edd6545eccc6259e1a0d7e2faaa02e998a8977006ce7f781112b645d812fdf084b37440d3233baf3c28970312b71f4b0fd03625b16ea
+http://176.119.29.52/live.ts?channelId=300&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF: -1 tvg-id="204" tvg-name="DD Sports" tvg-chno="204" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports", DD Sports
 http://localhost:5001/live/high/204.m3u8
 #EXTINF: -1 tvg-id="1163" tvg-name="JioGames HD" tvg-chno="1163" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Esports_HD.png" group-title="Sports", JioGames HD
