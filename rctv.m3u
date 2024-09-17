@@ -18,7 +18,7 @@ http://tv.cloudcdn.me/live.ts?channelId=12364&uid=7245&deviceMac=00:1A:79:B0:A9:
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF: -1 tvg-id="ts115" tvg-name="Colors Odia" tvg-chno="198" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="Odia", Colors Odia
 http://localhost:5001/live/high/198.m3u8
-#EXTINF: -1 tvg-logo="https://www.tarangtv.in/taranglogo.png" group-title="Odia", Tarang TV
+#EXTINF: -1 tvg-logo="" group-title="Odia", Tarang TV
 https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="722" tvg-name="Zee Sarthak" tvg-chno="722" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="Odia", Zee Sarthak
 http://localhost:5001/live/high/722.m3u8
