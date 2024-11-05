@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/raw/main/tataplay/epg.xml.gz"
 #EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/raw/main/jiotv/epg.xml.gz"
-#EXTINF: -1 group-title="Mass Movies", Trisha On The Rocks
-https://i-cdn-0.kamitor316opk.com/stream2/i-cdn-0/16013505ec8a43cd97b5e145e85ce621/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT210VJBTWUNmMPRVR59ERkhWTEVEMNJjTo1EVahmWElkMNR0Z00EVrBjTtFVP:1728990935:103.209.175.118:a315263fd3e109947872d0f93009751eaea82dc598bd68dee421ad2b19212203/index.m3u8
 #EXTINF: -1 group-title="Movies", Sony Max HD
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF: -1 group-title="Entertainment", SET HD
@@ -141,7 +139,7 @@ http://localhost:5001/live/high/1162.m3u8
 #EXTINF: -1 tvg-id="2437" tvg-name="Wild Earth" tvg-chno="2437" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wild_Earth.png" group-title="Infotainment", Wild Earth
 http://localhost:5001/live/high/2437.m3u8
 #EXTINF: -1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-chno="165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies", Zee Cinema HD
-http://sansat.net:88/g25/ZNaMXGCdLDVne0g/100804
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" group-title="Movies" tvg-logo="" ,STAR GOLD HD
 http://185.156.74.131:25461/live/685034/245521/85561.m3u8?token=ShRZAEYJFQxGXF9dVAFVVAYPCAAADAkPVFBVVQdXUQdXV1RZVFIOD1UaShpGQUQDVlVuXFUXAw4AVwEGHRYTFVREbghRQw0UVQlTCwcDFEoVTFhYVBcDBhlAR15VFlxEAAcFVQdDGxQBQBJdR1tXCmhcVENYVlwUDwxCW10YRAlfaVUEWABZUkYCRAkXGRQPREgTD19AVVoZQFVeRUYHElQUCw9ADVsaRlsJTVtBRB8VAhN2cBcVFFAaQ1JfRw8JXxQLQ1hSQg5GFERRRmpEA0RMQ1BQWFxEF1gVBxMYRAtQTm4CWg9ZUwdMD1dbRhRcFQkTGRNYVlhcFlhFbkQPAhMME1AEVAYGRkU=
 #EXTINF: -1 group-title="Movies" tvg-logo="", Sony Max 2
