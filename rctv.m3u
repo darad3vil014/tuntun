@@ -17,11 +17,11 @@ http://tv.cloudcdn.me/live.ts?channelId=12364&uid=7245&deviceMac=00:1A:79:B0:A9:
 #EXTINF: -1 group-title="Entertainment", Sony Pal
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF: -1 tvg-id="ts115" tvg-name="Colors Odia" tvg-chno="198" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="Odia", Colors Odia
-http://localhost:5001/live/high/198.m3u8
+https://drmlive.in/jiocinema/web/198.m3u8
 #EXTINF: -1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TARANG_TV.jpg/1200px-TARANG_TV.jpg" tvg-name="Tarang TV" group-title="Odia", Tarang TV
 https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="722" tvg-name="Zee Sarthak" tvg-chno="722" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="Odia", Zee Sarthak
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak1/default/Zeesarthak1.m3u8
+https://zee5.drmlive.in/cmaf/live/2105541/ZeeSarthakELE/master.m3u8
 #EXTINF: -1 tvg-id="OdishaTV.in" tvg-logo="https://i.imgur.com/tCT3qL9.png" group-title="Odia", OTV
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="718" tvg-name="Kanak News" tvg-chno="718" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png" group-title="Odia", Kanak News
@@ -139,7 +139,7 @@ http://localhost:5001/live/high/1162.m3u8
 #EXTINF: -1 tvg-id="2437" tvg-name="Wild Earth" tvg-chno="2437" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wild_Earth.png" group-title="Infotainment", Wild Earth
 http://localhost:5001/live/high/2437.m3u8
 #EXTINF: -1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-chno="165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies", Zee Cinema HD
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index.m3u8
+https://zee5.drmlive.in/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" group-title="Movies" tvg-logo="" ,STAR GOLD HD
 http://185.156.74.131:25461/live/685034/245521/85561.m3u8?token=ShRZAEYJFQxGXF9dVAFVVAYPCAAADAkPVFBVVQdXUQdXV1RZVFIOD1UaShpGQUQDVlVuXFUXAw4AVwEGHRYTFVREbghRQw0UVQlTCwcDFEoVTFhYVBcDBhlAR15VFlxEAAcFVQdDGxQBQBJdR1tXCmhcVENYVlwUDwxCW10YRAlfaVUEWABZUkYCRAkXGRQPREgTD19AVVoZQFVeRUYHElQUCw9ADVsaRlsJTVtBRB8VAhN2cBcVFFAaQ1JfRw8JXxQLQ1hSQg5GFERRRmpEA0RMQ1BQWFxEF1gVBxMYRAtQTm4CWg9ZUwdMD1dbRhRcFQkTGRNYVlhcFlhFbkQPAhMME1AEVAYGRkU=
 #EXTINF: -1 group-title="Movies" tvg-logo="", Sony Max 2
@@ -147,7 +147,7 @@ https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD SELECT HD" group-title="Movies", STAR GOLD SELECT HD
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451268.ts
 #EXTINF: -1 tvg-id="185" tvg-name="&Pictures HD" tvg-chno="185" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies", &Pictures HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/Andpictureshd1.m3u8
+https://zee5.drmlive.in/cmaf/live/2105174/ANDPicturesHDELE/index-connected.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD 2" group-title="Movies", STAR GOLD 2
 http://premiumdedi.one/Jubilant7Relative/xmb1HEJBsY/451521
 #EXTINF: -1 group-title="Movies", Sony Wah
