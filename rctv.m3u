@@ -233,15 +233,15 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/super-hungama/index.ts
 #EXTINF:-1 tvg-id="ts144" group-title="Kids" tvg-logo="" ,Disney Junior
 https://tplay.dinesh29.com.np/live/tataplay-universal/disney-junior/index.ts
 #EXTINF: -1 tvg-id="545" tvg-name="Nick" tvg-chno="545" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids", Nick
-http://localhost:5001/live/high/545.m3u8
+https://drmlive.in/jiocinema/web/545.m3u8
 #EXTINF: -1 tvg-id="554" tvg-name="Discovery Kids" tvg-chno="554" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Kids", Discovery Kids
 http://localhost:5001/live/high/554.m3u8
 #EXTINF: -1 tvg-id="559" tvg-name="Pogo" tvg-chno="559" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids", Pogo
 http://localhost:5001/live/high/559.m3u8
 #EXTINF: -1 tvg-id="1226" tvg-name="Nick HD+" tvg-chno="1226" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="Kids", Nick HD+
-http://localhost:5001/live/high/1226.m3u8
+https://drmlive.in/jiocinema/web/1226.m3u8
 #EXTINF: -1 tvg-id="544" tvg-name="Nick Jr" tvg-chno="544" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids", Nick Jr
-http://localhost:5001/live/high/544.m3u8
+https://drmlive.in/jiocinema/web/544.m3u8
 #EXTINF: -1 tvg-id="815" tvg-name="Sonic Nickelodeon" tvg-chno="815" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids", Sonic Nickelodeon
 http://localhost:5001/live/high/815.m3u8
 #EXTINF: -1 tvg-id="1216" tvg-name="Highbrow" tvg-chno="1216" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png" group-title="Kids", Highbrow
