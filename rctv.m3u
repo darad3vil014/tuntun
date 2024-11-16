@@ -238,7 +238,7 @@ https://drmlive.in/jiocinema/web/545.m3u8
 http://localhost:5001/live/high/554.m3u8
 #EXTINF: -1 tvg-id="559" tvg-name="Pogo" tvg-chno="559" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids", Pogo
 http://localhost:5001/live/high/559.m3u8
-#EXTINF: -1 tvg-id="1226" tvg-name="Nick HD+" tvg-chno="1226" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="Kids", Nick HD+
+#EXTINF: -1 tvg-id="1226" tvg-name="Nick HD+" tvg-chno="1226" tvg-logo="" group-title="Kids", Nick HD+
 https://drmlive.in/jiocinema/web/1226.m3u8
 #EXTINF: -1 tvg-id="544" tvg-name="Nick Jr" tvg-chno="544" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids", Nick Jr
 https://drmlive.in/jiocinema/web/544.m3u8
