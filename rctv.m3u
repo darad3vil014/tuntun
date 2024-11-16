@@ -77,7 +77,7 @@ http://localhost:5001/live/high/1066.m3u8
 #EXTINF: -1 tvg-id="1157" tvg-name="Comedy Central HD" tvg-chno="1157" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="Entertainment", Comedy Central HD
 http://localhost:5001/live/high/1157.m3u8
 #EXTINF: -1 tvg-id="1158" tvg-name="Colors Infinity HD" tvg-chno="1158" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Entertainment", Colors Infinity HD
-http://localhost:5001/live/high/1158.m3u8
+https://drmlive.in/jiocinema/web/1158.m3u8
 #EXTINF: -1 tvg-id="1232" tvg-name="Hi Dost!" tvg-chno="1232" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="Entertainment", Hi Dost!
 http://localhost:5001/live/high/1232.m3u8
 #EXTINF: -1 tvg-id="1279" tvg-name="Manoranjan Grand" tvg-chno="1279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Grand.png" group-title="Entertainment", Manoranjan Grand
@@ -197,7 +197,7 @@ https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF: -1 tvg-id="1349" tvg-name="&Prive HD" tvg-chno="1349" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="Movies", &Prive HD
 http://localhost:5001/live/high/1349.m3u8
 #EXTINF: -1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-chno="1477" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movies", Colors Cineplex HD
-http://localhost:5001/live/high/1477.m3u8
+https://drmlive.in/jiocinema/web/1477.m3u8    
 #EXTINF: -1 tvg-id="1691" tvg-name="Zee Classic" tvg-chno="1691" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic_SD.png" group-title="Movies", Zee Classic
 http://localhost:5001/live/high/1691.m3u8
 #EXTINF: -1 tvg-id="2762" tvg-name="NH Studioz" tvg-chno="2762" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NH_Studioz.png" group-title="Movies", NH Studioz
