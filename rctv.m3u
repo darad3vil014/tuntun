@@ -21,7 +21,7 @@ https://drmlive.in/jiocinema/web/198.m3u8
 #EXTINF: -1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TARANG_TV.jpg/1200px-TARANG_TV.jpg" tvg-name="TARANG TV" group-title="Odia", TARANG TV
 https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="722" tvg-name="Zee Sarthak" tvg-chno="722" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="Odia", Zee Sarthak
-https://drmlive.in/zee5/play.php?id=0-9-sarthaktv
+https://zee5.drmlive.in/cmaf/live/2105541/ZeeSarthakELE/master.m3u8
 #EXTINF: -1 tvg-id="OdishaTV.in" tvg-logo="https://i.imgur.com/tCT3qL9.png" group-title="Odia", OTV
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="718" tvg-name="Kanak News" tvg-chno="718" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png" group-title="Odia", Kanak News
