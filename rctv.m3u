@@ -123,7 +123,7 @@ http://localhost:5001/live/high/566.m3u8
 #EXTINF: -1 tvg-id="568" tvg-name="Discovery Science" tvg-chno="568" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png" group-title="Infotainment", Discovery Science
 http://localhost:5001/live/high/568.m3u8
 #EXTINF: -1 tvg-id="ts367" tvg-name="Star Life HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/FOXHD_Thumbnail-v2/FOXHD_Thumbnail.png" group-title="Lifestyle", Star Life HD
-https://play.denver1769.in/BGT/index.m3u8
+http://port.denver1769.in/oplx7.php?tv=167593
 #EXTINF: -1 tvg-id="575" tvg-name="Discovery Channel" tvg-chno="575" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-876-j5mcolzc-v2/imageContent-876-j5mcolzc-m2.png" group-title="Infotainment", Discovery Channel
 http://localhost:5001/live/high/575.m3u8
 #EXTINF: -1 tvg-id="578" tvg-name="History TV18 HD" tvg-chno="578" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Infotainment", History TV18 HD
