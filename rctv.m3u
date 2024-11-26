@@ -235,7 +235,7 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/disney-junior/index.ts
 #EXTINF: -1 tvg-id="545" tvg-name="Nick" tvg-chno="545" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids", Nick
 https://drmlive.in/jiocinema/web/545.m3u8
 #EXTINF: -1 tvg-id="554" tvg-name="Discovery Kids" tvg-chno="554" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Kids", Discovery Kids
-http://localhost:5001/live/high/554.m3u8
+https://drmlive.in/discoveryplus/discoverykids.m3u8
 #EXTINF: -1 tvg-id="559" tvg-name="Pogo" tvg-chno="559" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids", Pogo
 http://localhost:5001/live/high/559.m3u8
 #EXTINF: -1 tvg-id="1226" tvg-name="Nick HD+" tvg-chno="1226" tvg-logo="" group-title="Kids", Nick HD+
