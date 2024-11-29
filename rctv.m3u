@@ -26,7 +26,7 @@ https://zee5.drmlive.in/cmaf/live/2105541/ZeeSarthakELE/master.m3u8
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="718" tvg-name="Kanak News" tvg-chno="718" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png" group-title="Odia", Kanak News
 https://little-bonus-c7fa.rciptv360.workers.dev/master.m3u8
-#EXTINF: -1 tvg-id="ts568" tvg-logo="" group-title="Odia", Prarthana Life
+#EXTINF: -1 tvg-id="ts568" tvg-logo="https://raw.githubusercontent.com/darad3vil014/tuntun/refs/heads/main/PRATV.png" group-title="Odia", Prarthana Life
 https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-logo="" group-title="Odia", Tarang Music
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
