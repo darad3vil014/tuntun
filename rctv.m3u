@@ -140,7 +140,7 @@ http://localhost:5001/live/high/1162.m3u8
 #EXTINF: -1 tvg-id="2437" tvg-name="Wild Earth" tvg-chno="2437" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wild_Earth.png" group-title="Infotainment", Wild Earth
 http://localhost:5001/live/high/2437.m3u8
 #EXTINF: -1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-chno="165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies", Zee Cinema HD
-https://zee5.drmlive.in/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8
+http://xxxxlocal.com:8080/azadiyame6333/4w854Rp2veDJq55qRXh/8812
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" group-title="Movies" tvg-logo="" ,STAR GOLD HD
 http://185.156.74.131:25461/live/685034/245521/85561.m3u8?token=ShRZAEYJFQxGXF9dVAFVVAYPCAAADAkPVFBVVQdXUQdXV1RZVFIOD1UaShpGQUQDVlVuXFUXAw4AVwEGHRYTFVREbghRQw0UVQlTCwcDFEoVTFhYVBcDBhlAR15VFlxEAAcFVQdDGxQBQBJdR1tXCmhcVENYVlwUDwxCW10YRAlfaVUEWABZUkYCRAkXGRQPREgTD19AVVoZQFVeRUYHElQUCw9ADVsaRlsJTVtBRB8VAhN2cBcVFFAaQ1JfRw8JXxQLQ1hSQg5GFERRRmpEA0RMQ1BQWFxEF1gVBxMYRAtQTm4CWg9ZUwdMD1dbRhRcFQkTGRNYVlhcFlhFbkQPAhMME1AEVAYGRkU=
 #EXTINF: -1 group-title="Movies" tvg-logo="", Sony Max 2
