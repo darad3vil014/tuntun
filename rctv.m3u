@@ -21,8 +21,7 @@ https://drmlive.in/voot/web/198.m3u8
 #EXTINF: -1 tvg-id="" tvg-logo="https://www.tarangtv.in/taranglogo.png" group-title="Odia", Tarang TV
 https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="722" tvg-name="Zee Sarthak" tvg-chno="722" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="Odia", Zee Sarthak
-#EXTVLCOPT:http-user-agent=yuvi bhai
-https://tp.yg048.workers.dev/ch/597.m3u8
+http://xxxxlocal.com:8080/azadiyame6333/4w854Rp2veDJq55qRXh/8841
 #EXTINF: -1 tvg-id="OdishaTV.in" tvg-logo="https://i.imgur.com/tCT3qL9.png" group-title="Odia", OTV
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="718" tvg-name="Kanak News" tvg-chno="718" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png" group-title="Odia", Kanak News
@@ -188,7 +187,7 @@ http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=280766&exten
 #EXTINF: -1 tvg-id="ts1183" tvg-logo="" group-title="Movies", &Xplor HD
 http://localhost:5001/live/high/1668.m3u8
 #EXTINF: -1 tvg-id="484" tvg-name="Zee Cinema" tvg-chno="484" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Movies", Zee Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema1/default/Zeecinema1.m3u8
+http://xxxxlocal.com:8080/azadiyame6333/4w854Rp2veDJq55qRXh/8811
 #EXTINF: -1 tvg-name="STAR GOLD SELECT" tvg-logo="" group-title="Movies", STAR GOLD SELECT
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/297547
 #EXTINF: -1 tvg-id="1322" tvg-name="&Flix HD" tvg-chno="1322" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="Movies", &Flix HD
