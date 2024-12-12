@@ -21,7 +21,8 @@ https://drmlive.in/voot/web/198.m3u8
 #EXTINF: -1 tvg-id="" tvg-logo="https://www.tarangtv.in/taranglogo.png" group-title="Odia", Tarang TV
 https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="722" tvg-name="Zee Sarthak" tvg-chno="722" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="Odia", Zee Sarthak
-http://xxxxlocal.com:8080/azadiyame6333/4w854Rp2veDJq55qRXh/8841
+#EXTVLCOPT:http-user-agent=yuvi bhai
+https://tp.yg048.workers.dev/ch/597.m3u8
 #EXTINF: -1 tvg-id="OdishaTV.in" tvg-logo="https://i.imgur.com/tCT3qL9.png" group-title="Odia", OTV
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="718" tvg-name="Kanak News" tvg-chno="718" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png" group-title="Odia", Kanak News
@@ -109,9 +110,9 @@ http://localhost:5001/live/high/2149.m3u8
 #EXTINF: -1 tvg-id="2761" tvg-name="Zee Ganga" tvg-chno="2761" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Ganga.png" group-title="Entertainment", Zee Ganga
 http://localhost:5001/live/high/2761.m3u8
 #EXTINF: -1 tvg-name="STAR BHARAT HD" group-title="Entertainment", STAR BHARAT HD
-http://rstream.me/t/244/master.m3u8?t=0cb11bbf512beeae349348fd5321d7c3a1f6d667e7edd6545eccc6259e1a0d7e2faaa02e998a8977006ce7f781112b645d812fdf084b37440d3233baf3c28970312b71f4b0fd03625b16ea
+http://119.152.240.15:8001/play/a0bg/index.m3u8
 #EXTINF: -1 group-title="Infotainment", Sony BBC Earth
-http://rstream.me/t/158/master.m3u8?t=0cb11bbf512beeae349348fd5321d7c3a1f6d667e7edd6545eccc6259e1a0d7e2faaa02e998a8977006ce7f781112b645d812fdf084b37440d3233baf3c28970312b71f4b0fd03625b16ea
+http://119.152.240.15:8001/play/a0bm/index.m3u8
 #EXTINF: -1 tvg-id="286" tvg-name="Animal Planet HD World" tvg-chno="286" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="Infotainment", Animal Planet HD World
 https://drmlive.in/discoveryplus/animalplanet.m3u8
 #EXTINF: -1 tvg-id="463" tvg-name="Discovery HD World" tvg-chno="463" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png" group-title="Infotainment", Discovery HD World
@@ -145,15 +146,16 @@ http://185.156.74.131:25461/live/685034/245521/85561.m3u8?token=ShRZAEYJFQxGXF9d
 #EXTINF: -1 group-title="Movies" tvg-logo="", Sony Max 2
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD SELECT HD" group-title="Movies", STAR GOLD SELECT HD
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451268.ts
+http://119.152.240.15:8001/play/a0bl/index.m3u8
 #EXTINF: -1 tvg-id="185" tvg-name="&Pictures HD" tvg-chno="185" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies", &Pictures HD
 https://zee5.drmlive.in/cmaf/live/2105174/ANDPicturesHDELE/index-connected.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD 2" group-title="Movies", STAR GOLD 2
-http://premiumdedi.one/Jubilant7Relative/xmb1HEJBsY/451521
+http://xxxxlocal.com:8080/azadiyame6333/4w854Rp2veDJq55qRXh/8919
 #EXTINF: -1 group-title="Movies", Sony Wah
 https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF: -1 tvg-id="ts823" tvg-name="Goldmines" group-title="Movies", Goldmines
-http://rstream.me/t/823/master.m3u8?t=0cb11bbf512beeae349348fd5321d7c3a1f6d667e7edd6545eccc6259e1a0d7e2faaa02e998a8977006ce7f781112b645d812fdf084b37440d3233baf3c28970312b71f4b0fd03625b16ea
+#EXTVLCOPT:http-user-agent=yuvi bhai
+https://tp.yg048.workers.dev/ch/823.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="Goldmines Bollywood" tvg-logo="https://raw.githubusercontent.com/darad3vil014/tuntun/main/gmb.jpg" group-title="Movies", Goldmines Bollywood
 https://port.denver1769.in/oplx3.php?id=112973
 #EXTINF:-1 tvg-id="87417" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20220801_200458_68.png" group-title="Movies",Bollywood Classic
@@ -163,7 +165,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="71575" tvg-logo="https://a.jsrdn.com/hls/23013/bollywood-prime/logo_20211202_231543_68.png" group-title="Movies",Bollywood Prime
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23013&ads.content_duration=18000&ads.episode_id=71575&ads.show_id=2797&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=Bollywood%20Prime&ads.episodetitle=Bollywood%20Prime&ads.keywords=Bollywood%20Prime&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
 #EXTINF: -1 tvg-name="STAR UTSAV MOVIES" group-title="Movies", STAR UTSAV MOVIES
-https://port.denver1769.in/oplx3.php?id=112971
+http://119.152.240.15:8001/play/a02f/index.m3u8
 #EXTINF: -1 tvg-id="182" tvg-name="B4U Movies" tvg-chno="182" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies", B4U Movies
 http://localhost:5001/live/high/182.m3u8
 #EXTINF: -1 tvg-id="415" tvg-name="Zee Anmol Cinema" tvg-chno="415" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Movies", Zee Anmol Cinema
@@ -183,13 +185,11 @@ http://localhost:5001/live/high/1295.m3u8
 #EXTINF: -1 tvg-id="1839" tvg-name="&Pictures" tvg-chno="1839" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="Movies", &Pictures
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures1/default/Andpictures1.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD" group-title="Movies", STAR GOLD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=280766&extension=ts
+http://119.152.240.15:8001/play/a0bi/index.m3u8
 #EXTINF: -1 tvg-id="ts1183" tvg-logo="" group-title="Movies", &Xplor HD
 http://localhost:5001/live/high/1668.m3u8
 #EXTINF: -1 tvg-id="484" tvg-name="Zee Cinema" tvg-chno="484" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Movies", Zee Cinema
 http://xxxxlocal.com:8080/azadiyame6333/4w854Rp2veDJq55qRXh/8811
-#EXTINF: -1 tvg-name="STAR GOLD SELECT" tvg-logo="" group-title="Movies", STAR GOLD SELECT
-http://iptvtree.net:8080/romaniamedia/8cc105f9f2/297547
 #EXTINF: -1 tvg-id="1322" tvg-name="&Flix HD" tvg-chno="1322" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="Movies", &Flix HD
 http://localhost:5001/live/high/1322.m3u8
 #EXTINF: -1 group-title="Movies", Sony Pix HD
@@ -223,15 +223,15 @@ http://localhost:5001/live/high/2031.m3u8
 #EXTINF: -1 tvg-id="816" tvg-name="Cartoon Network" tvg-chno="816" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids", Cartoon Network
 http://localhost:5001/live/high/816.m3u8
 #EXTINF: -1 tvg-id="ts345" tvg-name="Hungama" group-title="Kids", Hungama
-http://rstream.me/t/345/master.m3u8?t=0cb11bbf512beeae349348fd5321d7c3a1f6d667e7edd6545eccc6259e1a0d7e2faaa02e998a8977006ce7f781112b645d812fdf084b37440d3233baf3c28970312b71f4b0fd03625b16ea
+http://119.152.240.15:8001/play/a0cs/index.m3u8
 #EXTINF: -1 tvg-name="Disney" group-title="Kids", Disney
-https://port.denver1769.in/oplx3.php?id=167551
+http://119.152.240.15:8001/play/a0ct/index.m3u8
 #EXTINF: -1 tvg-logo="" tvg-name="Sony YAY!" group-title="Kids", Sony YAY!
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Super Hungama" group-title="Kids" tvg-logo="" ,Super Hungama
-https://tplay.dinesh29.com.np/live/tataplay-universal/super-hungama/index.ts
+http://119.152.240.15:8001/play/a0kc/index.m3u8
 #EXTINF:-1 tvg-id="ts144" group-title="Kids" tvg-logo="" ,Disney Junior
-https://tplay.dinesh29.com.np/live/tataplay-universal/disney-junior/index.ts
+http://119.152.240.15:8001/play/a02z/index.m3u8
 #EXTINF: -1 tvg-id="545" tvg-name="Nick" tvg-chno="545" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids", Nick
 https://drmlive.in/jiocinema/web/545.m3u8
 #EXTINF: -1 tvg-id="554" tvg-name="Discovery Kids" tvg-chno="554" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Kids", Discovery Kids
