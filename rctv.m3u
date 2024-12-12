@@ -229,7 +229,8 @@ http://119.152.240.15:8001/play/a0ct/index.m3u8
 #EXTINF: -1 tvg-logo="" tvg-name="Sony YAY!" group-title="Kids", Sony YAY!
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Super Hungama" group-title="Kids" tvg-logo="" ,Super Hungama
-http://119.152.240.15:8001/play/a0kc/index.m3u8
+#EXTVLCOPT:http-user-agent=yuvi bhai
+https://tp.yg048.workers.dev/ch/587.m3u8
 #EXTINF:-1 tvg-id="ts144" group-title="Kids" tvg-logo="" ,Disney Junior
 http://119.152.240.15:8001/play/a02z/index.m3u8
 #EXTINF: -1 tvg-id="545" tvg-name="Nick" tvg-chno="545" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids", Nick
