@@ -25,7 +25,7 @@ http://line.linehunt.org:80/play/live.php?mac=00:1A:79:69:11:59&stream=1531145&e
 #EXTINF: -1 tvg-id="OdishaTV.in" tvg-logo="https://i.imgur.com/tCT3qL9.png" group-title="Odia", OTV
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="718" tvg-name="Kanak News" tvg-chno="718" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png" group-title="Odia", Kanak News
-https://muviflix.site/live/718.m3u8
+https://muviflix.site/live/high/718.m3u8
 #EXTINF: -1 tvg-id="ts568" tvg-logo="https://raw.githubusercontent.com/darad3vil014/tuntun/refs/heads/main/PRATV.png" group-title="Odia", Prarthana Life
 https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-logo="" group-title="Odia", Tarang Music
@@ -113,7 +113,7 @@ http://119.152.240.15:8001/play/a0bg/index.m3u8
 #EXTINF: -1 group-title="Infotainment", Sony BBC Earth
 https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 #EXTINF: -1 tvg-id="286" tvg-name="Animal Planet HD World" tvg-chno="286" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="Infotainment", Animal Planet HD World
-https://muviflix.site/live/286.m3u8
+https://muviflix.site/live/high/286.m3u8
 #EXTINF: -1 tvg-id="463" tvg-name="Discovery HD World" tvg-chno="463" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png" group-title="Infotainment", Discovery HD World
 https://muviflix.site/live/high/463.m3u8
 #EXTINF: -1 tvg-id="541" tvg-name="Discovery Turbo" tvg-chno="541" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-967-j5mr8tw8-v1/imageContent-967-j5mr8tw8-m1.png" group-title="Infotainment", Discovery Turbo
@@ -123,7 +123,7 @@ https://muviflix.site/live/high/566.m3u8
 #EXTINF: -1 tvg-id="568" tvg-name="Discovery Science" tvg-chno="568" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png" group-title="Infotainment", Discovery Science
 https://muviflix.site/live/high/568.m3u8
 #EXTINF: -1 tvg-id="575" tvg-name="Discovery Channel" tvg-chno="575" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-876-j5mcolzc-v2/imageContent-876-j5mcolzc-m2.png" group-title="Infotainment", Discovery Channel
-https://muviflix.site/live/575.m3u8
+https://muviflix.site/live/high/575.m3u8
 #EXTINF: -1 tvg-id="578" tvg-name="History TV18 HD" tvg-chno="578" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Infotainment", History TV18 HD
 https://muviflix.site/live/high/578.m3u8
 #EXTINF: -1 tvg-id="580" tvg-name="DD Bharati" tvg-chno="580" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="Infotainment", DD Bharati
@@ -185,11 +185,11 @@ https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF: -1 tvg-id="1349" tvg-name="&Prive HD" tvg-chno="1349" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="Movies", &Prive HD
 https://muviflix.site/live/high/1349.m3u8
 #EXTINF: -1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-chno="1477" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movies", Colors Cineplex HD
-https://drmlive.in/jiocinema/web/1477.m3u8    
+https://muviflix.site/live/high/1477.m3u8  
 #EXTINF: -1 tvg-id="1691" tvg-name="Zee Classic" tvg-chno="1691" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic_SD.png" group-title="Movies", Zee Classic
 https://muviflix.site/live/high/1691.m3u8
-#EXTINF: -1 tvg-id="2762" tvg-name="NH Studioz" tvg-chno="2762" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NH_Studioz.png" group-title="Movies", NH Studioz
-https://muviflix.site/live/high/2762.m3u8
+#EXTINF: -1 tvg-id="1450" tvg-name="Colors Cineplex Superhits" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Movies", Colors Cineplex Superhits
+https://muviflix.site/live/high/1450.m3u8
 #EXTINF: -1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" tvg-chno="1763" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Movies", Colors Cineplex Bollywood
 https://muviflix.site/live/high/1763.m3u8
 #EXTINF: -1 tvg-id="2757" tvg-name="Zee Zest" tvg-chno="2757" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Zest_HD.png" group-title="Lifestyle", Zee Zest
@@ -306,13 +306,13 @@ https://muviflix.site/live/high/1408.m3u8
 #EXTINF: -1 tvg-id="ts805" tvg-name="Nandighosha" tvg-chno="1427" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="Odia", Nandighosha
 https://nandighoshatvlive.com/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id=3072 tvg-name="Shree Jagannath TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shree_Jagannath_TV.png" group-title="Odia", Shree Jagannath TV
-https://muviflix.site/live/3072.m3u8
+https://muviflix.site/live/high/3072.m3u8
 #EXTINF:-1 tvg-id=3073 tvg-name="Ekamra Manoranjan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Manoranjan.png" group-title="Odia", Ekamra Manoranjan
 https://live.ekamraott.com/manoranjan/manoranjan/video.m3u8
 #EXTINF:-1 tvg-id=1692 tvg-name="Badakhabar" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Badakhabar.png" group-title="Odia", Badakhabar
 https://live.ekamraott.com/badakhabar/badakhabar/video.m3u8
 #EXTINF:-1 tvg-id=799 tvg-name="Naxatra News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Naxatra_News.png" group-title="Odia", Naxatra News
-https://muviflix.site/live/799.m3u8
+https://muviflix.site/live/high/799.m3u8
 #EXTINF:-1 tvg-id=3073 tvg-name="News 8 Odia"  group-title="Odia", News8 Odia
 https://live.ekamraott.com/halchal/halchal/video.m3u8
 #EXTINF:-1 tvg-id= tvg-name="Ekamra Baiscope" tvg-logo="" group-title="Odia", Ekamra Baiscope
@@ -492,7 +492,7 @@ https://muviflix.site/live/high/875.m3u8
 #EXTINF: -1 tvg-id="1529" tvg-name="MI TV" tvg-chno="1529" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="Sports", MI TV
 https://muviflix.site/live/high/1529.m3u8
 #EXTINF: -1 tvg-name="Sports18 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_2.png" group-title="Sports", Sports18 2
-https://muviflix.site/live/2852.m3u8
+https://muviflix.site/live/high/2852.m3u8
 #EXTINF: -1 tvg-id="ts1033" tvg-name="Sports18 1 HD" tvg-chno="1984" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports", Sports18 1 HD
 https://muviflix.site/live/high/1984.m3u8
 #EXTINF: -1 tvg-name="Sports18 Khel" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="Sports", Sports18 Khel
