@@ -323,16 +323,10 @@ https://muviflix.site/live/high/1886.m3u8
 https://live.ekamraott.com/onepaschima/onepaschima/video.m3u8
 #EXTINF: -1 tvg-id="183" tvg-name="B4U Music" tvg-chno="183" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music", B4U Music
 https://muviflix.site/live/high/183.m3u8
-#EXTINF: -1 tvg-id="250" tvg-name="Music India" tvg-chno="250" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music", Music India
-https://muviflix.site/live/high/250.m3u8
 #EXTINF: -1 tvg-id="440" tvg-name="9X Jalwa" tvg-chno="440" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music", 9X Jalwa
 https://muviflix.site/live/high/440.m3u8
 #EXTINF: -1 tvg-id="441" tvg-name="9x Jhakaas" tvg-chno="441" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="Music", 9x Jhakaas
 https://muviflix.site/live/high/441.m3u8
-#EXTINF: -1 tvg-id="584" tvg-name="Mastiii" tvg-chno="584" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="Music", Mastiii
-https://muviflix.site/live/high/584.m3u8
-#EXTINF: -1 tvg-id="585" tvg-name="Zing" tvg-chno="585" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="Music", Zing
-https://muviflix.site/live/high/585.m3u8
 #EXTINF: -1 tvg-id="587" tvg-name="9XM" tvg-chno="587" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Music", 9XM
 https://muviflix.site/live/high/587.m3u8
 #EXTINF: -1 tvg-id="591" tvg-name="E 24" tvg-chno="591" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" group-title="Music", E 24
@@ -387,7 +381,7 @@ https://muviflix.site/live/high/905.m3u8
 https://muviflix.site/live/high/962.m3u8
 #EXTINF: -1 tvg-id="1103" tvg-name="PEACE MUSIC" tvg-chno="1103" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PEACE_MUSIC.png" group-title="Music", PEACE MUSIC
 https://muviflix.site/live/high/1103.m3u8
-#EXTINF: -1 tvg-id="1145" tvg-name="MTV HD Plus" tvg-chno="1145" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music", MTV HD Plus
+#EXTINF: -1 tvg-name="MTV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Entertainment", MTV HD
 https://muviflix.site/live/high/1145.m3u8
 #EXTINF: -1 tvg-id="1172" tvg-name="PTC Chak De" tvg-chno="1172" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png" group-title="Music", PTC Chak De
 https://muviflix.site/live/high/1172.m3u8
