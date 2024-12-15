@@ -497,11 +497,11 @@ https://muviflix.site/live/high/1163.m3u8
 https://muviflix.site/live/high/875.m3u8
 #EXTINF: -1 tvg-id="1529" tvg-name="MI TV" tvg-chno="1529" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="Sports", MI TV
 https://muviflix.site/live/high/1529.m3u8
-#EXTINF: -1 tvg-id="1675" tvg-name="ESG TV" tvg-chno="1675" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ESG.png" group-title="Sports", ESG TV
-https://muviflix.site/live/high/1675.m3u8
+#EXTINF: -1 tvg-name="Sports18 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_2.png" group-title="Sports", Sports18 2
+https://muviflix.site/live/2852.m3u8
 #EXTINF: -1 tvg-id="ts1033" tvg-name="Sports18 1 HD" tvg-chno="1984" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports", Sports18 1 HD
 https://muviflix.site/live/high/1984.m3u8
-#EXTINF: -1 tvg-id="1998" tvg-name="Sports18 Khel" tvg-chno="1998" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="Sports", Sports18 Khel
+#EXTINF: -1 tvg-name="Sports18 Khel" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="Sports", Sports18 Khel
 https://muviflix.site/live/high/1998.m3u8
 #EXTINF: -1 tvg-id="2766" tvg-name="BRAVE TV" tvg-chno="2766" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Brave_TV.png" group-title="Sports", BRAVE TV
 https://muviflix.site/live/high/2766.m3u8
