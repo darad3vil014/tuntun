@@ -46,6 +46,8 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist_3000k.m3u8
 https://muviflix.site/live/high/202.m3u8
 #EXTINF: -1 tvg-id="279" tvg-name="Rishtey" tvg-chno="279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment", Rishtey
 https://muviflix.site/live/high/279.m3u8
+#EXTINF: -1 tvg-name="MTV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Entertainment", MTV HD
+https://muviflix.site/live/high/1145.m3u8
 #EXTINF: -1 tvg-id="472" tvg-name="&TV HD" tvg-chno="472" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment", &TV HD
 https://muviflix.site/live/high/472.m3u8
 #EXTINF: -1 tvg-id="473" tvg-name="Zee Anmol" tvg-chno="473" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Entertainment", Zee Anmol
@@ -381,8 +383,6 @@ https://muviflix.site/live/high/905.m3u8
 https://muviflix.site/live/high/962.m3u8
 #EXTINF: -1 tvg-id="1103" tvg-name="PEACE MUSIC" tvg-chno="1103" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PEACE_MUSIC.png" group-title="Music", PEACE MUSIC
 https://muviflix.site/live/high/1103.m3u8
-#EXTINF: -1 tvg-name="MTV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Entertainment", MTV HD
-https://muviflix.site/live/high/1145.m3u8
 #EXTINF: -1 tvg-id="1172" tvg-name="PTC Chak De" tvg-chno="1172" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png" group-title="Music", PTC Chak De
 https://muviflix.site/live/high/1172.m3u8
 #EXTINF: -1 tvg-id="1184" tvg-name="Steelbird Music" tvg-chno="1184" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Steelbird_Music.png" group-title="Music", Steelbird Music
