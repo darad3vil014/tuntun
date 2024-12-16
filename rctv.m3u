@@ -285,7 +285,7 @@ https://muviflix.site/live/high/503.m3u8
 https://muviflix.site/live/high/504.m3u8
 #EXTINF: -1 tvg-id="506" tvg-name="Sahara Samay Rastriya" tvg-chno="506" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Rastriya.png" group-title="News", Sahara Samay Rastriya
 https://muviflix.site/live/high/506.m3u8
-#EXTINF: -1 tvg-id="520" tvg-name="Sansad TV HD" tvg-chno="520" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="News", Sansad TV HD
+#EXTINF: -1 tvg-id="ts1032" tvg-name="Sansad TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="News", Sansad TV HD
 https://muviflix.site/live/high/520.m3u8
 #EXTINF: -1 tvg-id="652" tvg-name="Zee Bharat" tvg-chno="652" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="News", Zee Bharat
 https://muviflix.site/live/high/652.m3u8
