@@ -253,7 +253,7 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 https://muviflix.site/live/high/193.m3u8
 #EXTINF: -1 tvg-id="203" tvg-name="DD News" tvg-chno="203" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title="News", DD News
 https://muviflix.site/live/high/203.m3u8
-#EXTINF: -1 tvg-id="231" tvg-name="News 18 India" tvg-chno="231" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News", News 18 India
+#EXTINF: -1 tvg-id="231" tvg-name="News18 India" tvg-chno="231" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News", News18 India
 https://muviflix.site/live/high/231.m3u8
 #EXTINF: -1 tvg-id="235" tvg-name="India TV" tvg-chno="235" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="News", India TV
 https://muviflix.site/live/high/235.m3u8
@@ -283,8 +283,6 @@ https://muviflix.site/live/high/502.m3u8
 https://muviflix.site/live/high/503.m3u8
 #EXTINF: -1 tvg-id="504" tvg-name="Zee News" tvg-chno="504" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="News", Zee News
 https://muviflix.site/live/high/504.m3u8
-#EXTINF: -1 tvg-id="506" tvg-name="Sahara Samay Rastriya" tvg-chno="506" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Rastriya.png" group-title="News", Sahara Samay Rastriya
-https://muviflix.site/live/high/506.m3u8
 #EXTINF: -1 tvg-id="ts1032" tvg-name="Sansad TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="News", Sansad TV HD
 https://muviflix.site/live/high/520.m3u8
 #EXTINF: -1 tvg-id="652" tvg-name="Zee Bharat" tvg-chno="652" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="News", Zee Bharat
