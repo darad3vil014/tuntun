@@ -249,7 +249,7 @@ https://feeds.intoday.in/aajtak/api/master.m3u8
 https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master.m3u8
 #EXTINF: -1 tvg-id="1403" tvg-name="R Bharat" tvg-chno="1403" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_Bharat.png" group-title="News", R Bharat
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
-#EXTINF: -1 tvg-id="193" tvg-name="CNN" tvg-chno="193" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png" group-title="News", CNN
+#EXTINF: -1 tvg-id="ts243" tvg-name="CNN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png" group-title="News", CNN
 https://muviflix.site/live/high/193.m3u8
 #EXTINF: -1 tvg-id="203" tvg-name="DD News" tvg-chno="203" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title="News", DD News
 https://muviflix.site/live/high/203.m3u8
@@ -265,11 +265,11 @@ https://muviflix.site/live/high/258.m3u8
 https://muviflix.site/live/high/383.m3u8
 #EXTINF: -1 tvg-id="412" tvg-name="Wion" tvg-chno="412" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="News", Wion
 https://muviflix.site/live/high/412.m3u8
-#EXTINF: -1 tvg-id="492" tvg-name="CNN NEWS 18" tvg-chno="492" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="News", CNN NEWS 18
+#EXTINF: -1 tvg-id="ts206" tvg-name="CNN NEWS 18" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="News", CNN NEWS 18
 https://muviflix.site/live/high/492.m3u8
 #EXTINF: -1 tvg-id="493" tvg-name="India Today" tvg-chno="493" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png" group-title="News", India Today
 https://muviflix.site/live/high/493.m3u8
-#EXTINF: -1 tvg-id="495" tvg-name="News X" tvg-chno="495" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_X.png" group-title="News", News X
+#EXTINF: -1 tvg-id="ts189" tvg-name="News X" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_X.png" group-title="News", News X
 https://muviflix.site/live/high/495.m3u8
 #EXTINF: -1 tvg-id="498" tvg-name="India News" tvg-chno="498" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" group-title="News", India News
 https://muviflix.site/live/high/498.m3u8
@@ -279,7 +279,7 @@ https://muviflix.site/live/high/499.m3u8
 https://muviflix.site/live/high/501.m3u8
 #EXTINF: -1 tvg-id="502" tvg-name="Good News Today" tvg-chno="502" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tez.png" group-title="News", Good News Today
 https://muviflix.site/live/high/502.m3u8
-#EXTINF: -1 tvg-id="503" tvg-name="IBC24" tvg-chno="503" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBC-24.png" group-title="News", IBC24
+#EXTINF: -1 tvg-id="503" tvg-name="IBC 24" tvg-chno="503" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBC-24.png" group-title="News", IBC 24
 https://muviflix.site/live/high/503.m3u8
 #EXTINF: -1 tvg-id="504" tvg-name="Zee News" tvg-chno="504" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="News", Zee News
 https://muviflix.site/live/high/504.m3u8
