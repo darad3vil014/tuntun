@@ -321,8 +321,6 @@ https://live.ekamraott.com/halchal/halchal/video.m3u8
 https://live.ekamraott.com/baiscope/baiscope/video.m3u8
 #EXTINF: -1 tvg-id="1759" tvg-name="Buletin India" tvg-chno="1759" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Buletin_India.png" group-title="News", Buletin India
 https://muviflix.site/live/high/1759.m3u8
-#EXTINF: -1 tvg-id="1886" tvg-name="Sansad TV Rajya Sabha" tvg-chno="1886" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sansad_TV_RajyaSabha.png" group-title="News", Sansad TV Rajya Sabha
-https://muviflix.site/live/high/1886.m3u8
 #EXTINF: -1 tvg-id="ts1202" tvg-name="One Paschima" tvg-chno="2355" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/One_Paschima.png" group-title="Odia", One Paschima
 https://live.ekamraott.com/onepaschima/onepaschima/video.m3u8
 #EXTINF: -1 tvg-id="183" tvg-name="B4U Music" tvg-chno="183" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music", B4U Music
