@@ -131,8 +131,7 @@ https://muviflix.site/live/high/580.m3u8
 #EXTINF: -1 tvg-id="583" tvg-name="DD Kisan" tvg-chno="583" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kisan.png" group-title="Infotainment", DD Kisan
 https://muviflix.site/live/high/583.m3u8
 #EXTINF: -1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-chno="165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies", Zee Cinema HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
+https://ninjatv.host/star/ninjatv.m3u8?id=230.ts
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" group-title="Movies" tvg-logo="" ,STAR GOLD HD
 https://ninjatv.host/star/ninjatv.m3u8?id=194.ts
 #EXTINF: -1 group-title="Movies" tvg-logo="", Sony Max 2
@@ -179,7 +178,7 @@ http://119.152.240.15:8001/play/a0bi/index.m3u8
 #EXTINF: -1 tvg-id="ts1183" tvg-logo="" group-title="Movies", &Xplor HD
 https://muviflix.site/live/high/1668.m3u8
 #EXTINF: -1 tvg-id="484" tvg-name="Zee Cinema" tvg-chno="484" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Movies", Zee Cinema
-http://xxxxlocal.com:8080/azadiyame6333/4w854Rp2veDJq55qRXh/8811
+https://ninjatv.host/star/ninjatv.m3u8?id=98860.ts
 #EXTINF: -1 tvg-id="1322" tvg-name="&Flix HD" tvg-chno="1322" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="Movies", &Flix HD
 https://muviflix.site/live/high/1322.m3u8
 #EXTINF: -1 group-title="Movies", Sony Pix HD
@@ -460,7 +459,7 @@ https://muviflix.site/live/high/2754.m3u8
 #EXTINF: -1 tvg-id="2755" tvg-name="Saregama Hum Bhojpuri" tvg-chno="2755" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saregama_Hum_Bhojpuri.png" group-title="Music", Saregama Hum Bhojpuri
 https://muviflix.site/live/high/2755.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 1 HINDI HD" tvg-logo="" group-title="Sports", STAR SPORTS 1 HINDI HD
-https://off6.jismhaitokia.com:999/hls/starhindi.m3u8?md5=bAeeTuHf3n09lmq8t_ifmw&expires=1734196753
+https://ninjatv.host/star/ninjatv.m3u8?id=98866.ts
 #EXTINF: -1 tvg-id="ts81" tvg-logo="" group-title="Sports", Sony Ten 1 HD
 https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 #EXTINF: -1 tvg-id="ts462" tvg-logo="" group-title="Sports", Sony Ten 2 HD
