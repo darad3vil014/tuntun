@@ -11,7 +11,7 @@ http://tv.cloudcdn.me/live.ts?channelId=200&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF: -1 group-title="Entertainment", Sony Sab HD
 https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF: -1 tvg-id="167" tvg-name="Zee TV HD" tvg-chno="167" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment", Zee TV HD
-http://xxxxlocal.com:8080/azadiyame6333/4w854Rp2veDJq55qRXh/8812
+http://tv.cloudcdn.me:80/live.ts?channelId=217&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF: -1 tvg-name="STAR UTSAV" group-title="Entertainment", STAR UTSAV
 http://tv.cloudcdn.me/live.ts?channelId=12364&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF: -1 group-title="Entertainment", Sony Pal
@@ -66,26 +66,18 @@ https://muviflix.site/live/high/701.m3u8
 https://muviflix.site/live/high/1158.m3u8
 #EXTINF: -1 tvg-id="1232" tvg-name="Hi Dost!" tvg-chno="1232" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="Entertainment", Hi Dost!
 https://muviflix.site/live/high/1232.m3u8
-#EXTINF: -1 tvg-id="1351" tvg-name="Zee TV" tvg-chno="1351" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="Entertainment", Zee TV
-https://muviflix.site/live/high/1351.m3u8
 #EXTINF: -1 tvg-id="1359" tvg-name="Big Magic" tvg-chno="1359" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Big_Magic.png" group-title="Entertainment", Big Magic
 https://muviflix.site/live/high/1359.m3u8
-#EXTINF: -1 tvg-id="1368" tvg-name="Colors SD" tvg-chno="1368" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="Entertainment", Colors SD
-https://muviflix.site/live/high/1368.m3u8
 #EXTINF: -1 tvg-id="1798" tvg-name="Pasand" tvg-chno="1798" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pasand.png" group-title="Entertainment", Pasand
 https://muviflix.site/live/high/1798.m3u8
 #EXTINF: -1 tvg-id="1834" tvg-name="Green Chillies" tvg-chno="1834" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Green_Chillies_TV.png" group-title="Entertainment", Green Chillies
 https://muviflix.site/live/high/1834.m3u8
 #EXTINF: -1 tvg-id="1961" tvg-name="Shemaroo TV" tvg-chno="1961" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png" group-title="Entertainment", Shemaroo TV
 https://muviflix.site/live/high/1961.m3u8
-#EXTINF: -1 tvg-id="2024" tvg-name="&TV" tvg-chno="2024" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png" group-title="Entertainment", &TV
-https://muviflix.site/live/high/2024.m3u8
 #EXTINF: -1 tvg-id="2040" tvg-name="Bollywood Hungama" tvg-chno="2040" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bollywood_Hungama.png" group-title="Entertainment", Bollywood Hungama
 https://muviflix.site/live/high/2040.m3u8
 #EXTINF: -1 tvg-id="2078" tvg-name="Shemaroo Umang" tvg-chno="2078" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" group-title="Entertainment", Shemaroo Umang
 https://muviflix.site/live/high/2078.m3u8
-#EXTINF: -1 tvg-id="2761" tvg-name="Zee Ganga" tvg-chno="2761" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Ganga.png" group-title="Entertainment", Zee Ganga
-https://muviflix.site/live/high/2761.m3u8
 #EXTINF: -1 tvg-name="STAR BHARAT HD" group-title="Entertainment", STAR BHARAT HD
 http://119.152.240.15:8001/play/a0bg/index.m3u8
 #EXTINF: -1 group-title="Infotainment", Sony BBC Earth
