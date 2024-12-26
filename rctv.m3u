@@ -170,7 +170,7 @@ https://muviflix.site/live/high/164.m3u8
 https://muviflix.site/live/high/479.m3u8
 #EXTINF: -1 tvg-id="561" tvg-name="Food Food" tvg-chno="561" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Infotainment", Food Food
 https://muviflix.site/live/high/561.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="Shemaroo Filmigaane" tvg-logo="https://raw.githubusercontent.com/darad3vil014/tuntun/main/channels4.jpg" group-title="Entertainment", Shemaroo Filmigaane
+#EXTINF: -1 tvg-id="" tvg-name="Shemaroo Filmigaane" tvg-logo="https://raw.githubusercontent.com/darad3vil014/tuntun/main/channels4.jpg" group-title="Music", Shemaroo Filmigaane
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/17dcbed0-17f4-437a-bd48-c5e114d123bc/1.m3u8
 #EXTINF: -1 tvg-id="816" tvg-name="Cartoon Network" tvg-chno="816" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids", Cartoon Network
 https://muviflix.site/live/high/816.m3u8
