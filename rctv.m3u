@@ -44,7 +44,7 @@ https://muviflix.site/live/high/3115.m3u8
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_3000k.m3u8
 #EXTINF: -1 tvg-id="202" tvg-name="DD National" tvg-chno="202" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment", DD National
 https://muviflix.site/live/high/202.m3u8
-#EXTINF: -1 tvg-id="279" tvg-name="Rishtey" tvg-chno="279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment", Rishtey
+#EXTINF: -1 tvg-id="279" tvg-name="Colors Rishtey" tvg-chno="279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment", Colors Rishtey
 https://muviflix.site/live/high/279.m3u8
 #EXTINF: -1 tvg-name="MTV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Entertainment", MTV HD
 https://muviflix.site/live/high/1145.m3u8
@@ -54,38 +54,18 @@ https://muviflix.site/live/high/472.m3u8
 https://muviflix.site/live/high/473.m3u8
 #EXTINF: -1 tvg-id="481" tvg-name="Epic" tvg-chno="481" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Entertainment", Epic
 https://muviflix.site/live/high/481.m3u8
-#EXTINF: -1 tvg-id="248" tvg-name="MTV" tvg-chno="248" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="Entertainment", MTV
-https://muviflix.site/live/high/248.m3u8
 #EXTINF: -1 tvg-id="527" tvg-name="Investigation Discovery" tvg-chno="527" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.png" group-title="Entertainment", Investigation Discovery
 https://muviflix.site/live/high/527.m3u8
 #EXTINF: -1 tvg-id="528" tvg-name="DD India" tvg-chno="528" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png" group-title="Entertainment", DD India
 https://muviflix.site/live/high/528.m3u8
-#EXTINF: -1 tvg-id="532" tvg-name="Dabangg" tvg-chno="532" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png" group-title="Entertainment", Dabangg
-https://muviflix.site/live/high/532.m3u8
 #EXTINF: -1 tvg-id="533" tvg-name="Raj Pariwar" tvg-chno="533" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Pariwar.png" group-title="Entertainment", Raj Pariwar
 https://muviflix.site/live/high/533.m3u8
-#EXTINF: -1 tvg-id="535" tvg-name="Dhamaal TV" tvg-chno="535" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dhamaal_TV.png" group-title="Entertainment", Dhamaal TV
-https://muviflix.site/live/high/535.m3u8
 #EXTINF: -1 tvg-id="701" tvg-name="Dangal" tvg-chno="701" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" group-title="Entertainment", Dangal
 https://muviflix.site/live/high/701.m3u8
-#EXTINF: -1 tvg-id="866" tvg-name="Jio Exclusive HD" tvg-chno="866" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png" group-title="Entertainment", Jio Exclusive HD
-https://muviflix.site/live/high/866.m3u8
-#EXTINF: -1 tvg-id="904" tvg-name="Sanjha TV" tvg-chno="904" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sanjha_TV.png" group-title="Entertainment", Sanjha TV
-https://muviflix.site/live/high/904.m3u8
-#EXTINF: -1 tvg-id="1066" tvg-name="The Q" tvg-chno="1066" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TheQIndia.png" group-title="Entertainment", The Q
-https://muviflix.site/live/high/1066.m3u8
-#EXTINF: -1 tvg-id="1157" tvg-name="Comedy Central HD" tvg-chno="1157" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="Entertainment", Comedy Central HD
-https://muviflix.site/live/high/1157.m3u8
 #EXTINF: -1 tvg-id="1158" tvg-name="Colors Infinity HD" tvg-chno="1158" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Entertainment", Colors Infinity HD
-https://drmlive.in/jiocinema/web/1158.m3u8
+https://muviflix.site/live/high/1158.m3u8
 #EXTINF: -1 tvg-id="1232" tvg-name="Hi Dost!" tvg-chno="1232" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="Entertainment", Hi Dost!
 https://muviflix.site/live/high/1232.m3u8
-#EXTINF: -1 tvg-id="1279" tvg-name="Manoranjan Grand" tvg-chno="1279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Grand.png" group-title="Entertainment", Manoranjan Grand
-https://muviflix.site/live/high/1279.m3u8
-#EXTINF: -1 tvg-id="1319" tvg-name="Zee Cafe HD" tvg-chno="1319" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Entertainment", Zee Cafe HD
-https://muviflix.site/live/high/1319.m3u8
-#EXTINF: -1 tvg-id="1325" tvg-name="Colors Infinity SD" tvg-chno="1325" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="Entertainment", Colors Infinity SD
-https://muviflix.site/live/high/1325.m3u8
 #EXTINF: -1 tvg-id="1351" tvg-name="Zee TV" tvg-chno="1351" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="Entertainment", Zee TV
 https://muviflix.site/live/high/1351.m3u8
 #EXTINF: -1 tvg-id="1359" tvg-name="Big Magic" tvg-chno="1359" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Big_Magic.png" group-title="Entertainment", Big Magic
@@ -104,8 +84,6 @@ https://muviflix.site/live/high/2024.m3u8
 https://muviflix.site/live/high/2040.m3u8
 #EXTINF: -1 tvg-id="2078" tvg-name="Shemaroo Umang" tvg-chno="2078" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" group-title="Entertainment", Shemaroo Umang
 https://muviflix.site/live/high/2078.m3u8
-#EXTINF: -1 tvg-id="2149" tvg-name="Jio Prime HD" tvg-chno="2149" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Prime_HD.png" group-title="Entertainment", Jio Prime HD
-https://muviflix.site/live/high/2149.m3u8
 #EXTINF: -1 tvg-id="2761" tvg-name="Zee Ganga" tvg-chno="2761" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Ganga.png" group-title="Entertainment", Zee Ganga
 https://muviflix.site/live/high/2761.m3u8
 #EXTINF: -1 tvg-name="STAR BHARAT HD" group-title="Entertainment", STAR BHARAT HD
@@ -192,22 +170,16 @@ https://muviflix.site/live/high/1691.m3u8
 https://muviflix.site/live/high/1450.m3u8
 #EXTINF: -1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" tvg-chno="1763" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Movies", Colors Cineplex Bollywood
 https://muviflix.site/live/high/1763.m3u8
-#EXTINF: -1 tvg-id="2757" tvg-name="Zee Zest" tvg-chno="2757" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Zest_HD.png" group-title="Lifestyle", Zee Zest
-https://muviflix.site/live/high/2757.m3u8
-#EXTINF: -1 tvg-id="164" tvg-name="Travelxp HD" tvg-chno="164" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Lifestyle", Travelxp HD
+#EXTINF: -1 tvg-id="2757" tvg-name="Zee Zest" tvg-chno="2757" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Zest_HD.png" group-title="Infotainment", Zee Zest
+http://tv.cloudcdn.me:80/live.ts?channelId=29704&uid=4166&deviceMac=00:1A:79:F3:9F:F5
+#EXTINF: -1 tvg-id="164" tvg-name="Travelxp HD" tvg-chno="164" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Infotainment", Travelxp HD
 https://muviflix.site/live/high/164.m3u8
-#EXTINF: -1 tvg-id="479" tvg-name="TLC HD" tvg-chno="479" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="Lifestyle", TLC HD
+#EXTINF: -1 tvg-id="479" tvg-name="TLC HD" tvg-chno="479" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="Infotainment", TLC HD
 https://muviflix.site/live/high/479.m3u8
-#EXTINF: -1 tvg-id="560" tvg-name="GOOD TiMES" tvg-chno="560" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png" group-title="Lifestyle", GOOD TiMES
-https://muviflix.site/live/high/560.m3u8
-#EXTINF: -1 tvg-id="561" tvg-name="Food Food" tvg-chno="561" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Lifestyle", Food Food
+#EXTINF: -1 tvg-id="561" tvg-name="Food Food" tvg-chno="561" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Infotainment", Food Food
 https://muviflix.site/live/high/561.m3u8
-#EXTINF: -1 tvg-id="1292" tvg-name="Wellness" tvg-chno="1292" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wellness_TV.png" group-title="Lifestyle", Wellness
-https://muviflix.site/live/high/1292.m3u8
-#EXTINF: -1 tvg-id="1955" tvg-name="Foodxp" tvg-chno="1955" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_XP.png" group-title="Lifestyle", Foodxp
+#EXTINF: -1 tvg-id="1955" tvg-name="Foodxp" tvg-chno="1955" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_XP.png" group-title="Infotainment", Foodxp
 https://muviflix.site/live/high/1955.m3u8
-#EXTINF: -1 tvg-id="2031" tvg-name="Fashion India" tvg-chno="2031" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Fashion_India.png" group-title="", Fashion India
-https://muviflix.site/live/high/2031.m3u8
 #EXTINF: -1 tvg-id="816" tvg-name="Cartoon Network" tvg-chno="816" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids", Cartoon Network
 https://muviflix.site/live/high/816.m3u8
 #EXTINF: -1 tvg-id="ts345" tvg-name="Hungama" group-title="Kids", Hungama
@@ -235,12 +207,8 @@ https://muviflix.site/live/high/548.m3u8
 https://muviflix.site/live/high/815.m3u8
 #EXTINF: -1 tvg-id="1216" tvg-name="Highbrow" tvg-chno="1216" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png" group-title="Kids", Highbrow
 https://muviflix.site/live/high/1216.m3u8
-#EXTINF: -1 tvg-id="1430" tvg-name="Jio KIDS" tvg-chno="1430" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png" group-title="Kids", Jio KIDS
-https://muviflix.site/live/high/1430.m3u8
 #EXTINF: -1 tvg-id="1780" tvg-name="HooplaKidz TV" tvg-chno="1780" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hoopla_Kids_TV.png" group-title="Kids", HooplaKidz TV
 https://muviflix.site/live/high/1780.m3u8
-#EXTINF: -1 tvg-id="1920" tvg-name="The Q Kahaniyan" tvg-chno="1920" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/The_Q_Kahaniyan.png" group-title="Kids", The Q Kahaniyan
-https://muviflix.site/live/high/1920.m3u8
 #EXTINF: -1 tvg-id="173" tvg-name="Aaj Tak" tvg-chno="173" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="News", Aaj Tak
 https://feeds.intoday.in/aajtak/api/master.m3u8
 #EXTINF: -1 tvg-id="177" tvg-name="ABP News" tvg-chno="177" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News", ABP News
@@ -287,9 +255,7 @@ https://muviflix.site/live/high/520.m3u8
 https://muviflix.site/live/high/652.m3u8
 #EXTINF: -1 tvg-id="696" tvg-name="News18 Odia" tvg-chno="696" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png" group-title="Odia", News18 Odia
 https://nw18live.cdn.jio.com/bpk-tv/News18_Odia_NW18_MOB/output01/index.m3u8?__hdnea__=st=1720695487~exp=1720781887~acl=/*~hmac=8b39d11f4a3d71a4774e123b0dcb34f399b562e533b61e3892780cb73caaef24
-#EXTINF: -1 tvg-id="764" tvg-name="Channel News Asia International" tvg-chno="764" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" group-title="News", Channel News Asia International
-https://muviflix.site/live/high/764.m3u8
-#EXTINF: -1 tvg-id="771" tvg-name="Live Today" tvg-chno="771" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Live_Today.png" group-title="News", Live Today
+#EXTINF: -1 tvg-id="771" tvg-name="LiveToday" tvg-chno="771" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Live_Today.png" group-title="News", LiveToday
 https://muviflix.site/live/high/771.m3u8
 #EXTINF: -1 tvg-id="781" tvg-name="Kalinga TV" tvg-chno="781" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalinga_TV.png" group-title="Odia", Kalinga TV
 https://server.thelegitpro.in/kalingatv/kalingatv/index.fmp4.m3u8
@@ -395,20 +361,14 @@ https://muviflix.site/live/high/1245.m3u8
 https://muviflix.site/live/high/1248.m3u8
 #EXTINF: -1 tvg-id="1249" tvg-name="Kadak Hits" tvg-chno="1249" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kadak_Hits.png" group-title="Music", Kadak Hits
 https://muviflix.site/live/high/1249.m3u8
-#EXTINF: -1 tvg-id="1267" tvg-name="iLove" tvg-chno="1267" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/iLove.png" group-title="Music", iLove
-https://muviflix.site/live/high/1267.m3u8
 #EXTINF: -1 tvg-id="1286" tvg-name="Insync" tvg-chno="1286" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Insync.png" group-title="Music", Insync
 https://muviflix.site/live/high/1286.m3u8
 #EXTINF: -1 tvg-id="1320" tvg-name="VH1 HD" tvg-chno="1320" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VH1_HD.png" group-title="Music", VH1 HD
 https://muviflix.site/live/high/1320.m3u8
-#EXTINF: -1 tvg-id="1378" tvg-name="VH1" tvg-chno="1378" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VH1.png" group-title="Music", VH1
-https://muviflix.site/live/high/1378.m3u8
 #EXTINF: -1 tvg-id="1411" tvg-name="SongDew TV" tvg-chno="1411" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SongDew_TV.png" group-title="Music", SongDew TV
 https://muviflix.site/live/high/1411.m3u8
 #EXTINF: -1 tvg-id="1441" tvg-name="Wah Punjabi" tvg-chno="1441" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wah_Punjabi.png" group-title="Music", Wah Punjabi
 https://muviflix.site/live/high/1441.m3u8
-#EXTINF: -1 tvg-id="1453" tvg-name="Balle Balle TV" tvg-chno="1453" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" group-title="Music", Balle Balle TV
-https://muviflix.site/live/high/1453.m3u8
 #EXTINF: -1 tvg-id="1527" tvg-name="Haryanvi Hits" tvg-chno="1527" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Haryanvi_Hits.png" group-title="Music", Haryanvi Hits
 https://muviflix.site/live/high/1527.m3u8
 #EXTINF: -1 tvg-id="1694" tvg-name="Haryana Beats" tvg-chno="1694" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Haryana_Beats.png" group-title="Music", Haryana Beats
@@ -437,8 +397,6 @@ https://muviflix.site/live/high/2064.m3u8
 https://muviflix.site/live/high/2065.m3u8
 #EXTINF: -1 tvg-id="2229" tvg-name="Bhojpuri Junction" tvg-chno="2229" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Junction.png" group-title="Music", Bhojpuri Junction
 https://muviflix.site/live/high/2229.m3u8
-#EXTINF: -1 tvg-id="2230" tvg-name="Jio Specials HD" tvg-chno="2230" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Specials_HD.png" group-title="Music", Jio Specials HD
-https://muviflix.site/live/high/2230.m3u8
 #EXTINF: -1 tvg-id="2252" tvg-name="Desi Music Station" tvg-chno="2252" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Music_Station.png" group-title="Music", Desi Music Station
 https://muviflix.site/live/high/2252.m3u8
 #EXTINF: -1 tvg-id="2325" tvg-name="Punjabi Melodies" tvg-chno="2325" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Punjabi_Melodies.png" group-title="Music", Punjabi Melodies
@@ -453,10 +411,6 @@ https://muviflix.site/live/high/2751.m3u8
 https://muviflix.site/live/high/2752.m3u8
 #EXTINF: -1 tvg-id="2753" tvg-name="YRF Music" tvg-chno="2753" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music", YRF Music
 https://muviflix.site/live/high/2753.m3u8
-#EXTINF: -1 tvg-id="2754" tvg-name="Sikh Ratnavali" tvg-chno="2754" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sikh_Ratnavali.png" group-title="Music", Sikh Ratnavali
-https://muviflix.site/live/high/2754.m3u8
-#EXTINF: -1 tvg-id="2755" tvg-name="Saregama Hum Bhojpuri" tvg-chno="2755" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saregama_Hum_Bhojpuri.png" group-title="Music", Saregama Hum Bhojpuri
-https://muviflix.site/live/high/2755.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 1 HINDI HD" tvg-logo="" group-title="Sports", STAR SPORTS 1 HINDI HD
 https://ninjatv.host/star/ninjatv.m3u8?id=98866.ts
 #EXTINF: -1 tvg-id="ts81" tvg-logo="" group-title="Sports", Sony Ten 1 HD
