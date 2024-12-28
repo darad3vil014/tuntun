@@ -67,7 +67,7 @@ https://muviflix.site/live/high/1158.m3u8
 #EXTINF: -1 tvg-id="1232" tvg-name="Hi Dost!" tvg-chno="1232" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="Entertainment", Hi Dost!
 https://muviflix.site/live/high/1232.m3u8
 #EXTINF: -1 tvg-id="1359" tvg-name="Big Magic" tvg-chno="1359" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Big_Magic.png" group-title="Entertainment", Big Magic
-https://muviflix.site/live/high/1359.m3u8
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105176/BigMagicELE/master_aud.m3u8?hdntl=exp=1735450637~acl=%2f*~data=hdntl~hmac=58e7bf24d4f6f92300adf23c1702b8a6ef9dea3ff94cb9a8c8881be1747c1ff5
 #EXTINF: -1 tvg-id="1798" tvg-name="Pasand" tvg-chno="1798" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pasand.png" group-title="Entertainment", Pasand
 https://muviflix.site/live/high/1798.m3u8
 #EXTINF: -1 tvg-id="1834" tvg-name="Green Chillies" tvg-chno="1834" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Green_Chillies_TV.png" group-title="Entertainment", Green Chillies
