@@ -279,124 +279,26 @@ https://live.ekamraott.com/onepaschima/onepaschima/video.m3u8
 https://muviflix.site/live/high/183.m3u8
 #EXTINF: -1 tvg-id="440" tvg-name="9X Jalwa" tvg-chno="440" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music", 9X Jalwa
 https://muviflix.site/live/high/440.m3u8
-#EXTINF: -1 tvg-id="441" tvg-name="9x Jhakaas" tvg-chno="441" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="Music", 9x Jhakaas
-https://muviflix.site/live/high/441.m3u8
 #EXTINF: -1 tvg-id="587" tvg-name="9XM" tvg-chno="587" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Music", 9XM
 https://muviflix.site/live/high/587.m3u8
-#EXTINF: -1 tvg-id="591" tvg-name="E 24" tvg-chno="591" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" group-title="Music", E 24
-https://muviflix.site/live/high/591.m3u8
 #EXTINF: -1 tvg-id="592" tvg-name="ZOOM" tvg-chno="592" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="Music", ZOOM
 https://muviflix.site/live/high/592.m3u8
-#EXTINF: -1 tvg-id="639" tvg-name="Ramdhenu" tvg-chno="639" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ramdhenu.png" group-title="Music", Ramdhenu
-https://muviflix.site/live/high/639.m3u8
-#EXTINF: -1 tvg-id="732" tvg-name="9X Tashan" tvg-chno="732" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="Music", 9X Tashan
-https://muviflix.site/live/high/732.m3u8
-#EXTINF: -1 tvg-id="735" tvg-name="Sangeet Marathi" tvg-chno="735" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" group-title="Music", Sangeet Marathi
-https://muviflix.site/live/high/735.m3u8
-#EXTINF: -1 tvg-id="737" tvg-name="Raj Music Telugu" tvg-chno="737" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" group-title="Music", Raj Music Telugu
-https://muviflix.site/live/high/737.m3u8
-#EXTINF: -1 tvg-id="739" tvg-name="Raj Music Malayalam" tvg-chno="739" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Malayalam.png" group-title="Music", Raj Music Malayalam
-https://muviflix.site/live/high/739.m3u8
-#EXTINF: -1 tvg-id="740" tvg-name="Sangeet Bangla" tvg-chno="740" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png" group-title="Music", Sangeet Bangla
-https://muviflix.site/live/high/740.m3u8
-#EXTINF: -1 tvg-id="741" tvg-name="Sangeet Bhojpuri" tvg-chno="741" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png" group-title="Music", Sangeet Bhojpuri
-https://muviflix.site/live/high/741.m3u8
-#EXTINF: -1 tvg-id="742" tvg-name="mh1 (Music)" tvg-chno="742" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png" group-title="Music", mh1 (Music)
-https://muviflix.site/live/high/742.m3u8
-#EXTINF: -1 tvg-id="743" tvg-name="Raj Music Kannada" tvg-chno="743" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Kannada.png" group-title="Music", Raj Music Kannada
-https://muviflix.site/live/high/743.m3u8
-#EXTINF: -1 tvg-id="744" tvg-name="Udaya Music" tvg-chno="744" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Music.png" group-title="Music", Udaya Music
-https://muviflix.site/live/high/744.m3u8
-#EXTINF: -1 tvg-id="747" tvg-name="Surya Music" tvg-chno="747" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Music.png" group-title="Music", Surya Music
-https://muviflix.site/live/high/747.m3u8
-#EXTINF: -1 tvg-id="748" tvg-name="Raj Musix" tvg-chno="748" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="Music", Raj Musix
-https://muviflix.site/live/high/748.m3u8
-#EXTINF: -1 tvg-id="749" tvg-name="Sahana Music" tvg-chno="749" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sahana_Music.png" group-title="Music", Sahana Music
-https://muviflix.site/live/high/749.m3u8
 #EXTINF: -1 tvg-id="753" tvg-name="MTV Beats HD" tvg-chno="753" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music", MTV Beats HD
 https://muviflix.site/live/high/753.m3u8
-#EXTINF: -1 tvg-id="773" tvg-name="Public Music" tvg-chno="773" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_Music.png" group-title="Music", Public Music
-https://muviflix.site/live/high/773.m3u8
-#EXTINF: -1 tvg-id="786" tvg-name="Kappa TV" tvg-chno="786" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="Music", Kappa TV
-https://muviflix.site/live/high/786.m3u8
-#EXTINF: -1 tvg-id="803" tvg-name="Tunes 6" tvg-chno="803" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="Music", Tunes 6
-https://muviflix.site/live/high/803.m3u8
-#EXTINF: -1 tvg-id="845" tvg-name="MK Music" tvg-chno="845" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="Music", MK Music
-https://muviflix.site/live/high/845.m3u8
 #EXTINF: -1 tvg-id="895" tvg-name="Sun Music HD" tvg-chno="895" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="Music", Sun Music HD
 https://muviflix.site/live/high/895.m3u8
-#EXTINF: -1 tvg-id="898" tvg-name="Gemini Music HD" tvg-chno="898" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" group-title="Music", Gemini Music HD
-https://muviflix.site/live/high/898.m3u8
-#EXTINF: -1 tvg-id="903" tvg-name="Only Music" tvg-chno="903" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Only_Music.png" group-title="Music", Only Music
-https://muviflix.site/live/high/903.m3u8
-#EXTINF: -1 tvg-id="905" tvg-name="PBN Music" tvg-chno="905" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PBN_Music.png" group-title="Music", PBN Music
-https://muviflix.site/live/high/905.m3u8
-#EXTINF: -1 tvg-id="962" tvg-name="Boogle Bollywood" tvg-chno="962" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" group-title="Music", Boogle Bollywood
-https://muviflix.site/live/high/962.m3u8
-#EXTINF: -1 tvg-id="1103" tvg-name="PEACE MUSIC" tvg-chno="1103" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PEACE_MUSIC.png" group-title="Music", PEACE MUSIC
-https://muviflix.site/live/high/1103.m3u8
 #EXTINF: -1 tvg-id="1172" tvg-name="PTC Chak De" tvg-chno="1172" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png" group-title="Music", PTC Chak De
 https://muviflix.site/live/high/1172.m3u8
-#EXTINF: -1 tvg-id="1184" tvg-name="Steelbird Music" tvg-chno="1184" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Steelbird_Music.png" group-title="Music", Steelbird Music
-https://muviflix.site/live/high/1184.m3u8
-#EXTINF: -1 tvg-id="1188" tvg-name="PTC DHOL TV" tvg-chno="1188" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_DHOL_TV.png" group-title="Music", PTC DHOL TV
-https://muviflix.site/live/high/1188.m3u8
-#EXTINF: -1 tvg-id="1189" tvg-name="PTC Music" tvg-chno="1189" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Music.png" group-title="Music", PTC Music
-https://muviflix.site/live/high/1189.m3u8
-#EXTINF: -1 tvg-id="1192" tvg-name="Brit Asia" tvg-chno="1192" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Brit_Asia.png" group-title="Music", Brit Asia
-https://muviflix.site/live/high/1192.m3u8
-#EXTINF: -1 tvg-id="1245" tvg-name="Sakkat" tvg-chno="1245" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sakkat.png" group-title="Music", Sakkat
-https://muviflix.site/live/high/1245.m3u8
-#EXTINF: -1 tvg-id="1248" tvg-name="Bol Hadippa" tvg-chno="1248" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bol_Hadippa.png" group-title="Music", Bol Hadippa
-https://muviflix.site/live/high/1248.m3u8
 #EXTINF: -1 tvg-id="1249" tvg-name="Kadak Hits" tvg-chno="1249" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kadak_Hits.png" group-title="Music", Kadak Hits
 https://muviflix.site/live/high/1249.m3u8
-#EXTINF: -1 tvg-id="1286" tvg-name="Insync" tvg-chno="1286" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Insync.png" group-title="Music", Insync
-https://muviflix.site/live/high/1286.m3u8
 #EXTINF: -1 tvg-id="1320" tvg-name="VH1 HD" tvg-chno="1320" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VH1_HD.png" group-title="Music", VH1 HD
 https://muviflix.site/live/high/1320.m3u8
-#EXTINF: -1 tvg-id="1411" tvg-name="SongDew TV" tvg-chno="1411" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SongDew_TV.png" group-title="Music", SongDew TV
-https://muviflix.site/live/high/1411.m3u8
-#EXTINF: -1 tvg-id="1441" tvg-name="Wah Punjabi" tvg-chno="1441" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wah_Punjabi.png" group-title="Music", Wah Punjabi
-https://muviflix.site/live/high/1441.m3u8
-#EXTINF: -1 tvg-id="1527" tvg-name="Haryanvi Hits" tvg-chno="1527" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Haryanvi_Hits.png" group-title="Music", Haryanvi Hits
-https://muviflix.site/live/high/1527.m3u8
-#EXTINF: -1 tvg-id="1694" tvg-name="Haryana Beats" tvg-chno="1694" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Haryana_Beats.png" group-title="Music", Haryana Beats
-https://muviflix.site/live/high/1694.m3u8
-#EXTINF: -1 tvg-id="1708" tvg-name="SKY 12" tvg-chno="1708" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SKY_12.png" group-title="Music", SKY 12
-https://muviflix.site/live/high/1708.m3u8
-#EXTINF: -1 tvg-id="1871" tvg-name="7X Music" tvg-chno="1871" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/7X_Music.png" group-title="Music", 7X Music
-https://muviflix.site/live/high/1871.m3u8
-#EXTINF: -1 tvg-id="2036" tvg-name="Dil Se" tvg-chno="2036" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dil_Se.png" group-title="Music", Dil Se
-https://muviflix.site/live/high/2036.m3u8
-#EXTINF: -1 tvg-id="2037" tvg-name="Pop Pataka" tvg-chno="2037" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pop_Pataka.png" group-title="Music", Pop Pataka
-https://muviflix.site/live/high/2037.m3u8
-#EXTINF: -1 tvg-id="2038" tvg-name="Dhamaal" tvg-chno="2038" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dhamaal.png" group-title="Music", Dhamaal
-https://muviflix.site/live/high/2038.m3u8
-#EXTINF: -1 tvg-id="2039" tvg-name="Adipolli" tvg-chno="2039" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Adipolli.png" group-title="Music", Adipolli
-https://muviflix.site/live/high/2039.m3u8
-#EXTINF: -1 tvg-id="2042" tvg-name="Nazraana" tvg-chno="2042" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nazraana.png" group-title="Music", Nazraana
-https://muviflix.site/live/high/2042.m3u8
 #EXTINF: -1 tvg-id="2043" tvg-name="Artist Aloud" tvg-chno="2043" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Artist_Aloud.png" group-title="Music", Artist Aloud
 https://muviflix.site/live/high/2043.m3u8
-#EXTINF: -1 tvg-id="2063" tvg-name="RS Bharat" tvg-chno="2063" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/RS_Bharat.png" group-title="Music", RS Bharat
-https://muviflix.site/live/high/2063.m3u8
 #EXTINF: -1 tvg-id="2064" tvg-name="Merchant Records" tvg-chno="2064" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Merchant_Records.png" group-title="Music", Merchant Records
 https://muviflix.site/live/high/2064.m3u8
 #EXTINF: -1 tvg-id="2065" tvg-name="Saregama Music" tvg-chno="2065" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saregama_Music.png" group-title="Music", Saregama Music
 https://muviflix.site/live/high/2065.m3u8
-#EXTINF: -1 tvg-id="2229" tvg-name="Bhojpuri Junction" tvg-chno="2229" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Junction.png" group-title="Music", Bhojpuri Junction
-https://muviflix.site/live/high/2229.m3u8
-#EXTINF: -1 tvg-id="2252" tvg-name="Desi Music Station" tvg-chno="2252" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Music_Station.png" group-title="Music", Desi Music Station
-https://muviflix.site/live/high/2252.m3u8
-#EXTINF: -1 tvg-id="2325" tvg-name="Punjabi Melodies" tvg-chno="2325" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Punjabi_Melodies.png" group-title="Music", Punjabi Melodies
-https://muviflix.site/live/high/2325.m3u8
-#EXTINF: -1 tvg-id="2745" tvg-name="Saregama Telugu" tvg-chno="2745" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saregama_Telugu.png" group-title="Music", Saregama Telugu
-https://muviflix.site/live/high/2745.m3u8
-#EXTINF: -1 tvg-id="2750" tvg-name="Saga Music" tvg-chno="2750" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saga_Music.png" group-title="Music", Saga Music
-https://muviflix.site/live/high/2750.m3u8
-#EXTINF: -1 tvg-id="2751" tvg-name="Saga Music Haryanvi" tvg-chno="2751" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saga_Music_Haryanvi.png" group-title="Music", Saga Music Haryanvi
-https://muviflix.site/live/high/2751.m3u8
 #EXTINF: -1 tvg-id="2752" tvg-name="Ghaint Punjab" tvg-chno="2752" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ghaint_Punjab.png" group-title="Music", Ghaint Punjab
 https://muviflix.site/live/high/2752.m3u8
 #EXTINF: -1 tvg-id="2753" tvg-name="YRF Music" tvg-chno="2753" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music", YRF Music
