@@ -160,7 +160,7 @@ https://muviflix.site/live/high/1691.m3u8
 https://muviflix.site/live/high/1450.m3u8
 #EXTINF: -1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" tvg-chno="1763" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Movies", Colors Cineplex Bollywood
 https://muviflix.site/live/high/1763.m3u8
-#EXTINF: -1 tvg-id="2757" tvg-name="Zee Zest" tvg-chno="2757" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Zest_HD.png" group-title="Infotainment", Zee Zest
+#EXTINF: -1 tvg-id="" tvg-name="Zee Zest HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Zest_HD.png" group-title="Infotainment", Zee Zest HD
 http://tv.cloudcdn.me:80/live.ts?channelId=29704&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF: -1 tvg-id="164" tvg-name="Travelxp HD" tvg-chno="164" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Infotainment", Travelxp HD
 https://muviflix.site/live/high/164.m3u8
