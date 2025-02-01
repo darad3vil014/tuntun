@@ -316,15 +316,15 @@ https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF: -1 tvg-id="ts35" tvg-logo="" group-title="Sports", Sony Ten 5 HD
 https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 1 HD" tvg-logo="" group-title="Sports", STAR SPORTS 1 HD
-https://off4.jismhaitokia.com:999/hls/star1in.m3u8?md5=rGVobNxs_EtU9KCieR-NsA&expires=1734196924
+https://streamline.sturls.com/StarSports01/index.fmp4.m3u8?token=502e56372c81326a7077ae3a5ac09480688de053-fade824a4179aefef510e5000e815320-1738401274-1738390474
 #EXTINF: -1 tvg-name="STAR SPORTS 2 HD" tvg-logo="" group-title="Sports", STAR SPORTS 2 HD
-http://185.156.74.131:25461/live/685034/245521/85566.m3u8?token=ShRZAEYJFQxGWlZbVgNSAlZZVFEHAQEDBFFVBFAAVFZTS3PhR77LGrLCwjHWU6oXzAmjc4pijmyTWwEBHRYTFVREbghRQw0UVQlTS3PhR77LGrLCwjHWU6oXzAmjc4pijmyTWRcET0IBSghZWWpSA0FRUlATS3PhR77LGrLCwjHWU6oXzAmjc4pijmyTWkZEDVZEWV0ZG1RcFkVWRVFEXF9DXQ0ZQ1RZEVYSSkwXDERlbRMZE1BBQlAMRF5eWkRcE1sCFA1DGxQNSzlKUEZCFFJZXFBDFwMUBUAbFVxVHjlSWV8PUAJDXwtWFRoPFwdEGxpcWl9cTVlHPUdeVRZcCERaXRw=
+https://streamline.sturls.com/StarSports02/index.fmp4.m3u8?token=63a25ba93d99df614350f7396ad43adbc30b6fce-20f28c371cbc9ff0b1d8c6db8251e28c-1738401328-1738390528
 #EXTINF: -1 tvg-name="STAR SPORTS 3" tvg-logo="" group-title="Sports", STAR SPORTS 3
 http://185.156.74.131:25461/live/685034/245521/85652.m3u8?token=ShRZAEYJFQxGDAUMUQAHV1ZaBVEIAloPB1oBBgQNBQcCBVQCBgQGUAAaShpGQUQDVlVuXFUXAw4AVAIFHRYTFVREbghRQw0UVQlTS3PhR77LGrLCwjHWU6oXzAmjc4pijmyTWRcET0IBSghZWWpSA0FRUlATS3PhR77LGrLCwjHWU6oXzAmjc4pijmyTWkZEDVZEWV0ZG1RcFkVWRVFEXF9DXQ0ZQ1RZEVYSSkwXDERlbRMZE1BBQlAMRF5eWkRcE1sCFA1DGxQNSzlKUEZCFFJZXFBDFwMUBUAbFVxVHjlSWV8PUAJDXwtWFRoPFwdEGxpcWl9cTVlHPUdeVRZcCERaXRw=
 #EXTINF: -1 tvg-name="STAR SPORTS SELECT 1 HD" group-title="Sports", STAR SPORTS SELECT 1 HD
-http://premiumdedi.one/Jubilant7Relative/xmb1HEJBsY/451471
+https://streamline.sturls.com/StarSportsSelect01/index.m3u8?token=da45d7758bec9e99a32e20f7db993397a27b03e8-45824538a24fdafee7bad3eb4fb20175-1738393107-1738382307&remote=no_check_ip
 #EXTINF: -1 tvg-name="STAR SPORTS SELECT 2 HD" group-title="Sports", STAR SPORTS SELECT 2 HD
-http://176.119.29.52/live.ts?channelId=300&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+https://streamline.sturls.com/StarSportsSelect02/index.m3u8?token=d2a03340e5b2067ac768befbc1da23f75e016b69-f23b0b8fbc2bd4b51ab1adb0ac004d83-1738395669-1738384869&remote=no_check_ip
 #EXTINF: -1 tvg-id="204" tvg-name="DD Sports" tvg-chno="204" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports", DD Sports
 https://muviflix.site/live/high/204.m3u8
 #EXTINF: -1 tvg-id="1163" tvg-name="JioGames HD" tvg-chno="1163" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Esports_HD.png" group-title="Sports", JioGames HD
