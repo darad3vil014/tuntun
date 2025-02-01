@@ -18,11 +18,11 @@ http://tv.cloudcdn.me/live.ts?channelId=12364&uid=7245&deviceMac=00:1A:79:B0:A9:
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF: -1 tvg-id="ts115" tvg-name="Colors Odia" tvg-logo="" group-title="Odia", Colors Odia
 https://muviflix.site/live/high/198.m3u8
-#EXTINF: -1 tvg-id="" tvg-logo="https://www.tarangtv.in/taranglogo.png" group-title="Odia", Tarang TV
+#EXTINF: -1 tvg-id="ts237" tvg-name="Tarang TV" tvg-logo="" group-title="Odia", Tarang TV
 https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
-#EXTINF: -1 tvg-id="722" tvg-name="Zee Sarthak" tvg-chno="722" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="Odia", Zee Sarthak
+#EXTINF: -1 tvg-id="722" tvg-name="Zee Sarthak" tvg-chno="722" tvg-logo="" group-title="Odia", Zee Sarthak
 http://zee.muviflix.site/index.php?id=0-9-sarthaktv
-#EXTINF: -1 tvg-id="OdishaTV.in" tvg-logo="https://i.imgur.com/tCT3qL9.png" group-title="Odia", OTV
+#EXTINF: -1 tvg-id="OdishaTV.in" tvg-logo="" group-title="Odia", OTV
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="718" tvg-name="Kanak News" tvg-chno="718" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png" group-title="Odia", Kanak News
 https://muviflix.site/live/high/718.m3u8
@@ -70,7 +70,7 @@ https://muviflix.site/live/high/1232.m3u8
 http://zee.muviflix.site/index.php?id=0-9-bigmagic_1786965389
 #EXTINF: -1 tvg-id="1798" tvg-name="Pasand" tvg-chno="1798" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pasand.png" group-title="Entertainment", Pasand
 https://muviflix.site/live/high/1798.m3u8
-#EXTINF: -1 tvg-id="1834" tvg-name="Green Chillies" tvg-chno="1834" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Green_Chillies_TV.png" group-title="Entertainment", Green Chillies
+#EXTINF: -1 tvg-id="ts931" tvg-name="Green Chillies" tvg-chno="1834" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Green_Chillies_TV.png" group-title="Entertainment", Green Chillies
 https://muviflix.site/live/high/1834.m3u8
 #EXTINF: -1 tvg-id="1961" tvg-name="Shemaroo TV" tvg-chno="1961" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png" group-title="Entertainment", Shemaroo TV
 https://muviflix.site/live/high/1961.m3u8
@@ -193,7 +193,7 @@ https://muviflix.site/live/high/559.m3u8
 https://muviflix.site/live/high/1226.m3u8
 #EXTINF: -1 tvg-id="544" tvg-name="Nick Jr" tvg-chno="544" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids", Nick Jr
 https://muviflix.site/live/high/548.m3u8
-#EXTINF: -1 tvg-id="815" tvg-name="Sonic Nickelodeon" tvg-chno="815" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids", Sonic Nickelodeon
+#EXTINF: -1 tvg-id="ts127" tvg-name="Sonic" tvg-logo="" group-title="Kids", Sonic
 https://muviflix.site/live/high/815.m3u8
 #EXTINF: -1 tvg-id="1216" tvg-name="Highbrow" tvg-chno="1216" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png" group-title="Kids", Highbrow
 https://muviflix.site/live/high/1216.m3u8
@@ -245,8 +245,8 @@ https://muviflix.site/live/high/520.m3u8
 https://muviflix.site/live/high/652.m3u8
 #EXTINF: -1 tvg-id="696" tvg-name="News18 Odia" tvg-chno="696" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png" group-title="Odia", News18 Odia
 https://nw18live.cdn.jio.com/bpk-tv/News18_Odia_NW18_MOB/output01/index.m3u8?__hdnea__=st=1720695487~exp=1720781887~acl=/*~hmac=8b39d11f4a3d71a4774e123b0dcb34f399b562e533b61e3892780cb73caaef24
-#EXTINF: -1 tvg-id="771" tvg-name="LiveToday" tvg-chno="771" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Live_Today.png" group-title="News", LiveToday
-https://muviflix.site/live/high/771.m3u8
+#EXTINF: -1 tvg-id="ts260" tvg-name="Zee Business" tvg-logo="" group-title="News", Zee Business
+https://muviflix.site/live/high/657.m3u8
 #EXTINF: -1 tvg-id="781" tvg-name="Kalinga TV" tvg-chno="781" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalinga_TV.png" group-title="Odia", Kalinga TV
 https://server.thelegitpro.in/kalingatv/kalingatv/index.fmp4.m3u8
 #EXTINF: -1 tvg-name="Dangal Odia" tvg-logo="https://yt3.googleusercontent.com/BhJM_Ui6pWm7kF__2G79jgTwDzQNyQFU115xlv-2VszJlNYeofswGhlHVsdOJWdKBuNdhmTr2YQ=s900-c-k-c0x00ffffff-no-rj" group-title="Odia", Dangal Odia
