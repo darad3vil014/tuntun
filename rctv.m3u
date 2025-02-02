@@ -168,8 +168,8 @@ https://muviflix.site/live/high/164.m3u8
 https://muviflix.site/live/high/479.m3u8
 #EXTINF: -1 tvg-id="561" tvg-name="Food Food" tvg-chno="561" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Infotainment", Food Food
 https://muviflix.site/live/high/561.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="BBO HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="Movies", BBO HD
-https://livegeoroueu.akamaized.net/28072023/smil:bbo1.smil/playlist.m3u8?hdnts=st=1738392948~exp=1738396548~acl=!*/28072023/smil:bbo1.smil/*!yuppTVCom_5_24049354_c24505a291c14922_US_45.61.146.16~data=yuppTVCom_5_24049354_c24505a291c14922_US_45.61.146.16~hmac=f38bd4968dd46064131514bd4d979ab861a6da80f7e3eb46c9d31767667e3993&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=MOV&ads.channel=3529&ads.channel_name=BBO&ads.network_name=yupptv&ads.user=1
+#EXTINF: -1 tvg-id="ts333" tvg-name="DD Odia" tvg-logo="" group-title="Odia", DD Odia
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/245d9a9e-4820-43b1-af33-4a3017d09f52/2.m3u8
 #EXTINF: -1 tvg-id="816" tvg-name="Cartoon Network" tvg-chno="816" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids", Cartoon Network
 https://muviflix.site/live/high/816.m3u8
 #EXTINF: -1 tvg-id="ts345" tvg-name="Hungama" group-title="Kids", Hungama
