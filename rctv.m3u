@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/raw/main/tataplay/epg.xml.gz"
-#EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/raw/main/jiotv/epg.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 #EXTINF: -1 group-title="Movies", Sony Max HD
 https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF: -1 group-title="Entertainment", SET HD
@@ -349,7 +349,7 @@ https://live.argusnews.in/hls/argustv.m3u8
 https://live.ekamraott.com/nilachakra/nilachakra/video.m3u8
 #EXTINF: -1 tvg-id="ts1200" tvg-name="Jatra Ekamra" tvg-chno="2227" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jatra_Ekamra.png" group-title="Odia", Jatra Ekamra
 https://live.ekamraott.com/jatra/jatra/video.m3u8
-#EXTINF: -1 tvg-id="2016" tvg-name="Ekamra Cinema" tvg-chno="2016" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Cinema.png" group-title="Odia", Ekamra Cinema
+#EXTINF: -1 tvg-id="ts1198" tvg-name="Ekamra Cinema" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Cinema.png" group-title="Odia", Ekamra Cinema
 https://live.ekamraott.com/cynema/cynema/video.m3u8
 #EXTINF: -1 tvg-id="ts1199" tvg-name="Ekamra Musiq" tvg-chno="2015" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Music.png" group-title="Odia", Ekamra Musiq
 https://live.ekamraott.com/musiq/musiq/video.m3u8
@@ -357,7 +357,7 @@ https://live.ekamraott.com/musiq/musiq/video.m3u8
 https://live.ekamraott.com/bharat/bharat/video.m3u8
 #EXTINF: -1 tvg-id="2012" tvg-name="Paramatma" tvg-chno="2012" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Paramatma.png" group-title="Odia", Ekamra Paramatma
 https://live.ekamraott.com/paramatma/paramatma/video.m3u8
-#EXTINF: -1 tvg-id="631" tvg-name="MBC TV" tvg-chno="631" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MBC.png" group-title="Odia", MBC TV
+#EXTINF: -1 tvg-id="631" tvg-name="MBC" tvg-chno="631" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MBC.png" group-title="Odia", MBC TV
 https://muviflix.site/live/high/631.m3u8
 #EXTINF: -1 tvg-id="2258" tvg-name="Animax" tvg-chno="2258" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animax.png" group-title="Kids", Animax
 https://muviflix.site/live/high/2258.m3u8
