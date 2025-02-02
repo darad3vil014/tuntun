@@ -145,8 +145,8 @@ http://zee.muviflix.site/index.php?id=0-9-209
 http://zee.muviflix.site/index.php?id=0-9-zeecinema
 #EXTINF: -1 tvg-id="1322" tvg-name="&Flix HD" tvg-chno="1322" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="Movies", &Flix HD
 http://zee.muviflix.site/index.php?id=0-9-channel_2105335046
-#EXTINF: -1 tvg-id="" tvg-name="Goldmines 2" tvg-logo="https://static.wikia.nocookie.net/youtube/images/4/42/GoldminesTelefilms.jpg" group-title="Movies", Goldmines 2
-https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF: -1 tvg-id="ts1370" tvg-name="Sun Neo HD" tvg-logo="" group-title="Entertainment", Sun Neo HD
+https://muviflix.site/live/high/3088.m3u8
 #EXTINF: -1 group-title="Movies", Sony Pix HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF: -1 tvg-id="1349" tvg-name="&Prive HD" tvg-chno="1349" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="Movies", &Prive HD
