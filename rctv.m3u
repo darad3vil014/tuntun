@@ -325,22 +325,22 @@ http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=4166&deviceMac=00:1A:79:F3:
 http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF: -1 tvg-name="STAR SPORTS SELECT 2 HD" group-title="Sports", STAR SPORTS SELECT 2 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=4166&deviceMac=00:1A:79:F3:9F:F5
-#EXTINF: -1 tvg-id="204" tvg-name="DD Sports" tvg-chno="204" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports", DD Sports
-https://muviflix.site/live/high/204.m3u8
-#EXTINF: -1 tvg-id="1163" tvg-name="JioGames HD" tvg-chno="1163" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Esports_HD.png" group-title="Sports", JioGames HD
-https://muviflix.site/live/high/1163.m3u8
 #EXTINF: -1 tvg-id="875" tvg-name="EUROSPORT HD" tvg-chno="875" tvg-logo="" group-title="Sports", EUROSPORT HD
 https://muviflix.site/live/high/875.m3u8
-#EXTINF: -1 tvg-id="1529" tvg-name="MI TV" tvg-chno="1529" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="Sports", MI TV
-https://muviflix.site/live/high/1529.m3u8
-#EXTINF: -1 tvg-name="Sports18 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_2.png" group-title="Sports", Sports18 2
-https://muviflix.site/live/high/2852.m3u8
-#EXTINF: -1 tvg-id="ts1033" tvg-name="Sports18 1 HD" tvg-chno="1984" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports", Sports18 1 HD
+#EXTINF: -1 tvg-id="ts1033" tvg-name="Sports18 1 HD" tvg-logo="" group-title="Sports", Sports18 1 HD
 https://muviflix.site/live/high/1984.m3u8
+#EXTINF: -1 tvg-id="ts1186" tvg-name="Sports18 2" tvg-logo="" group-title="Sports", Sports18 2
+https://muviflix.site/live/high/2852.m3u8
 #EXTINF: -1 tvg-name="Sports18 Khel" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="Sports", Sports18 Khel
 https://muviflix.site/live/high/1998.m3u8
+#EXTINF: -1 tvg-id="204" tvg-name="DD Sports" tvg-chno="204" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports", DD Sports
+https://muviflix.site/live/high/204.m3u8
 #EXTINF: -1 tvg-id="2766" tvg-name="BRAVE TV" tvg-chno="2766" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Brave_TV.png" group-title="Sports", BRAVE TV
 https://muviflix.site/live/high/2766.m3u8
+#EXTINF: -1 tvg-id="1529" tvg-name="MI TV" tvg-chno="1529" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="Sports", MI TV
+https://muviflix.site/live/high/1529.m3u8
+#EXTINF: -1 tvg-id="1163" tvg-name="JioGames HD" tvg-chno="1163" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Esports_HD.png" group-title="Sports", JioGames HD
+https://muviflix.site/live/high/1163.m3u8
 #EXTINF: -1 tvg-id="ts448" tvg-name="Prameya News 7" tvg-chno="779" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prameya_News_7.png" group-title="Odia", Prameya News 7
 https://server.livelegitpro.in/prameyanews7/prameyanews7/index.fmp4.m3u8
 #EXTINF: -1 tvg-id="1481" tvg-name="Argus News" tvg-chno="1481" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Argus_TV.png" group-title="Odia", Argus News
