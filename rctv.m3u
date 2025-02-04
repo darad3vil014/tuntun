@@ -144,13 +144,13 @@ http://119.152.240.15:8001/play/a0bi/index.m3u8
 http://zee.muviflix.site/index.php?id=0-9-209
 #EXTINF: -1 tvg-id="484" tvg-name="Zee Cinema" tvg-chno="484" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Movies", Zee Cinema
 http://zee.muviflix.site/index.php?id=0-9-zeecinema
-#EXTINF: -1 tvg-id="1322" tvg-name="&Flix HD" tvg-chno="1322" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="Movies", &Flix HD
+#EXTINF: -1 tvg-id="ts506" tvg-name="&Flix HD" tvg-logo="" group-title="Movies", &Flix HD
 http://zee.muviflix.site/index.php?id=0-9-channel_2105335046
 #EXTINF: -1 tvg-id="ts1370" tvg-name="Sun Neo HD" tvg-logo="" group-title="Entertainment", Sun Neo HD
 https://muviflix.site/live/high/3088.m3u8
 #EXTINF: -1 group-title="Movies", Sony Pix HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
-#EXTINF: -1 tvg-id="1349" tvg-name="&Prive HD" tvg-chno="1349" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="Movies", &Prive HD
+#EXTINF: -1 tvg-id="ts530" tvg-name="&Prive HD" tvg-chno="1349" tvg-logo="" group-title="Movies", &Prive HD
 http://zee.muviflix.site/index.php?id=0-9-9z5543514
 #EXTINF: -1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-chno="1477" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movies", Colors Cineplex HD
 https://muviflix.site/live/high/1477.m3u8  
@@ -275,15 +275,15 @@ https://live.ekamraott.com/baiscope/baiscope/video.m3u8
 https://muviflix.site/live/high/1759.m3u8
 #EXTINF: -1 tvg-id="ts1202" tvg-name="One Paschima" tvg-chno="2355" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/One_Paschima.png" group-title="Odia", One Paschima
 https://live.ekamraott.com/onepaschima/onepaschima/video.m3u8
-#EXTINF: -1 tvg-id="183" tvg-name="B4U Music" tvg-chno="183" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music", B4U Music
+#EXTINF: -1 tvg-id="183" tvg-name="B4U Music" tvg-chno="183" tvg-logo="" group-title="Music", B4U Music
 https://muviflix.site/live/high/183.m3u8
-#EXTINF: -1 tvg-id="440" tvg-name="9X Jalwa" tvg-chno="440" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music", 9X Jalwa
+#EXTINF: -1 tvg-id="440" tvg-name="9X Jalwa" tvg-chno="440" tvg-logo="" group-title="Music", 9X Jalwa
 https://muviflix.site/live/high/440.m3u8
-#EXTINF: -1 tvg-id="587" tvg-name="9XM" tvg-chno="587" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Music", 9XM
+#EXTINF: -1 tvg-id="587" tvg-name="9XM" tvg-chno="587" tvg-logo="" group-title="Music", 9XM
 https://muviflix.site/live/high/587.m3u8
-#EXTINF: -1 tvg-id="592" tvg-name="ZOOM" tvg-chno="592" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="Music", ZOOM
+#EXTINF: -1 tvg-id="592" tvg-name="ZOOM" tvg-chno="592" tvg-logo="" group-title="Music", ZOOM
 https://muviflix.site/live/high/592.m3u8
-#EXTINF: -1 tvg-id="753" tvg-name="MTV Beats HD" tvg-chno="753" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music", MTV Beats HD
+#EXTINF: -1 tvg-id="753" tvg-name="MTV Beats HD" tvg-chno="753" tvg-logo="" group-title="Music", MTV Beats HD
 https://muviflix.site/live/high/753.m3u8
 #EXTINF: -1 tvg-id="895" tvg-name="Sun Music HD" tvg-chno="895" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="Music", Sun Music HD
 https://muviflix.site/live/high/895.m3u8
@@ -343,7 +343,7 @@ https://muviflix.site/live/high/1529.m3u8
 https://muviflix.site/live/high/1163.m3u8
 #EXTINF: -1 tvg-id="ts448" tvg-name="Prameya News 7" tvg-chno="779" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prameya_News_7.png" group-title="Odia", Prameya News 7
 https://server.livelegitpro.in/prameyanews7/prameyanews7/index.fmp4.m3u8
-#EXTINF: -1 tvg-id="1481" tvg-name="Argus News" tvg-chno="1481" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Argus_TV.png" group-title="Odia", Argus News
+#EXTINF: -1 tvg-id="ts907" tvg-name="Argus News" tvg-logo="" group-title="Odia", Argus News
 https://live.argusnews.in/hls/argustv.m3u8
 #EXTINF: -1 tvg-id="2010" tvg-name="Ekamra Nilachakra" tvg-chno="2010" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Nilach_akra.png" group-title="Odia", Ekamra Nilachakra
 https://live.ekamraott.com/nilachakra/nilachakra/video.m3u8
