@@ -4,13 +4,13 @@
 https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF: -1 group-title="Entertainment", SET HD
 https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
-#EXTINF: -1 tvg-id="144" tvg-name="Colors HD" tvg-chno="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment", Colors HD
+#EXTINF: -1 tvg-id="ts52" tvg-name="Colors HD" tvg-chno="144" tvg-logo="" group-title="Entertainment", Colors HD
 https://muviflix.site/live/high/144.m3u8
 #EXTINF: -1 tvg-name="STAR PLUS HD" group-title="Entertainment", STAR PLUS HD
 http://tv.cloudcdn.me/live.ts?channelId=200&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF: -1 group-title="Entertainment", Sony Sab HD
+#EXTINF: -1 tvg-id="ts48" tvg-name="Sony Sab HD" group-title="Entertainment", Sony Sab HD
 https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
-#EXTINF: -1 tvg-id="167" tvg-name="Zee TV HD" tvg-chno="167" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment", Zee TV HD
+#EXTINF: -1 tvg-id="ts63" tvg-name="Zee TV HD" tvg-logo="" group-title="Entertainment", Zee TV HD
 http://zee.muviflix.site/index.php?id=0-9-zeetvhd
 #EXTINF: -1 tvg-name="STAR UTSAV" group-title="Entertainment", STAR UTSAV
 http://tv.cloudcdn.me/live.ts?channelId=12364&uid=7245&deviceMac=00:1A:79:B0:A9:0C
@@ -44,7 +44,7 @@ https://muviflix.site/live/high/3115.m3u8
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_3000k.m3u8
 #EXTINF: -1 tvg-id="202" tvg-name="DD National" tvg-chno="202" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment", DD National
 https://muviflix.site/live/high/202.m3u8
-#EXTINF: -1 tvg-id="279" tvg-name="Colors Rishtey" tvg-chno="279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment", Colors Rishtey
+#EXTINF: -1 tvg-id="ts438" tvg-name="Colors Rishtey" tvg-chno="279" tvg-logo="" group-title="Entertainment", Colors Rishtey
 https://muviflix.site/live/high/279.m3u8
 #EXTINF: -1 tvg-name="MTV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Entertainment", MTV HD
 https://muviflix.site/live/high/1145.m3u8
@@ -54,7 +54,7 @@ http://zee.muviflix.site/index.php?id=0-9-tvhd_0
 http://zee.muviflix.site/index.php?id=0-9-zeeanmol
 #EXTINF: -1 tvg-id="481" tvg-name="Epic" tvg-chno="481" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Entertainment", Epic
 https://muviflix.site/live/high/481.m3u8
-#EXTINF: -1 tvg-id="527" tvg-name="Investigation Discovery" tvg-chno="527" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.png" group-title="Entertainment", Investigation Discovery
+#EXTINF: -1 tvg-id="ts633" tvg-name="Investigation Discovery" tvg-chno="527" tvg-logo="" group-title="Entertainment", Investigation Discovery
 https://muviflix.site/live/high/527.m3u8
 #EXTINF: -1 tvg-id="528" tvg-name="DD India" tvg-chno="528" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png" group-title="Entertainment", DD India
 https://muviflix.site/live/high/528.m3u8
@@ -62,7 +62,7 @@ https://muviflix.site/live/high/528.m3u8
 https://muviflix.site/live/high/533.m3u8
 #EXTINF: -1 tvg-id="701" tvg-name="Dangal" tvg-chno="701" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" group-title="Entertainment", Dangal
 https://muviflix.site/live/high/701.m3u8
-#EXTINF: -1 tvg-id="1158" tvg-name="Colors Infinity HD" tvg-chno="1158" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Entertainment", Colors Infinity HD
+#EXTINF: -1 tvg-id="ts187" tvg-name="Colors Infinity HD" tvg-chno="1158" tvg-logo="" group-title="Entertainment", Colors Infinity HD
 https://muviflix.site/live/high/1158.m3u8
 #EXTINF: -1 tvg-id="1232" tvg-name="Hi Dost!" tvg-chno="1232" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="Entertainment", Hi Dost!
 https://muviflix.site/live/high/1232.m3u8
@@ -80,19 +80,19 @@ https://muviflix.site/live/high/2078.m3u8
 http://119.152.240.15:8001/play/a0bg/index.m3u8
 #EXTINF: -1 group-title="Infotainment", Sony BBC Earth
 https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-#EXTINF: -1 tvg-id="286" tvg-name="Animal Planet HD World" tvg-chno="286" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="Infotainment", Animal Planet HD World
+#EXTINF: -1 tvg-id="ts287" tvg-name="Animal Planet HD World" tvg-chno="286" tvg-logo="" group-title="Infotainment", Animal Planet HD World
 https://muviflix.site/live/high/286.m3u8
 #EXTINF: -1 tvg-id="463" tvg-name="Discovery HD World" tvg-chno="463" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png" group-title="Infotainment", Discovery HD World
 https://muviflix.site/live/high/463.m3u8
 #EXTINF: -1 tvg-id="541" tvg-name="Discovery Turbo" tvg-chno="541" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-967-j5mr8tw8-v1/imageContent-967-j5mr8tw8-m1.png" group-title="Infotainment", Discovery Turbo
 https://muviflix.site/live/high/541.m3u8
-#EXTINF: -1 tvg-id="566" tvg-name="Animal Planet" tvg-chno="566" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Infotainment", Animal Planet
+#EXTINF: -1 tvg-id="ts130" tvg-name="Animal Planet" tvg-chno="566" tvg-logo="" group-title="Infotainment", Animal Planet
 https://muviflix.site/live/high/566.m3u8
 #EXTINF: -1 tvg-id="568" tvg-name="Discovery Science" tvg-chno="568" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png" group-title="Infotainment", Discovery Science
 https://muviflix.site/live/high/568.m3u8
 #EXTINF: -1 tvg-id="575" tvg-name="Discovery Channel" tvg-chno="575" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-876-j5mcolzc-v2/imageContent-876-j5mcolzc-m2.png" group-title="Infotainment", Discovery Channel
 https://muviflix.site/live/high/575.m3u8
-#EXTINF: -1 tvg-id="578" tvg-name="History TV18 HD" tvg-chno="578" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Infotainment", History TV18 HD
+#EXTINF: -1 tvg-id="ts616" tvg-name="History TV18 HD" tvg-logo="" group-title="Infotainment", History TV18 HD
 https://muviflix.site/live/high/578.m3u8
 #EXTINF: -1 tvg-id="580" tvg-name="DD Bharati" tvg-chno="580" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="Infotainment", DD Bharati
 https://muviflix.site/live/high/580.m3u8
@@ -160,7 +160,7 @@ http://zee.muviflix.site/index.php?id=0-9-176
 https://muviflix.site/live/high/1450.m3u8
 #EXTINF: -1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" tvg-chno="1763" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Movies", Colors Cineplex Bollywood
 https://muviflix.site/live/high/1763.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="Zee Zest HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Zest_HD.png" group-title="Infotainment", Zee Zest HD
+#EXTINF: -1 tvg-id="ts382" tvg-name="Zee Zest HD" tvg-logo="" group-title="Infotainment", Zee Zest HD
 http://zee.muviflix.site/index.php?id=0-9-348
 #EXTINF: -1 tvg-id="164" tvg-name="Travelxp HD" tvg-chno="164" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Infotainment", Travelxp HD
 https://muviflix.site/live/high/164.m3u8
@@ -170,7 +170,7 @@ https://muviflix.site/live/high/479.m3u8
 https://muviflix.site/live/high/561.m3u8
 #EXTINF: -1 tvg-id="ts333" tvg-name="DD Odia" tvg-logo="" group-title="Odia", DD Odia
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/245d9a9e-4820-43b1-af33-4a3017d09f52/2.m3u8
-#EXTINF: -1 tvg-id="816" tvg-name="Cartoon Network" tvg-chno="816" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids", Cartoon Network
+#EXTINF: -1 tvg-id="ts238" tvg-name="Cartoon Network" tvg-logo="" group-title="Kids", Cartoon Network
 https://muviflix.site/live/high/816.m3u8
 #EXTINF: -1 tvg-id="ts345" tvg-name="Hungama" group-title="Kids", Hungama
 http://119.152.240.15:8001/play/a0cs/index.m3u8
@@ -183,15 +183,15 @@ https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 https://tp.yg048.workers.dev/ch/587.m3u8
 #EXTINF:-1 tvg-id="ts144" group-title="Kids" tvg-logo="" ,Disney Junior
 http://119.152.240.15:8001/play/a02z/index.m3u8
-#EXTINF: -1 tvg-id="545" tvg-name="Nick" tvg-chno="545" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids", Nick
+#EXTINF: -1 tvg-id="ts138" tvg-name="Nick" tvg-logo="" group-title="Kids", Nick
 https://muviflix.site/live/high/545.m3u8
-#EXTINF: -1 tvg-id="554" tvg-name="Discovery Kids" tvg-chno="554" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Kids", Discovery Kids
+#EXTINF: -1 tvg-id="ts119" tvg-name="Discovery Kids" tvg-logo="" group-title="Kids", Discovery Kids
 https://muviflix.site/live/high/554.m3u8
-#EXTINF: -1 tvg-id="559" tvg-name="Pogo" tvg-chno="559" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids", Pogo
+#EXTINF: -1 tvg-id="ts239" tvg-name="Pogo" tvg-logo="" group-title="Kids", Pogo
 https://muviflix.site/live/high/559.m3u8
-#EXTINF: -1 tvg-id="1226" tvg-name="Nick HD+" tvg-chno="1226" tvg-logo="" group-title="Kids", Nick HD+
+#EXTINF: -1 tvg-id="ts433" tvg-name="Nick HD+" tvg-logo="" group-title="Kids", Nick HD+
 https://muviflix.site/live/high/1226.m3u8
-#EXTINF: -1 tvg-id="544" tvg-name="Nick Jr" tvg-chno="544" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids", Nick Jr
+#EXTINF: -1 tvg-id="ts118" tvg-name="Nick Jr" tvg-logo="" group-title="Kids", Nick Jr
 https://muviflix.site/live/high/548.m3u8
 #EXTINF: -1 tvg-id="ts127" tvg-name="Sonic" tvg-logo="" group-title="Kids", Sonic
 https://muviflix.site/live/high/815.m3u8
@@ -211,15 +211,15 @@ https://muviflix.site/live/high/193.m3u8
 https://muviflix.site/live/high/203.m3u8
 #EXTINF: -1 tvg-id="231" tvg-name="News18 India" tvg-chno="231" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News", News18 India
 https://muviflix.site/live/high/231.m3u8
-#EXTINF: -1 tvg-id="235" tvg-name="India TV" tvg-chno="235" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="News", India TV
+#EXTINF: -1 tvg-id="ts104" tvg-name="India TV" tvg-chno="235" tvg-logo="" group-title="News", India TV
 https://muviflix.site/live/high/235.m3u8
-#EXTINF: -1 tvg-id="255" tvg-name="NDTV 24x7" tvg-chno="255" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News", NDTV 24x7
+#EXTINF: -1 tvg-id="ts208" tvg-name="NDTV 24x7" tvg-chno="255" tvg-logo="" group-title="News", NDTV 24x7
 https://muviflix.site/live/high/255.m3u8
-#EXTINF: -1 tvg-id="258" tvg-name="NDTV India" tvg-chno="258" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="News", NDTV India
+#EXTINF: -1 tvg-id="ts179" tvg-name="NDTV India" tvg-chno="258" tvg-logo="" group-title="News", NDTV India
 https://muviflix.site/live/high/258.m3u8
-#EXTINF: -1 tvg-id="383" tvg-name="Times NOW" tvg-chno="383" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png" group-title="News", Times NOW
+#EXTINF: -1 tvg-id="ts90" tvg-name="Times NOW" tvg-chno="383" tvg-logo="" group-title="News", Times NOW
 https://muviflix.site/live/high/383.m3u8
-#EXTINF: -1 tvg-id="412" tvg-name="Wion" tvg-chno="412" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="News", Wion
+#EXTINF: -1 tvg-id="ts255" tvg-name="Wion" tvg-chno="412" tvg-logo="" group-title="News", Wion
 https://muviflix.site/live/high/412.m3u8
 #EXTINF: -1 tvg-id="ts206" tvg-name="CNN NEWS 18" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="News", CNN NEWS 18
 https://muviflix.site/live/high/492.m3u8
@@ -275,15 +275,15 @@ https://live.ekamraott.com/baiscope/baiscope/video.m3u8
 https://muviflix.site/live/high/1759.m3u8
 #EXTINF: -1 tvg-id="ts1202" tvg-name="One Paschima" tvg-chno="2355" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/One_Paschima.png" group-title="Odia", One Paschima
 https://live.ekamraott.com/onepaschima/onepaschima/video.m3u8
-#EXTINF: -1 tvg-id="183" tvg-name="B4U Music" tvg-chno="183" tvg-logo="" group-title="Music", B4U Music
+#EXTINF: -1 tvg-id="ts9" tvg-name="B4U Music" tvg-logo="" group-title="Music", B4U Music
 https://muviflix.site/live/high/183.m3u8
-#EXTINF: -1 tvg-id="440" tvg-name="9X Jalwa" tvg-chno="440" tvg-logo="" group-title="Music", 9X Jalwa
+#EXTINF: -1 tvg-id="ts39" tvg-name="9X Jalwa" tvg-logo="" group-title="Music", 9X Jalwa
 https://muviflix.site/live/high/440.m3u8
-#EXTINF: -1 tvg-id="587" tvg-name="9XM" tvg-chno="587" tvg-logo="" group-title="Music", 9XM
+#EXTINF: -1 tvg-id="ts139" tvg-name="9XM" tvg-chno="587" tvg-logo="" group-title="Music", 9XM
 https://muviflix.site/live/high/587.m3u8
 #EXTINF: -1 tvg-id="592" tvg-name="ZOOM" tvg-chno="592" tvg-logo="" group-title="Music", ZOOM
 https://muviflix.site/live/high/592.m3u8
-#EXTINF: -1 tvg-id="753" tvg-name="MTV Beats HD" tvg-chno="753" tvg-logo="" group-title="Music", MTV Beats HD
+#EXTINF: -1 tvg-id="ts405" tvg-name="MTV Beats HD" tvg-chno="753" tvg-logo="" group-title="Music", MTV Beats HD
 https://muviflix.site/live/high/753.m3u8
 #EXTINF: -1 tvg-id="895" tvg-name="Sun Music HD" tvg-chno="895" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="Music", Sun Music HD
 https://muviflix.site/live/high/895.m3u8
@@ -325,7 +325,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=4166&deviceMac=00:1A:79:F3:
 http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF: -1 tvg-name="STAR SPORTS SELECT 2 HD" group-title="Sports", STAR SPORTS SELECT 2 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=4166&deviceMac=00:1A:79:F3:9F:F5
-#EXTINF: -1 tvg-id="875" tvg-name="EUROSPORT HD" tvg-chno="875" tvg-logo="" group-title="Sports", EUROSPORT HD
+#EXTINF: -1 tvg-id="ts812" tvg-name="EUROSPORT HD" tvg-logo="" group-title="Sports", EUROSPORT HD
 https://muviflix.site/live/high/875.m3u8
 #EXTINF: -1 tvg-id="ts1033" tvg-name="Sports18 1 HD" tvg-logo="" group-title="Sports", Sports18 1 HD
 https://muviflix.site/live/high/1984.m3u8
