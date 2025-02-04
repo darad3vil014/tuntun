@@ -174,11 +174,11 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 https://muviflix.site/live/high/816.m3u8
 #EXTINF: -1 tvg-id="ts345" tvg-name="Hungama" group-title="Kids", Hungama
 http://119.152.240.15:8001/play/a0cs/index.m3u8
-#EXTINF: -1 tvg-name="Disney" group-title="Kids", Disney
+#EXTINF: -1 tvg-id="ts114" tvg-name="Disney" group-title="Kids", Disney
 http://119.152.240.15:8001/play/a0ct/index.m3u8
 #EXTINF: -1 tvg-logo="" tvg-name="Sony YAY!" group-title="Kids", Sony YAY!
 https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Super Hungama" group-title="Kids" tvg-logo="" ,Super Hungama
+#EXTINF:-1 tvg-id="ts587" tvg-name="Super Hungama" group-title="Kids" tvg-logo="" ,Super Hungama
 #EXTVLCOPT:http-user-agent=yuvi bhai
 https://tp.yg048.workers.dev/ch/587.m3u8
 #EXTINF:-1 tvg-id="ts144" group-title="Kids" tvg-logo="" ,Disney Junior
