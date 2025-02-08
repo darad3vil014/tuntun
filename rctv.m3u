@@ -94,9 +94,9 @@ https://muviflix.site/live/high/568.m3u8
 https://muviflix.site/live/high/575.m3u8
 #EXTINF: -1 tvg-id="ts616" tvg-name="History TV18 HD" tvg-logo="" group-title="Infotainment", History TV18 HD
 https://muviflix.site/live/high/578.m3u8
-#EXTINF: -1 tvg-id="580" tvg-name="DD Bharati" tvg-chno="580" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="Infotainment", DD Bharati
+#EXTINF: -1 tvg-id="ts316" tvg-name="DD Bharati" tvg-chno="580" tvg-logo="" group-title="Infotainment", DD Bharati
 https://muviflix.site/live/high/580.m3u8
-#EXTINF: -1 tvg-id="583" tvg-name="DD Kisan" tvg-chno="583" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kisan.png" group-title="Infotainment", DD Kisan
+#EXTINF: -1 tvg-id="ts326" tvg-name="DD Kisan" tvg-chno="583" tvg-logo="" group-title="Infotainment", DD Kisan
 https://muviflix.site/live/high/583.m3u8
 #EXTINF: -1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-chno="165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies", Zee Cinema HD
 http://zee.muviflix.site/index.php?id=0-9-zeecinemahd
@@ -162,11 +162,11 @@ https://muviflix.site/live/high/1450.m3u8
 https://muviflix.site/live/high/1763.m3u8
 #EXTINF: -1 tvg-id="ts382" tvg-name="Zee Zest HD" tvg-logo="" group-title="Infotainment", Zee Zest HD
 http://zee.muviflix.site/index.php?id=0-9-348
-#EXTINF: -1 tvg-id="164" tvg-name="Travelxp HD" tvg-chno="164" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Infotainment", Travelxp HD
+#EXTINF: -1 tvg-id="ts484" tvg-name="Travelxp HD" tvg-chno="164" tvg-logo="" group-title="Infotainment", Travelxp HD
 https://muviflix.site/live/high/164.m3u8
-#EXTINF: -1 tvg-id="479" tvg-name="TLC HD" tvg-chno="479" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="Infotainment", TLC HD
+#EXTINF: -1 tvg-id="ts480" tvg-name="TLC HD" tvg-chno="479" tvg-logo="" group-title="Infotainment", TLC HD
 https://muviflix.site/live/high/479.m3u8
-#EXTINF: -1 tvg-id="561" tvg-name="Food Food" tvg-chno="561" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Infotainment", Food Food
+#EXTINF: -1 tvg-id="ts117" tvg-name="Food Food" tvg-chno="561" tvg-logo="" group-title="Infotainment", Food Food
 https://muviflix.site/live/high/561.m3u8
 #EXTINF: -1 tvg-id="ts333" tvg-name="DD Odia" tvg-logo="" group-title="Odia", DD Odia
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/245d9a9e-4820-43b1-af33-4a3017d09f52/2.m3u8
