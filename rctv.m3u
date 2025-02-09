@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Live Cricket", Live IND VS ENG
+https://abgpunpaaaaaaaamaaaaaaaaaaaaa.live-cf.cdn.hotstar.com/hls/live/2027118/inallow-indvseng-2025/hin/1540037337/15mindvrm01def247622c9043cfad970c7f144ec61609february2025/master_ap_1080_5.m3u8
 #EXTINF: -1 group-title="Movies", Sony Max HD
 https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF: -1 group-title="Entertainment", SET HD
