@@ -249,8 +249,8 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Odia_NW18_MOB/output01/index.m3u8?__h
 https://muviflix.site/live/high/657.m3u8
 #EXTINF: -1 tvg-id="781" tvg-name="Kalinga TV" tvg-chno="781" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalinga_TV.png" group-title="Odia", Kalinga TV
 https://server.thelegitpro.in/kalingatv/kalingatv/index.fmp4.m3u8
-#EXTINF: -1 tvg-name="Dangal Odia" tvg-logo="https://yt3.googleusercontent.com/BhJM_Ui6pWm7kF__2G79jgTwDzQNyQFU115xlv-2VszJlNYeofswGhlHVsdOJWdKBuNdhmTr2YQ=s900-c-k-c0x00ffffff-no-rj" group-title="Odia", Dangal Odia
-https://cdn-1.pishow.tv/live/1141/master.m3u8
+#EXTINF:-1 tvg-id="ts517" group-title="Entertainment" tvg-name="Zing" tvg-logo="", Zing
+http://zee.muviflix.site/index.php?id=0-9-zing
 #EXTINF: -1 tvg-id="858" tvg-name="Republic TV" tvg-chno="858" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="News", Republic TV
 https://muviflix.site/live/high/858.m3u8
 #EXTINF: -1 tvg-id="876" tvg-name="Times Now World" tvg-chno="876" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" group-title="News", Times Now World
