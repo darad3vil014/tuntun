@@ -7,7 +7,7 @@ https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF: -1 tvg-id="ts52" tvg-name="Colors HD" tvg-chno="144" tvg-logo="" group-title="Entertainment", Colors HD
 https://muviflix.site/live/high/144.m3u8
 #EXTINF: -1 tvg-name="STAR PLUS HD" group-title="Entertainment", STAR PLUS HD
-https://fifabd.site/OPLLXX/play.m3u8?id=66208|Referer=RANAPK
+https://ninjatv-redtv.vercel.app/api/bostv.php?id=74778
 #EXTINF: -1 tvg-id="ts48" tvg-name="Sony Sab HD" group-title="Entertainment", Sony Sab HD
 https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF: -1 tvg-id="ts63" tvg-name="Zee TV HD" tvg-logo="" group-title="Entertainment", Zee TV HD
@@ -101,7 +101,7 @@ https://muviflix.site/live/high/583.m3u8
 #EXTINF: -1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-chno="165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies", Zee Cinema HD
 http://zee.muviflix.site/index.php?id=0-9-zeecinemahd
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" group-title="Movies" tvg-logo="" ,STAR GOLD HD
-https://ninjatv.host/star/ninjatv.m3u8?id=194.ts
+https://ninjatv-redtv.vercel.app/api/bostv.php?id=85208
 #EXTINF: -1 group-title="Movies" tvg-logo="", Sony Max 2
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD SELECT HD" group-title="Movies", STAR GOLD SELECT HD
@@ -109,7 +109,7 @@ http://119.152.240.15:8001/play/a0bl/index.m3u8
 #EXTINF: -1 tvg-id="185" tvg-name="&Pictures HD" tvg-chno="185" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies", &Pictures HD
 http://zee.muviflix.site/index.php?id=0-9-tvpictureshd
 #EXTINF: -1 tvg-name="STAR GOLD 2" group-title="Movies", STAR GOLD 2
-http://xxxxlocal.com:8080/azadiyame6333/4w854Rp2veDJq55qRXh/8919
+https://ninjatv-redtv.vercel.app/api/bostv.php?id=85210
 #EXTINF: -1 group-title="Movies", Sony Wah
 https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF: -1 tvg-id="ts823" tvg-name="Goldmines" group-title="Movies", Goldmines
@@ -303,7 +303,7 @@ https://muviflix.site/live/high/2752.m3u8
 #EXTINF: -1 tvg-id="2753" tvg-name="YRF Music" tvg-chno="2753" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music", YRF Music
 https://muviflix.site/live/high/2753.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 1 HINDI HD" tvg-logo="" group-title="Sports", STAR SPORTS 1 HINDI HD
-http://tv.cloudcdn.me:80/live.ts?channelId=295&uid=4166&deviceMac=00:1A:79:F3:9F:F5
+https://ninjatv-redtv.vercel.app/api/bostv.php?id=93301
 #EXTINF: -1 tvg-id="ts81" tvg-logo="" group-title="Sports", Sony Ten 1 HD
 https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 #EXTINF: -1 tvg-id="ts462" tvg-logo="" group-title="Sports", Sony Ten 2 HD
@@ -315,15 +315,15 @@ https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF: -1 tvg-id="ts35" tvg-logo="" group-title="Sports", Sony Ten 5 HD
 https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 1 HD" tvg-logo="" group-title="Sports", STAR SPORTS 1 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=293&uid=4166&deviceMac=00:1A:79:F3:9F:F5
+https://ninjatv-redtv.vercel.app/api/bostv.php?id=93302
 #EXTINF: -1 tvg-name="STAR SPORTS 2 HD" tvg-logo="" group-title="Sports", STAR SPORTS 2 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=298&uid=4166&deviceMac=00:1A:79:F3:9F:F5
+https://ninjatv-redtv.vercel.app/api/bostv.php?id=93303
 #EXTINF: -1 tvg-name="STAR SPORTS 3" tvg-logo="" group-title="Sports", STAR SPORTS 3
 http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF: -1 tvg-name="STAR SPORTS SELECT 1 HD" group-title="Sports", STAR SPORTS SELECT 1 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=4166&deviceMac=00:1A:79:F3:9F:F5
+https://ninjatv-redtv.vercel.app/api/bostv.php?id=93304
 #EXTINF: -1 tvg-name="STAR SPORTS SELECT 2 HD" group-title="Sports", STAR SPORTS SELECT 2 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=4166&deviceMac=00:1A:79:F3:9F:F5
+https://ninjatv-redtv.vercel.app/api/bostv.php?id=93305
 #EXTINF: -1 tvg-id="ts812" tvg-name="EUROSPORT HD" tvg-logo="" group-title="Sports", EUROSPORT HD
 https://muviflix.site/live/high/875.m3u8
 #EXTINF: -1 tvg-id="ts1033" tvg-name="Sports18 1 HD" tvg-logo="" group-title="Sports", Sports18 1 HD
