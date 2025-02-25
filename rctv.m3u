@@ -14,7 +14,8 @@ https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF: -1 tvg-id="ts63" tvg-name="Zee TV HD" tvg-logo="" group-title="Entertainment", Zee TV HD
 http://zee.muviflix.site/index.php?id=0-9-zeetvhd
 #EXTINF: -1 tvg-name="STAR UTSAV" group-title="Entertainment", STAR UTSAV
-http://tv.cloudcdn.me/live.ts?channelId=12364&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+http://suprino.xyz/PMF3J9X/BV7HG8H/72144
 #EXTINF: -1 group-title="Entertainment", Sony Pal
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF: -1 tvg-id="ts115" tvg-name="Colors Odia" tvg-logo="" group-title="Odia", Colors Odia
