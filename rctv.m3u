@@ -320,7 +320,8 @@ https://ninjatv-redtv.vercel.app/api/bostv.php?id=93302
 #EXTINF: -1 tvg-name="STAR SPORTS 2 HD" tvg-logo="" group-title="Sports", STAR SPORTS 2 HD
 https://ninjatv-redtv.vercel.app/api/bostv.php?id=93303
 #EXTINF: -1 tvg-name="STAR SPORTS 3" tvg-logo="" group-title="Sports", STAR SPORTS 3
-http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=4166&deviceMac=00:1A:79:F3:9F:F5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+http://suprino.xyz/PMF3J9X/BV7HG8H/1090638
 #EXTINF: -1 tvg-name="STAR SPORTS SELECT 1 HD" group-title="Sports", STAR SPORTS SELECT 1 HD
 https://ninjatv-redtv.vercel.app/api/bostv.php?id=93304
 #EXTINF: -1 tvg-name="STAR SPORTS SELECT 2 HD" group-title="Sports", STAR SPORTS SELECT 2 HD
