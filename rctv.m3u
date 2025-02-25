@@ -22,11 +22,11 @@ https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 https://muviflix.site/live/high/198.m3u8
 #EXTINF: -1 tvg-id="ts237" tvg-name="Tarang TV" tvg-logo="" group-title="Odia", Tarang TV
 https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
-#EXTINF: -1 tvg-id="722" tvg-name="Zee Sarthak" tvg-chno="722" tvg-logo="" group-title="Odia", Zee Sarthak
+#EXTINF: -1 tvg-id="ts597" tvg-name="Zee Sarthak" tvg-chno="722" tvg-logo="" group-title="Odia", Zee Sarthak
 http://zee.muviflix.site/index.php?id=0-9-sarthaktv
-#EXTINF: -1 tvg-id="OdishaTV.in" tvg-logo="" group-title="Odia", OTV
+#EXTINF: -1 tvg-id="ts419" tvg-logo="" group-title="Odia", OTV
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
-#EXTINF: -1 tvg-id="718" tvg-name="Kanak News" tvg-chno="718" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png" group-title="Odia", Kanak News
+#EXTINF: -1 tvg-id="ts376" tvg-name="Kanak News" tvg-chno="718" tvg-logo="" group-title="Odia", Kanak News
 https://muviflix.site/live/high/718.m3u8
 #EXTINF: -1 tvg-id="ts568" tvg-logo="https://raw.githubusercontent.com/darad3vil014/tuntun/refs/heads/main/PRATV.png" group-title="Odia", Prarthana Life
 https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
@@ -42,8 +42,6 @@ https://muviflix.site/live/high/1957.m3u8
 https://muviflix.site/live/high/1958.m3u8
 #EXTINF: -1 tvg-id="ts1169" tvg-name="Jay Jagannath TV" tvg-logo="" group-title="Odia", Jay Jagannath TV
 https://muviflix.site/live/high/3115.m3u8
-#EXTINF: -1 tvg-name="Sony Kal" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/6/6e/Sony_Kal_Logo.jpeg" group-title="Entertainment", Sony Kal
-https://spt-sonykal-1-us.lg.wurl.tv/playlist_3000k.m3u8
 #EXTINF: -1 tvg-id="202" tvg-name="DD National" tvg-chno="202" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment", DD National
 https://muviflix.site/live/high/202.m3u8
 #EXTINF: -1 tvg-id="ts438" tvg-name="Colors Rishtey" tvg-chno="279" tvg-logo="" group-title="Entertainment", Colors Rishtey
@@ -363,3 +361,5 @@ https://live.ekamraott.com/paramatma/paramatma/video.m3u8
 https://muviflix.site/live/high/631.m3u8
 #EXTINF: -1 tvg-id="2258" tvg-name="Animax" tvg-chno="2258" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animax.png" group-title="Kids", Animax
 https://muviflix.site/live/high/2258.m3u8
+#EXTINF: -1 tvg-name="Sony Kal" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/6/6e/Sony_Kal_Logo.jpeg" group-title="Entertainment", Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist_3000k.m3u8
