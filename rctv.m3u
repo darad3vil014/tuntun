@@ -217,6 +217,8 @@ https://muviflix.site/live/high/235.m3u8
 https://muviflix.site/live/high/255.m3u8
 #EXTINF: -1 tvg-id="ts179" tvg-name="NDTV India" tvg-chno="258" tvg-logo="" group-title="News", NDTV India
 https://muviflix.site/live/high/258.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="The Lallantop" tvg-logo="https://raw.githubusercontent.com/darad3vil014/tuntun/refs/heads/main/TL.jpeg" group-title="News", The Lallantop
+https://little-bonus-c7fa.rciptv360.workers.dev/master.m3u8
 #EXTINF: -1 tvg-id="ts90" tvg-name="Times NOW" tvg-chno="383" tvg-logo="" group-title="News", Times NOW
 https://muviflix.site/live/high/383.m3u8
 #EXTINF: -1 tvg-id="ts255" tvg-name="Wion" tvg-chno="412" tvg-logo="" group-title="News", Wion
@@ -271,9 +273,7 @@ https://live.ekamraott.com/badakhabar/badakhabar/video.m3u8
 https://live.ekamraott.com/halchal/halchal/video.m3u8
 #EXTINF:-1 tvg-id= tvg-name="Ekamra Baiscope" tvg-logo="" group-title="Odia", Ekamra Baiscope
 https://live.ekamraott.com/baiscope/baiscope/video.m3u8
-#EXTINF: -1 tvg-id="1759" tvg-name="Buletin India" tvg-chno="1759" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Buletin_India.png" group-title="News", Buletin India
-https://muviflix.site/live/high/1759.m3u8
-#EXTINF: -1 tvg-id="ts1202" tvg-name="One Paschima" tvg-chno="2355" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/One_Paschima.png" group-title="Odia", One Paschima
+#EXTINF: -1 tvg-id="ts1202" tvg-name="One Paschima" tvg-chno="2355" tvg-logo="" group-title="Odia", One Paschima
 https://live.ekamraott.com/onepaschima/onepaschima/video.m3u8
 #EXTINF: -1 tvg-id="ts9" tvg-name="B4U Music" tvg-logo="" group-title="Music", B4U Music
 https://muviflix.site/live/high/183.m3u8
