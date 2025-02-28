@@ -7,8 +7,7 @@ https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF: -1 tvg-id="ts52" tvg-name="Colors HD" tvg-chno="144" tvg-logo="" group-title="Entertainment", Colors HD
 https://muviflix.site/live/high/144.m3u8
 #EXTINF: -1 tvg-name="STAR PLUS HD" group-title="Entertainment", STAR PLUS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-http://suprino.xyz/PMF3J9X/BV7HG8H/72143
+http://103.115.126.26:8000/play/a03k/index.m3u8
 #EXTINF: -1 tvg-id="ts48" tvg-name="Sony Sab HD" group-title="Entertainment", Sony Sab HD
 https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF: -1 tvg-id="ts63" tvg-name="Zee TV HD" tvg-logo="" group-title="Entertainment", Zee TV HD
@@ -75,7 +74,7 @@ https://muviflix.site/live/high/1961.m3u8
 #EXTINF: -1 tvg-id="2078" tvg-name="Shemaroo Umang" tvg-chno="2078" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" group-title="Entertainment", Shemaroo Umang
 https://muviflix.site/live/high/2078.m3u8
 #EXTINF: -1 tvg-name="STAR BHARAT HD" group-title="Entertainment", STAR BHARAT HD
-http://119.152.240.15:8001/play/a0bg/index.m3u8
+http://103.115.126.26:8000/play/a02o/index.m3u8
 #EXTINF: -1 group-title="Infotainment", Sony BBC Earth
 https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 #EXTINF: -1 tvg-id="ts287" tvg-name="Animal Planet HD World" tvg-chno="286" tvg-logo="" group-title="Infotainment", Animal Planet HD World
@@ -99,15 +98,15 @@ https://muviflix.site/live/high/583.m3u8
 #EXTINF: -1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-chno="165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies", Zee Cinema HD
 http://zee.muviflix.site/index.php?id=0-9-zeecinemahd
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" group-title="Movies" tvg-logo="" ,STAR GOLD HD
-https://ninjatv-redtv.vercel.app/api/bostv.php?id=85208
+http://103.115.126.26:8000/play/a08u/index.m3u8
 #EXTINF: -1 group-title="Movies" tvg-logo="", Sony Max 2
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD SELECT HD" group-title="Movies", STAR GOLD SELECT HD
-http://119.152.240.15:8001/play/a0bl/index.m3u8
+http://103.115.126.26:8000/play/a04o/index.m3u8
 #EXTINF: -1 tvg-id="185" tvg-name="&Pictures HD" tvg-chno="185" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies", &Pictures HD
 http://zee.muviflix.site/index.php?id=0-9-tvpictureshd
-#EXTINF: -1 tvg-name="STAR GOLD 2" group-title="Movies", STAR GOLD 2
-https://ninjatv-redtv.vercel.app/api/bostv.php?id=85210
+#EXTINF: -1 tvg-name="Star Gold 2 HD" group-title="Movies", Star Gold 2 HD
+http://103.115.126.26:8000/play/a08w/index.m3u8
 #EXTINF: -1 group-title="Movies", Sony Wah
 https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF: -1 tvg-id="ts823" tvg-name="Goldmines" group-title="Movies", Goldmines
@@ -303,7 +302,7 @@ https://muviflix.site/live/high/2752.m3u8
 #EXTINF: -1 tvg-id="2753" tvg-name="YRF Music" tvg-chno="2753" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music", YRF Music
 https://muviflix.site/live/high/2753.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 1 HINDI HD" tvg-logo="" group-title="Sports", STAR SPORTS 1 HINDI HD
-https://ninjatv-redtv.vercel.app/api/bostv.php?id=93301
+http://103.115.126.26:8000/play/a083/index.m3u8
 #EXTINF: -1 tvg-id="ts81" tvg-logo="" group-title="Sports", Sony Ten 1 HD
 https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 #EXTINF: -1 tvg-id="ts462" tvg-logo="" group-title="Sports", Sony Ten 2 HD
@@ -315,12 +314,11 @@ https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF: -1 tvg-id="ts35" tvg-logo="" group-title="Sports", Sony Ten 5 HD
 https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 1 HD" tvg-logo="" group-title="Sports", STAR SPORTS 1 HD
-https://ninjatv-redtv.vercel.app/api/bostv.php?id=93302
+http://103.115.126.26:8000/play/a03l/index.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 2 HD" tvg-logo="" group-title="Sports", STAR SPORTS 2 HD
-https://ninjatv-redtv.vercel.app/api/bostv.php?id=93303
+http://103.115.126.26:8000/play/a039/index.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 3" tvg-logo="" group-title="Sports", STAR SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-http://suprino.xyz/PMF3J9X/BV7HG8H/1090638
+http://103.115.126.26:8000/play/a07s/index.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS SELECT 1 HD" group-title="Sports", STAR SPORTS SELECT 1 HD
 https://ninjatv-redtv.vercel.app/api/bostv.php?id=93304
 #EXTINF: -1 tvg-name="STAR SPORTS SELECT 2 HD" group-title="Sports", STAR SPORTS SELECT 2 HD
