@@ -217,8 +217,6 @@ https://muviflix.site/live/high/235.m3u8
 https://muviflix.site/live/high/255.m3u8
 #EXTINF: -1 tvg-id="ts179" tvg-name="NDTV India" tvg-chno="258" tvg-logo="" group-title="News", NDTV India
 https://muviflix.site/live/high/258.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="The Lallantop" tvg-logo="https://raw.githubusercontent.com/darad3vil014/tuntun/refs/heads/main/TL.jpeg" group-title="News", The Lallantop
-https://little-bonus-c7fa.rciptv360.workers.dev/master.m3u8
 #EXTINF: -1 tvg-id="ts90" tvg-name="Times NOW" tvg-chno="383" tvg-logo="" group-title="News", Times NOW
 https://muviflix.site/live/high/383.m3u8
 #EXTINF: -1 tvg-id="ts255" tvg-name="Wion" tvg-chno="412" tvg-logo="" group-title="News", Wion
@@ -259,8 +257,9 @@ https://muviflix.site/live/high/858.m3u8
 https://muviflix.site/live/high/876.m3u8
 #EXTINF: -1 tvg-id="1251" tvg-name="TV9 Bharatvarsh" tvg-chno="1251" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png" group-title="News", TV9 Bharatvarsh
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
-#EXTINF: -1 tvg-id="1408" tvg-name="Reporter TV" tvg-chno="1408" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Reporter_TV.png" group-title="News", Reporter TV
-https://muviflix.site/live/high/1408.m3u8
+#EXTINF: -1 tvg-id="ts142" tvg-name="UTV Bindass" tvg-chno="" tvg-logo="" group-title="Entertainment", UTV Bindass
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+http://suprino.xyz/PMF3J9X/BV7HG8H/809072
 #EXTINF: -1 tvg-id="ts805" tvg-name="Nandighosha" tvg-chno="1427" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="Odia", Nandighosha
 https://nandighoshatvlive.com/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id=3072 tvg-name="Shree Jagannath TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shree_Jagannath_TV.png" group-title="Odia", Shree Jagannath TV
