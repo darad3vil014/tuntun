@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz,https://avkb.short.gy/epg.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz,https://avkb.short.gy/epg.xml.gz,https://fhux.short.gy/epg.xml.gz"
 #EXTINF: -1 tvg-id="ts80" tvg-name="Sony Max HD" tvg-logo="" group-title="Movies", Sony Max HD
 https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF: -1 tvg-id="ts15" tvg-logo="" tvg-name="SET HD" group-title="Entertainment", SET HD
