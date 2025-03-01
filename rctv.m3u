@@ -183,7 +183,7 @@ https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://zee.muviflix.site/tataplay/widevine.php?id=587
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="ts587" tvg-name="Super Hungama" group-title="Kids" tvg-logo="" ,Super Hungama
-http://zee.muviflix.site/tataplay/manifest.php?id=587
+http://zee.muviflix.site/tataplay/manifest.php?id=1460
 #EXTINF:-1 tvg-id="ts144" group-title="Kids" tvg-logo="" ,Disney Junior
 http://119.152.240.15:8001/play/a02z/index.m3u8
 #EXTINF: -1 tvg-id="ts138" tvg-name="Nick" tvg-logo="" group-title="Kids", Nick
