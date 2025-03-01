@@ -217,8 +217,8 @@ https://amg01550-amg01550c4-samsung-in-4677.playouts.now.amagi.tv/playlist/amg01
 https://muviflix.site/live/high/255.m3u8
 #EXTINF: -1 tvg-id="ts179" tvg-name="NDTV India" tvg-chno="258" tvg-logo="" group-title="News", NDTV India
 https://muviflix.site/live/high/258.m3u8
-#EXTINF: -1 tvg-id="ts90" tvg-name="Times NOW" tvg-chno="383" tvg-logo="" group-title="News", Times NOW
-https://muviflix.site/live/high/383.m3u8
+#EXTINF: -1 tvg-id="ts966" tvg-name="Times Now Navbharat" tvg-logo="" group-title="News", Times Now Navbharat
+https://muviflix.site/live/high/1906.m3u8
 #EXTINF: -1 tvg-id="ts255" tvg-name="Wion" tvg-chno="412" tvg-logo="" group-title="News", Wion
 https://muviflix.site/live/high/412.m3u8
 #EXTINF: -1 tvg-id="ts206" tvg-name="CNN NEWS 18" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="News", CNN NEWS 18
@@ -253,8 +253,8 @@ https://server.thelegitpro.in/kalingatv/kalingatv/index.fmp4.m3u8
 http://zee.muviflix.site/index.php?id=0-9-zing
 #EXTINF: -1 tvg-id="858" tvg-name="Republic TV" tvg-chno="858" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="News", Republic TV
 https://muviflix.site/live/high/858.m3u8
-#EXTINF: -1 tvg-id="876" tvg-name="Times Now World" tvg-chno="876" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" group-title="News", Times Now World
-https://muviflix.site/live/high/876.m3u8
+#EXTINF: -1 tvg-id="ts90" tvg-name="Times NOW" tvg-chno="383" tvg-logo="" group-title="News", Times NOW
+https://muviflix.site/live/high/383.m3u8
 #EXTINF: -1 tvg-id="1251" tvg-name="TV9 Bharatvarsh" tvg-chno="1251" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png" group-title="News", TV9 Bharatvarsh
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 #EXTINF: -1 tvg-id="ts142" tvg-name="UTV Bindass" tvg-chno="" tvg-logo="" group-title="Entertainment", UTV Bindass
