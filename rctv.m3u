@@ -322,7 +322,7 @@ http://103.115.126.26:8000/play/a039/index.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 3" tvg-logo="" group-title="Sports", STAR SPORTS 3
 http://103.115.126.26:8000/play/a07s/index.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS SELECT 1 HD" group-title="Sports", STAR SPORTS SELECT 1 HD
-https://starshare.org:443/live/5045123/5045123/394272.m3u8
+https://starshare.org:443/live/5045123/5045123/238.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS SELECT 2 HD" group-title="Sports", STAR SPORTS SELECT 2 HD
 https://starshare.org:443/live/5045123/5045123/148801.m3u8
 #EXTINF: -1 tvg-id="ts812" tvg-name="EUROSPORT HD" tvg-logo="" group-title="Sports", EUROSPORT HD
