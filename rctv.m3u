@@ -147,6 +147,8 @@ http://zee.muviflix.site/index.php?id=0-9-channel_2105335046
 https://muviflix.site/live/high/3088.m3u8
 #EXTINF: -1 group-title="Movies", Sony Pix HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF: -1 group-title="Movies", STAR Movies HD
+http://103.115.126.26:8000/play/a05s/index.m3u8
 #EXTINF: -1 tvg-id="ts530" tvg-name="&Prive HD" tvg-chno="1349" tvg-logo="" group-title="Movies", &Prive HD
 http://zee.muviflix.site/index.php?id=0-9-9z5543514
 #EXTINF: -1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-chno="1477" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movies", Colors Cineplex HD
