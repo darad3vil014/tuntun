@@ -202,9 +202,9 @@ https://muviflix.site/live/high/1216.m3u8
 https://muviflix.site/live/high/1780.m3u8
 #EXTINF: -1 tvg-id="ts153" tvg-name="Aaj Tak" tvg-chno="173" tvg-logo="" group-title="News", Aaj Tak
 https://feeds.intoday.in/aajtak/api/master.m3u8
-#EXTINF: -1 tvg-id="177" tvg-name="ABP News" tvg-chno="177" tvg-logo="" group-title="News", ABP News
+#EXTINF: -1 tvg-id="ts177" tvg-name="ABP News" tvg-chno="177" tvg-logo="" group-title="News", ABP News
 https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master.m3u8
-#EXTINF: -1 tvg-id="1403" tvg-name="R Bharat" tvg-chno="1403" tvg-logo="" group-title="News", R Bharat
+#EXTINF: -1 tvg-id="ts696" tvg-name="R Bharat" tvg-chno="1403" tvg-logo="" group-title="News", R Bharat
 https://muviflix.site/live/high/1403.m3u8
 #EXTINF: -1 tvg-id="ts243" tvg-name="CNN" tvg-logo="" group-title="News", CNN
 https://muviflix.site/live/high/193.m3u8
@@ -214,6 +214,8 @@ https://muviflix.site/live/high/203.m3u8
 https://muviflix.site/live/high/231.m3u8
 #EXTINF: -1 tvg-id="ts104" tvg-name="India TV" tvg-chno="235" tvg-logo="" group-title="News", India TV
 https://muviflix.site/live/high/235.m3u8
+#EXTINF: -1 tvg-id="ts1407" tvg-name="IndiaTV Speed News" tvg-logo="" group-title="News", IndiaTV Speed News
+https://amg01550-amg01550c4-samsung-in-4677.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvspeednewssamsung-samsungin/playlist.m3u8
 #EXTINF: -1 tvg-id="ts208" tvg-name="NDTV 24x7" tvg-chno="255" tvg-logo="" group-title="News", NDTV 24x7
 https://muviflix.site/live/high/255.m3u8
 #EXTINF: -1 tvg-id="ts179" tvg-name="NDTV India" tvg-chno="258" tvg-logo="" group-title="News", NDTV India
@@ -329,8 +331,6 @@ https://starshare.org:443/live/5045123/5045123/148801.m3u8
 https://muviflix.site/live/high/875.m3u8
 #EXTINF: -1 tvg-id="ts1033" tvg-name="Sports18 1 HD" tvg-logo="" group-title="Sports", Sports18 1 HD
 https://muviflix.site/live/high/1984.m3u8
-#EXTINF: -1 tvg-id="ts1407" tvg-name="IndiaTV Speed News" tvg-logo="" group-title="News", IndiaTV Speed News
-https://amg01550-amg01550c4-samsung-in-4677.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvspeednewssamsung-samsungin/playlist.m3u8
 #EXTINF: -1 tvg-name="Sports18 Khel" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="Sports", Sports18 Khel
 https://muviflix.site/live/high/1998.m3u8
 #EXTINF: -1 tvg-id="204" tvg-name="DD Sports" tvg-chno="204" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports", DD Sports
