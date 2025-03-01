@@ -167,8 +167,7 @@ https://muviflix.site/live/high/479.m3u8
 #EXTINF: -1 tvg-id="ts117" tvg-name="Food Food" tvg-chno="561" tvg-logo="" group-title="Infotainment", Food Food
 https://muviflix.site/live/high/561.m3u8
 #EXTINF: -1 tvg-id="ts1174" tvg-name="Star Kiran HD" tvg-logo="" group-title="Odia", Star Kiran HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-http://suprino.xyz/PMF3J9X/BV7HG8H/1052865
+https://starshare.org:443/live/5045123/5045123/347712.m3u8
 #EXTINF: -1 tvg-id="ts333" tvg-name="DD Odia" tvg-logo="" group-title="Odia", DD Odia
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/245d9a9e-4820-43b1-af33-4a3017d09f52/2.m3u8
 #EXTINF: -1 tvg-id="ts238" tvg-name="Cartoon Network" tvg-logo="" group-title="Kids", Cartoon Network
