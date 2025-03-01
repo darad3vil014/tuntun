@@ -179,8 +179,11 @@ http://119.152.240.15:8001/play/a0cs/index.m3u8
 http://119.152.240.15:8001/play/a0ct/index.m3u8
 #EXTINF: -1 tvg-logo="" tvg-name="Sony YAY!" group-title="Kids", Sony YAY!
 https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://zee.muviflix.site/tataplay/widevine.php?id=587
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ts587" tvg-name="Super Hungama" group-title="Kids" tvg-logo="" ,Super Hungama
-https://ninjatv-redtv.vercel.app/api/bostv.php?id=92417
+http://zee.muviflix.site/tataplay/manifest.php?id=587|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF:-1 tvg-id="ts144" group-title="Kids" tvg-logo="" ,Disney Junior
 http://119.152.240.15:8001/play/a02z/index.m3u8
 #EXTINF: -1 tvg-id="ts138" tvg-name="Nick" tvg-logo="" group-title="Kids", Nick
