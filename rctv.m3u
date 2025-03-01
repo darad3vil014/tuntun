@@ -178,9 +178,6 @@ http://119.152.240.15:8001/play/a0ct/index.m3u8
 #EXTINF: -1 tvg-logo="" tvg-name="Sony YAY!" group-title="Kids", Sony YAY!
 https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1 tvg-id="ts587" tvg-name="Super Hungama" group-title="Kids" tvg-logo="" ,Super Hungama
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://zee.muviflix.site/tataplay/widevine.php?id=587
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 http://zee.muviflix.site/tataplay/manifest.php?id=1460
 #EXTINF:-1 tvg-id="ts144" group-title="Kids" tvg-logo="" ,Disney Junior
 http://119.152.240.15:8001/play/a02z/index.m3u8
