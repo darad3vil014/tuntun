@@ -263,11 +263,11 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 http://suprino.xyz/PMF3J9X/BV7HG8H/809072
 #EXTINF: -1 tvg-id="ts805" tvg-name="Nandighosha TV" tvg-chno="1427" tvg-logo="" group-title="Odia", Nandighosha TV
 https://nandighoshatvlive.com/hls/stream/index.m3u8
-#EXTINF:-1 tvg-id=3072 tvg-name="Shree Jagannath TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shree_Jagannath_TV.png" group-title="Odia", Shree Jagannath TV
+#EXTINF:-1 tvg-id=3072 tvg-name="Shree Jagannath TV" tvg-logo="https://raw.githubusercontent.com/darad3vil014/tuntun/refs/heads/main/Shree_Jagannath_TV.png" group-title="Odia", Shree Jagannath TV
 https://muviflix.site/live/high/3072.m3u8
 #EXTINF:-1 tvg-id="ts1207" tvg-name="Ekamra Manoranjan" tvg-logo="" group-title="Odia", Ekamra Manoranjan
 https://live.ekamraott.com/manoranjan/manoranjan/video.m3u8
-#EXTINF:-1 tvg-id="1692" tvg-name="Badakhabar" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Badakhabar.png" group-title="Odia", Badakhabar
+#EXTINF:-1 tvg-id="1692" tvg-name="Badakhabar" tvg-logo="https://raw.githubusercontent.com/darad3vil014/tuntun/refs/heads/main/Badakhabar.png" group-title="Odia", Badakhabar
 https://live.ekamraott.com/badakhabar/badakhabar/video.m3u8
 #EXTINF:-1 tvg-id="ts1208" tvg-name="News 8 Odia" tvg-logo="" group-title="Odia", News8 Odia
 https://live.ekamraott.com/halchal/halchal/video.m3u8
@@ -349,15 +349,15 @@ https://live.argusnews.in/hls/argustv.m3u8
 https://live.ekamraott.com/nilachakra/nilachakra/video.m3u8
 #EXTINF: -1 tvg-id="ts1200" tvg-name="Jatra Ekamra" tvg-chno="2227" tvg-logo="" group-title="Odia", Jatra Ekamra
 https://live.ekamraott.com/jatra/jatra/video.m3u8
-#EXTINF: -1 tvg-id="ts1198" tvg-name="Ekamra Cinema" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Cinema.png" group-title="Odia", Ekamra Cinema
+#EXTINF: -1 tvg-id="ts1198" tvg-name="Ekamra Cinema" tvg-logo="https://raw.githubusercontent.com/darad3vil014/tuntun/refs/heads/main/Ekamra_Cinema.png" group-title="Odia", Ekamra Cinema
 https://live.ekamraott.com/cynema/cynema/video.m3u8
 #EXTINF: -1 tvg-id="ts1199" tvg-name="Ekamra Musiq" tvg-chno="2015" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Music.png" group-title="Odia", Ekamra Musiq
 https://live.ekamraott.com/musiq/musiq/video.m3u8
 #EXTINF: -1 tvg-id="ts1196" tvg-name="Ekamra Bharat Odia" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMBHO_Thumbnail-v1/EKMBHO_Thumbnail.png" group-title="Odia", Ekamra Bharat Odia
 https://live.ekamraott.com/bharat/bharat/video.m3u8
-#EXTINF: -1 tvg-id="2012" tvg-name="Paramatma" tvg-chno="2012" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Paramatma.png" group-title="Odia", Ekamra Paramatma
+#EXTINF: -1 tvg-id="2012" tvg-name="Paramatma" tvg-chno="2012" tvg-logo="https://raw.githubusercontent.com/darad3vil014/tuntun/refs/heads/main/Paramatma.png" group-title="Odia", Ekamra Paramatma
 https://live.ekamraott.com/paramatma/paramatma/video.m3u8
-#EXTINF: -1 tvg-id="631" tvg-name="MBC" tvg-chno="631" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MBC.png" group-title="Odia", MBC TV
+#EXTINF: -1 tvg-id="631" tvg-name="MBC" tvg-chno="631" tvg-logo="https://raw.githubusercontent.com/darad3vil014/tuntun/refs/heads/main/MBC.png" group-title="Odia", MBC TV
 https://muviflix.site/live/high/631.m3u8
 #EXTINF: -1 tvg-id="2258" tvg-name="Animax" tvg-chno="2258" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animax.png" group-title="Kids", Animax
 https://muviflix.site/live/high/2258.m3u8
