@@ -351,7 +351,7 @@ https://live.ekamraott.com/nilachakra/nilachakra/video.m3u8
 https://live.ekamraott.com/jatra/jatra/video.m3u8
 #EXTINF: -1 tvg-id="ts1198" tvg-name="Ekamra Cinema" tvg-logo="https://raw.githubusercontent.com/darad3vil014/tuntun/refs/heads/main/Ekamra_Cinema.png" group-title="Odia", Ekamra Cinema
 https://live.ekamraott.com/cynema/cynema/video.m3u8
-#EXTINF: -1 tvg-id="ts1199" tvg-name="Ekamra Musiq" tvg-chno="2015" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Music.png" group-title="Odia", Ekamra Musiq
+#EXTINF: -1 tvg-id="ts1199" tvg-name="Ekamra Musiq" tvg-logo="https://raw.githubusercontent.com/darad3vil014/tuntun/refs/heads/main/Ekamra_Music.png" group-title="Odia", Ekamra Musiq
 https://live.ekamraott.com/musiq/musiq/video.m3u8
 #EXTINF: -1 tvg-id="ts1196" tvg-name="Ekamra Bharat Odia" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMBHO_Thumbnail-v1/EKMBHO_Thumbnail.png" group-title="Odia", Ekamra Bharat Odia
 https://live.ekamraott.com/bharat/bharat/video.m3u8
