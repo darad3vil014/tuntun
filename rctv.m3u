@@ -79,6 +79,8 @@ https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 https://muviflix.site/live/high/286.m3u8
 #EXTINF: -1 tvg-id="463" tvg-name="Discovery HD World" tvg-chno="463" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png" group-title="Infotainment", Discovery HD World
 https://muviflix.site/live/high/463.m3u8
+#EXTINF: -1 tvg-id="ts413" tvg-name="NAT GEO WILD HD" tvg-chno="" tvg-logo="" group-title="Infotainment", NAT GEO WILD HD
+http://119.152.240.15:8001/play/a0do/index.m3u8
 #EXTINF: -1 tvg-id="541" tvg-name="Discovery Turbo" tvg-chno="541" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-967-j5mr8tw8-v1/imageContent-967-j5mr8tw8-m1.png" group-title="Infotainment", Discovery Turbo
 https://muviflix.site/live/high/541.m3u8
 #EXTINF: -1 tvg-id="ts130" tvg-name="Animal Planet" tvg-chno="566" tvg-logo="" group-title="Infotainment", Animal Planet
@@ -257,9 +259,6 @@ https://muviflix.site/live/high/858.m3u8
 https://muviflix.site/live/high/383.m3u8
 #EXTINF: -1 tvg-id="1251" tvg-name="TV9 Bharatvarsh" tvg-chno="1251" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png" group-title="News", TV9 Bharatvarsh
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
-#EXTINF: -1 tvg-id="ts142" tvg-name="UTV Bindass" tvg-chno="" tvg-logo="" group-title="Entertainment", UTV Bindass
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-http://suprino.xyz/PMF3J9X/BV7HG8H/809072
 #EXTINF: -1 tvg-id="ts805" tvg-name="Nandighosha TV" tvg-chno="1427" tvg-logo="" group-title="Odia", Nandighosha TV
 https://nandighoshatvlive.com/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id=3072 tvg-name="Shree Jagannath TV" tvg-logo="https://raw.githubusercontent.com/darad3vil014/tuntun/refs/heads/main/Shree_Jagannath_TV.png" group-title="Odia", Shree Jagannath TV
