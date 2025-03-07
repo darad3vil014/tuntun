@@ -6,7 +6,7 @@ https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF: -1 tvg-id="ts52" tvg-name="Colors HD" tvg-chno="144" tvg-logo="" group-title="Entertainment", Colors HD
 https://muviflix.site/live/high/144.m3u8
 #EXTINF: -1 tvg-id="ts8" tvg-logo="" tvg-name="STAR PLUS HD" group-title="Entertainment", STAR PLUS HD
-http://103.115.126.26:8000/play/a03k/index.m3u8
+https://starshare.org:443/live/5045123/5045123/167.m3u8
 #EXTINF: -1 tvg-id="ts48" tvg-name="Sony Sab HD" group-title="Entertainment", Sony Sab HD
 https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF: -1 tvg-id="ts63" tvg-name="Zee TV HD" tvg-logo="" group-title="Entertainment", Zee TV HD
