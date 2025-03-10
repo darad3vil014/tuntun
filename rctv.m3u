@@ -78,7 +78,7 @@ https://muviflix.site/live/high/286.m3u8
 #EXTINF: -1 tvg-id="463" tvg-name="Discovery HD World" tvg-chno="463" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png" group-title="Infotainment", Discovery HD World
 https://muviflix.site/live/high/463.m3u8
 #EXTINF: -1 tvg-id="ts413" tvg-name="NAT GEO WILD HD" tvg-chno="" tvg-logo="" group-title="Infotainment", NAT GEO WILD HD
-http://119.152.240.15:8001/play/a0do/index.m3u8
+http://b1g.ooo:80/65113/65113/161890
 #EXTINF: -1 tvg-id="541" tvg-name="Discovery Turbo" tvg-chno="541" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-967-j5mr8tw8-v1/imageContent-967-j5mr8tw8-m1.png" group-title="Infotainment", Discovery Turbo
 https://muviflix.site/live/high/541.m3u8
 #EXTINF: -1 tvg-id="ts130" tvg-name="Animal Planet" tvg-chno="566" tvg-logo="" group-title="Infotainment", Animal Planet
@@ -172,15 +172,15 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #EXTINF: -1 tvg-id="ts238" tvg-name="Cartoon Network" tvg-logo="" group-title="Kids", Cartoon Network
 https://muviflix.site/live/high/816.m3u8
 #EXTINF: -1 tvg-id="ts345" tvg-name="Hungama" group-title="Kids", Hungama
-http://119.152.240.15:8001/play/a0cs/index.m3u8
+http://b1g.ooo:80/65113/65113/161878
 #EXTINF: -1 tvg-id="ts114" tvg-name="Disney" group-title="Kids", Disney
-http://119.152.240.15:8001/play/a0ct/index.m3u8
+http://b1g.ooo:80/65113/65113/161864
 #EXTINF: -1 tvg-logo="" tvg-name="Sony YAY!" group-title="Kids", Sony YAY!
 https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1 tvg-id="ts587" tvg-name="Super Hungama" group-title="Kids" tvg-logo="" ,Super Hungama
-http://119.152.240.15:8001/play/a0kc/index.m3u8
+http://b1g.ooo:80/65113/65113/663361
 #EXTINF:-1 tvg-id="ts144" group-title="Kids" tvg-logo="" ,Disney Junior
-http://119.152.240.15:8001/play/a02z/index.m3u8
+http://b1g.ooo:80/65113/65113/161865
 #EXTINF: -1 tvg-id="ts138" tvg-name="Nick" tvg-logo="" group-title="Kids", Nick
 https://muviflix.site/live/high/545.m3u8
 #EXTINF: -1 tvg-id="ts119" tvg-name="Discovery Kids" tvg-logo="" group-title="Kids", Discovery Kids
