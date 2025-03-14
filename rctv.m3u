@@ -273,7 +273,7 @@ https://live.ekamraott.com/baiscope/baiscope/video.m3u8
 https://live.ekamraott.com/onepaschima/onepaschima/video.m3u8
 #EXTINF: -1 tvg-id="ts9" tvg-name="B4U Music" tvg-logo="" group-title="Music", B4U Music
 https://muviflix.site/live/high/183.m3u8
-#EXTINF: -1 tvg-id="ts39" tvg-name="9X Jalwa" tvg-logo="" group-title="Music", 9X Jalwa
+#EXTINF: -1 tvg-id="" tvg-name="9X Jalwa" tvg-logo="" group-title="Music", 9X Jalwa
 https://muviflix.site/live/high/440.m3u8
 #EXTINF: -1 tvg-id="ts139" tvg-name="9XM" tvg-chno="587" tvg-logo="" group-title="Music", 9XM
 https://muviflix.site/live/high/587.m3u8
