@@ -78,7 +78,7 @@ https://muviflix.site/live/high/286.m3u8
 #EXTINF: -1 tvg-id="463" tvg-name="Discovery HD World" tvg-chno="463" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png" group-title="Infotainment", Discovery HD World
 https://muviflix.site/live/high/463.m3u8
 #EXTINF: -1 tvg-id="ts413" tvg-name="NAT GEO WILD HD" tvg-chno="" tvg-logo="" group-title="Infotainment", NAT GEO WILD HD
-https://senegal-trackback-oops-upc.trycloudflare.com/star/star.php?id=9395.m3u8
+https://starshare.org:443/live/Gavin1/Gavin1/9395.m3u8
 #EXTINF: -1 tvg-id="541" tvg-name="Discovery Turbo" tvg-chno="541" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-967-j5mr8tw8-v1/imageContent-967-j5mr8tw8-m1.png" group-title="Infotainment", Discovery Turbo
 https://muviflix.site/live/high/541.m3u8
 #EXTINF: -1 tvg-id="ts130" tvg-name="Animal Planet" tvg-chno="566" tvg-logo="" group-title="Infotainment", Animal Planet
@@ -104,7 +104,7 @@ http://b1g.ooo:80/65113/65113/8703
 #EXTINF: -1 tvg-id="ts267" tvg-name="&Pictures HD" tvg-chno="185" tvg-logo="" group-title="Movies", &Pictures HD
 http://zee.muviflix.site/index.php?id=0-9-tvpictureshd
 #EXTINF: -1 tvg-name="Star Gold 2 HD" group-title="Movies", Star Gold 2 HD
-http://b1g.ooo:80/65113/65113/853012
+https://starshare.org:443/live/Gavin1/Gavin1/157081.m3u8
 #EXTINF: -1 group-title="Movies", Sony Wah
 https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF: -1 tvg-id="ts823" tvg-name="Goldmines" group-title="Movies", Goldmines
