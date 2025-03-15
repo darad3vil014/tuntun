@@ -323,9 +323,9 @@ https://starshare.org:443/live/5045123/5045123/238.m3u8
 https://starshare.org:443/live/5045123/5045123/148801.m3u8
 #EXTINF: -1 tvg-id="ts812" tvg-name="EUROSPORT HD" tvg-logo="" group-title="Sports", EUROSPORT HD
 https://muviflix.site/live/high/875.m3u8
-#EXTINF: -1 tvg-id="ts1033" tvg-name="Sports18 1 HD" tvg-logo="" group-title="Sports", Sports18 1 HD
+#EXTINF: -1 tvg-id="ts1033" tvg-name="Star Sports 2 Hindi HD" tvg-logo="" group-title="Sports", Star Sports 2 Hindi HD
 https://muviflix.site/live/high/1984.m3u8
-#EXTINF: -1 tvg-name="Sports18 Khel" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="Sports", Sports18 Khel
+#EXTINF: -1 tvg-id="" tvg-name="Star Sports Khel" tvg-logo="" group-title="Sports", Star Sports Khel
 https://muviflix.site/live/high/1998.m3u8
 #EXTINF: -1 tvg-id="204" tvg-name="DD Sports" tvg-chno="204" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports", DD Sports
 https://muviflix.site/live/high/204.m3u8
