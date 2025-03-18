@@ -15,8 +15,6 @@ http://zee.muviflix.site/index.php?id=0-9-zeetvhd
 https://starshare.org:443/live/5045123/5045123/158970.m3u8
 #EXTINF: -1 group-title="Entertainment", Sony Pal
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
-#EXTINF: -1 tvg-id="ts115" tvg-name="Colors Odia" tvg-logo="" group-title="Odia", Colors Odia
-https://muviflix.site/live/high/198.m3u8
 #EXTINF: -1 tvg-id="ts237" tvg-name="Tarang TV" tvg-logo="" group-title="Odia", Tarang TV
 https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="ts597" tvg-name="Zee Sarthak" tvg-chno="722" tvg-logo="" group-title="Odia", Zee Sarthak
@@ -165,7 +163,7 @@ https://muviflix.site/live/high/164.m3u8
 https://muviflix.site/live/high/479.m3u8
 #EXTINF: -1 tvg-id="ts117" tvg-name="Food Food" tvg-chno="561" tvg-logo="" group-title="Infotainment", Food Food
 https://muviflix.site/live/high/561.m3u8
-#EXTINF: -1 tvg-id="ts1174" tvg-name="Star Kiran HD" tvg-logo="" group-title="Odia", Star Kiran HD
+#EXTINF: -1 tvg-id="ts1174" tvg-name="Star Kiran" tvg-logo="" group-title="Odia", Star Kiran
 https://starshare.org:443/live/5045123/5045123/347712.m3u8
 #EXTINF: -1 tvg-id="ts333" tvg-name="DD Odia" tvg-logo="" group-title="Odia", DD Odia
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/245d9a9e-4820-43b1-af33-4a3017d09f52/2.m3u8
@@ -279,16 +277,12 @@ https://muviflix.site/live/high/440.m3u8
 https://muviflix.site/live/high/587.m3u8
 #EXTINF: -1 tvg-id="592" tvg-name="ZOOM" tvg-chno="592" tvg-logo="" group-title="Music", ZOOM
 https://muviflix.site/live/high/592.m3u8
-#EXTINF: -1 tvg-id="ts405" tvg-name="MTV Beats HD" tvg-chno="753" tvg-logo="" group-title="Music", MTV Beats HD
-https://muviflix.site/live/high/753.m3u8
 #EXTINF: -1 tvg-id="895" tvg-name="Sun Music HD" tvg-chno="895" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="Music", Sun Music HD
 https://muviflix.site/live/high/895.m3u8
 #EXTINF: -1 tvg-id="1172" tvg-name="PTC Chak De" tvg-chno="1172" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png" group-title="Music", PTC Chak De
 https://muviflix.site/live/high/1172.m3u8
 #EXTINF: -1 tvg-id="1249" tvg-name="Kadak Hits" tvg-chno="1249" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kadak_Hits.png" group-title="Music", Kadak Hits
 https://muviflix.site/live/high/1249.m3u8
-#EXTINF: -1 tvg-id="1320" tvg-name="VH1 HD" tvg-chno="1320" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VH1_HD.png" group-title="Music", VH1 HD
-https://muviflix.site/live/high/1320.m3u8
 #EXTINF: -1 tvg-id="2043" tvg-name="Artist Aloud" tvg-chno="2043" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Artist_Aloud.png" group-title="Music", Artist Aloud
 https://muviflix.site/live/high/2043.m3u8
 #EXTINF: -1 tvg-id="2064" tvg-name="Merchant Records" tvg-chno="2064" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Merchant_Records.png" group-title="Music", Merchant Records
