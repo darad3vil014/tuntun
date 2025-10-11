@@ -10,7 +10,7 @@ https://deadpooll.vercel.app/DEAD/74778.m3u8
 #EXTINF: -1 tvg-id="ts48" tvg-name="Sony Sab HD" group-title="Entertainment", Sony Sab HD
 https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF: -1 tvg-id="ts63" tvg-name="Zee TV HD" tvg-logo="" group-title="Entertainment", Zee TV HD
-https://rajasambit.in/joomla/index.php?id=0-9-zeetvhd
+https://joomla.infinityfreeapp.com/index.php?id=0-9-zeetvhd
 #EXTINF: -1 tvg-name="STAR UTSAV" group-title="Entertainment", STAR UTSAV
 https://starshare.org:443/live/5045123/5045123/158970.m3u8
 #EXTINF: -1 group-title="Entertainment", Sony Pal
@@ -18,7 +18,7 @@ https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF: -1 tvg-id="ts237" tvg-name="Tarang TV" tvg-logo="" group-title="Odia", Tarang TV
 https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="ts597" tvg-name="Zee Sarthak" tvg-chno="722" tvg-logo="" group-title="Odia", Zee Sarthak
-https://rajasambit.in/joomla/index.php?id=0-9-sarthaktv
+https://joomla.infinityfreeapp.com/index.php?id=0-9-sarthaktv
 #EXTINF: -1 tvg-id="ts419" tvg-logo="" group-title="Odia", OTV
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="ts376" tvg-name="Kanak News" tvg-chno="718" tvg-logo="" group-title="Odia", Kanak News
@@ -44,9 +44,9 @@ http://192.168.1.33:8080/live/high/279.m3u8
 #EXTINF: -1 tvg-name="MTV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Entertainment", MTV HD
 http://192.168.1.33:8080/live/high/1145.m3u8
 #EXTINF: -1 tvg-id="472" tvg-name="&TV HD" tvg-chno="472" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment", &TV HD
-https://rajasambit.in/joomla/index.php?id=0-9-tvhd_0
+https://joomla.infinityfreeapp.com/index.php?id=0-9-tvhd_0
 #EXTINF: -1 tvg-id="ts523" tvg-name="Zee Anmol" tvg-chno="473" tvg-logo="" group-title="Entertainment", Zee Anmol
-https://rajasambit.in/joomla/index.php?id=0-9-zeeanmol
+https://joomla.infinityfreeapp.com/index.php?id=0-9-zeeanmol
 #EXTINF: -1 tvg-id="481" tvg-name="Epic" tvg-chno="481" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Entertainment", Epic
 http://192.168.1.33:8080/live/high/481.m3u8
 #EXTINF: -1 tvg-id="ts633" tvg-name="Investigation Discovery" tvg-chno="527" tvg-logo="" group-title="Entertainment", Investigation Discovery
@@ -60,7 +60,7 @@ http://192.168.1.33:8080/live/high/701.m3u8
 #EXTINF: -1 tvg-id="ts187" tvg-name="Colors Infinity HD" tvg-chno="1158" tvg-logo="" group-title="Entertainment", Colors Infinity HD
 http://192.168.1.33:8080/live/high/1158.m3u8
 #EXTINF: -1 tvg-id="ts297" tvg-name="Big Magic" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Big_Magic.png" group-title="Entertainment", Big Magic
-https://rajasambit.in/joomla/index.php?id=0-9-bigmagic_1786965389
+https://joomla.infinityfreeapp.com/index.php?id=0-9-bigmagic_1786965389
 #EXTINF: -1 tvg-id="ts931" tvg-name="Green Chillies" tvg-chno="1834" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Green_Chillies_TV.png" group-title="Entertainment", Green Chillies
 http://192.168.1.33:8080/live/high/1834.m3u8
 #EXTINF: -1 tvg-id="1961" tvg-name="Shemaroo TV" tvg-chno="1961" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png" group-title="Entertainment", Shemaroo TV
@@ -92,7 +92,7 @@ http://192.168.1.33:8080/live/high/580.m3u8
 #EXTINF: -1 tvg-id="ts326" tvg-name="DD Kisan" tvg-chno="583" tvg-logo="" group-title="Infotainment", DD Kisan
 http://192.168.1.33:8080/live/high/583.m3u8
 #EXTINF: -1 tvg-id="ts503" tvg-name="Zee Cinema HD" tvg-chno="165" tvg-logo="" group-title="Movies", Zee Cinema HD
-https://rajasambit.in/joomla/index.php?id=0-9-zeecinemahd
+https://joomla.infinityfreeapp.com/index.php?id=0-9-zeecinemahd
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" group-title="Movies" tvg-logo="" ,STAR GOLD HD
 https://deadpooll.vercel.app/DEAD/85208.m3u8
 #EXTINF: -1 group-title="Movies" tvg-logo="", Sony Max 2
@@ -100,7 +100,7 @@ https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD SELECT HD" group-title="Movies", STAR GOLD SELECT HD
 https://deadpooll.vercel.app/DEAD/85209.m3u8
 #EXTINF: -1 tvg-id="ts267" tvg-name="&Pictures HD" tvg-chno="185" tvg-logo="" group-title="Movies", &Pictures HD
-https://rajasambit.in/joomla/index.php?id=0-9-tvpictureshd
+https://joomla.infinityfreeapp.com/index.php?id=0-9-tvpictureshd
 #EXTINF: -1 tvg-name="Star Gold 2 HD" group-title="Movies", Star Gold 2 HD
 https://deadpooll.vercel.app/DEAD/85210.m3u8
 #EXTINF: -1 group-title="Movies", Sony Wah
@@ -116,29 +116,29 @@ http://119.152.240.15:8001/play/a02f/index.m3u8
 #EXTINF: -1 tvg-id="182" tvg-name="B4U Movies" tvg-chno="182" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies", B4U Movies
 http://192.168.1.33:8080/live/high/182.m3u8
 #EXTINF: -1 tvg-id="ts64" tvg-name="Zee Anmol Cinema" tvg-chno="415" tvg-logo="" group-title="Movies", Zee Anmol Cinema
-https://rajasambit.in/joomla/index.php?id=0-9-zeeanmolcinema
+https://joomla.infinityfreeapp.com/index.php?id=0-9-zeeanmolcinema
 #EXTINF: -1 tvg-name="STAR GOLD THRILLS" group-title="Movies", STAR GOLD THRILLS
 https://deadpooll.vercel.app/DEAD/95903.m3u8
 #EXTINF: -1 tvg-id="ts100" tvg-name="Zee Action" tvg-chno="488" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Movies", Zee Action
-https://rajasambit.in/joomla/index.php?id=0-9-zeeaction
+https://joomla.infinityfreeapp.com/index.php?id=0-9-zeeaction
 #EXTINF: -1 tvg-id="ts53" tvg-name="Colors Cineplex" tvg-chno="482" tvg-logo="" group-title="Movies", Colors Cineplex
 http://192.168.1.33:8080/live/high/482.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD ROMANCE" group-title="Movies", STAR GOLD ROMANCE
 https://deadpooll.vercel.app/DEAD/95902.m3u8
 #EXTINF: -1 tvg-id="487" tvg-name="Zee Bollywood" tvg-chno="487" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Movies", Zee Bollywood
-https://rajasambit.in/joomla/index.php?id=0-9-zeeclassic
+https://joomla.infinityfreeapp.com/index.php?id=0-9-zeeclassic
 #EXTINF: -1 tvg-id="1295" tvg-name="B4U Kadak" tvg-chno="1295" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="Movies", B4U Kadak
 http://192.168.1.33:8080/live/high/1295.m3u8
 #EXTINF: -1 tvg-id="ts148" tvg-name="&Pictures" tvg-chno="1839" tvg-logo="" group-title="Movies", &Pictures
-https://rajasambit.in/joomla/index.php?id=0-9-pictures
+https://joomla.infinityfreeapp.com/index.php?id=0-9-pictures
 #EXTINF: -1 tvg-name="STAR GOLD" group-title="Movies", STAR GOLD
 https://deadpooll.vercel.app/DEAD/119057.m3u8
 #EXTINF: -1 tvg-id="ts1183" tvg-logo="" group-title="Movies", &Xplor HD
-https://rajasambit.in/joomla/index.php?id=0-9-209
+https://joomla.infinityfreeapp.com/index.php?id=0-9-209
 #EXTINF: -1 tvg-id="ts123" tvg-name="Zee Cinema" tvg-chno="484" tvg-logo="" group-title="Movies", Zee Cinema
-https://rajasambit.in/joomla/index.php?id=0-9-zeecinema
+https://joomla.infinityfreeapp.com/index.php?id=0-9-zeecinema
 #EXTINF: -1 tvg-id="ts506" tvg-name="&Flix HD" tvg-logo="" group-title="Movies", &Flix HD
-https://rajasambit.in/joomla/index.php?id=0-9-channel_2105335046
+https://joomla.infinityfreeapp.com/index.php?id=0-9-channel_2105335046
 #EXTINF: -1 tvg-id="ts1370" tvg-name="Sun Neo HD" tvg-logo="" group-title="Entertainment", Sun Neo HD
 http://192.168.1.33:8080/live/high/3088.m3u8
 #EXTINF: -1 group-title="Movies", Sony Pix HD
@@ -146,17 +146,17 @@ https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF: -1 group-title="Movies", STAR Movies HD
 https://deadpooll.vercel.app/DEAD/74798.m3u8
 #EXTINF: -1 tvg-id="ts530" tvg-name="&Prive HD" tvg-chno="1349" tvg-logo="" group-title="Movies", &Prive HD
-https://rajasambit.in/joomla/index.php?id=0-9-9z5543514
+https://joomla.infinityfreeapp.com/index.php?id=0-9-9z5543514
 #EXTINF: -1 tvg-id="ts61" tvg-name="Colors Cineplex HD" tvg-chno="1477" tvg-logo="" group-title="Movies", Colors Cineplex HD
 http://192.168.1.33:8080/live/high/1477.m3u8  
 #EXTINF: -1 tvg-id="1691" tvg-name="Zee Classic" tvg-chno="1691" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic_SD.png" group-title="Movies", Zee Classic
-https://rajasambit.in/joomla/index.php?id=0-9-176
+https://joomla.infinityfreeapp.com/index.php?id=0-9-176
 #EXTINF: -1 tvg-id="1450" tvg-name="Colors Cineplex Superhits" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Movies", Colors Cineplex Superhits
 http://192.168.1.33:8080/live/high/1450.m3u8
 #EXTINF: -1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" tvg-chno="1763" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Movies", Colors Cineplex Bollywood
 http://192.168.1.33:8080/live/high/1763.m3u8
 #EXTINF: -1 tvg-id="ts382" tvg-name="Zee Zest HD" tvg-logo="" group-title="Infotainment", Zee Zest HD
-https://rajasambit.in/joomla/index.php?id=0-9-348
+https://joomla.infinityfreeapp.com/index.php?id=0-9-348
 #EXTINF: -1 tvg-id="ts484" tvg-name="Travelxp HD" tvg-chno="164" tvg-logo="" group-title="Infotainment", Travelxp HD
 http://192.168.1.33:8080/live/high/164.m3u8
 #EXTINF: -1 tvg-id="ts480" tvg-name="TLC HD" tvg-chno="479" tvg-logo="" group-title="Infotainment", TLC HD
@@ -248,7 +248,7 @@ http://192.168.1.33:8080/live/high/657.m3u8
 #EXTINF: -1 tvg-id="ts375" tvg-name="Kalinga TV" tvg-chno="781" tvg-logo="" group-title="Odia", Kalinga TV
 https://server.thelegitpro.in/kalingatv/kalingatv/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="ts517" group-title="Entertainment" tvg-name="Zing" tvg-logo="", Zing
-https://rajasambit.in/joomla/index.php?id=0-9-zing
+https://joomla.infinityfreeapp.com/index.php?id=0-9-zing
 #EXTINF: -1 tvg-id="858" tvg-name="Republic TV" tvg-chno="858" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="News", Republic TV
 http://192.168.1.33:8080/live/high/858.m3u8
 #EXTINF: -1 tvg-id="ts90" tvg-name="Times NOW" tvg-chno="383" tvg-logo="" group-title="News", Times NOW
@@ -349,5 +349,6 @@ http://192.168.1.33:8080/live/high/2258.m3u8
 http://192.168.1.33:8080/live/high/2774.m3u8
 #EXTINF: -1 tvg-name="Sony Kal" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/6/6e/Sony_Kal_Logo.jpeg" group-title="Entertainment", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_3000k.m3u8
+
 
 
