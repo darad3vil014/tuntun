@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://rc2526.duckdns.org/epg.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz,https://avkb.short.gy/epg.xml.gz,https://fhux.short.gy/epg.xml.gz"
 #EXTINF:-1 tvg-id="143" tvg-name="CNBC TV18 Prime" tvg-logo="http://rc2526.duckdns.org/jtvimage/CNBC_Tv18_Prime_HD.png" tvg-language="English" tvg-type="Business" group-title="Business", CNBC TV18 Prime
 http://rc2526.duckdns.org/live/high/143.m3u8
 #EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-logo="http://rc2526.duckdns.org/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
@@ -7,16 +7,12 @@ http://rc2526.duckdns.org/live/high/144.m3u8
 http://rc2526.duckdns.org/live/high/146.m3u8
 #EXTINF:-1 tvg-id="151" tvg-name="Movies Now HD" tvg-logo="http://rc2526.duckdns.org/jtvimage/Movies_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", Movies Now HD
 http://rc2526.duckdns.org/live/high/151.m3u8
-#EXTINF:-1 tvg-id="154" tvg-name="Sony SAB" tvg-logo="http://rc2526.duckdns.org/jtvimage/Sony_SAB.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB
-http://rc2526.duckdns.org/live/high/154.m3u8
 #EXTINF:-1 tvg-id="155" tvg-name="Sony Ten 5 HD" tvg-logo="http://rc2526.duckdns.org/jtvimage/Six_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 5 HD
-http://rc2526.duckdns.org/live/high/155.m3u8
+https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1764862525~acl=/*~id=18047607377916163169392403609264~hmac=2cdbd9f529e1701187ec12284710e677e48b1e25f527a0a6bddbca9153146c9d
 #EXTINF:-1 tvg-id="162" tvg-name="Sony Ten 1 HD" tvg-logo="http://rc2526.duckdns.org/jtvimage/Ten_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 1 HD
-http://rc2526.duckdns.org/live/high/162.m3u8
+https://dishmt.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1764862525~acl=/*~id=18047607377916163169392403609264~hmac=2cdbd9f529e1701187ec12284710e677e48b1e25f527a0a6bddbca9153146c9d
 #EXTINF:-1 tvg-id="164" tvg-name="Travelxp HD" tvg-logo="http://rc2526.duckdns.org/jtvimage/Travel_XP_HD.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", Travelxp HD
 http://rc2526.duckdns.org/live/high/164.m3u8
-#EXTINF:-1 tvg-id="166" tvg-name="Cartoon Network Telugu" tvg-logo="http://rc2526.duckdns.org/jtvimage/Cartoon_Network_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Cartoon Network Telugu
-http://rc2526.duckdns.org/live/high/166.m3u8
 #EXTINF:-1 tvg-id="173" tvg-name="Aaj Tak" tvg-logo="http://rc2526.duckdns.org/jtvimage/Aaj_Tak.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaj Tak
 http://rc2526.duckdns.org/live/high/173.m3u8
 #EXTINF:-1 tvg-id="175" tvg-name="Aastha" tvg-logo="http://rc2526.duckdns.org/jtvimage/Aastha.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Aastha
@@ -72,7 +68,7 @@ http://rc2526.duckdns.org/live/high/289.m3u8
 #EXTINF:-1 tvg-id="290" tvg-name="sonic Tamil" tvg-logo="http://rc2526.duckdns.org/jtvimage/sonic_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", sonic Tamil
 http://rc2526.duckdns.org/live/high/290.m3u8
 #EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="http://rc2526.duckdns.org/jtvimage/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
-http://rc2526.duckdns.org/live/high/291.m3u8
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1764862525~acl=/*~id=18047607377916163169392403609264~hmac=2cdbd9f529e1701187ec12284710e677e48b1e25f527a0a6bddbca9153146c9d
 #EXTINF:-1 tvg-id="383" tvg-name="Times NOW" tvg-logo="http://rc2526.duckdns.org/jtvimage/Times_NOW.png" tvg-language="English" tvg-type="News" group-title="News", Times NOW
 http://rc2526.duckdns.org/live/high/383.m3u8
 #EXTINF:-1 tvg-id="400" tvg-name="PM e Vidya 01" tvg-logo="http://rc2526.duckdns.org/jtvimage/evidya_1.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 01
@@ -130,11 +126,11 @@ http://rc2526.duckdns.org/live/high/465.m3u8
 #EXTINF:-1 tvg-id="466" tvg-name="Dharma Sandesh" tvg-logo="http://rc2526.duckdns.org/jtvimage/Arihant_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Dharma Sandesh
 http://rc2526.duckdns.org/live/high/466.m3u8
 #EXTINF:-1 tvg-id="471" tvg-name="Sony SAB HD" tvg-logo="http://rc2526.duckdns.org/jtvimage/Sony_SAB_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB HD
-http://rc2526.duckdns.org/live/high/471.m3u8
+https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1764862525~acl=/*~id=18047607377916163169392403609264~hmac=2cdbd9f529e1701187ec12284710e677e48b1e25f527a0a6bddbca9153146c9d
 #EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-logo="http://rc2526.duckdns.org/jtvimage/SonyPAL.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Pal
-http://rc2526.duckdns.org/live/high/474.m3u8
+https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1764862525~acl=/*~id=18047607377916163169392403609264~hmac=2cdbd9f529e1701187ec12284710e677e48b1e25f527a0a6bddbca9153146c9d
 #EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" tvg-logo="http://rc2526.duckdns.org/jtvimage/Sony_Max_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max HD
-http://rc2526.duckdns.org/live/high/476.m3u8
+https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1764862525~acl=/*~id=18047607377916163169392403609264~hmac=2cdbd9f529e1701187ec12284710e677e48b1e25f527a0a6bddbca9153146c9d
 #EXTINF:-1 tvg-id="477" tvg-name="MN+ HD" tvg-logo="http://rc2526.duckdns.org/jtvimage/MNPLUS.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MN+ HD
 http://rc2526.duckdns.org/live/high/477.m3u8
 #EXTINF:-1 tvg-id="479" tvg-name="TLC HD" tvg-logo="http://rc2526.duckdns.org/jtvimage/TLC_HD_World.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", TLC HD
@@ -142,7 +138,7 @@ http://rc2526.duckdns.org/live/high/479.m3u8
 #EXTINF:-1 tvg-id="482" tvg-name="Colors Cineplex" tvg-logo="http://rc2526.duckdns.org/jtvimage/Colors_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex
 http://rc2526.duckdns.org/live/high/482.m3u8
 #EXTINF:-1 tvg-id="483" tvg-name="Sony MAX2" tvg-logo="http://rc2526.duckdns.org/jtvimage/SonyMAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony MAX2
-http://rc2526.duckdns.org/live/high/483.m3u8
+https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1764862525~acl=/*~id=18047607377916163169392403609264~hmac=2cdbd9f529e1701187ec12284710e677e48b1e25f527a0a6bddbca9153146c9d
 #EXTINF:-1 tvg-id="486" tvg-name="Bhojpuri Cinema" tvg-logo="http://rc2526.duckdns.org/jtvimage/Bhojpuri_Cinema.png" tvg-language="Bhojpuri" tvg-type="Movies" group-title="Movies", Bhojpuri Cinema
 http://rc2526.duckdns.org/live/high/486.m3u8
 #EXTINF:-1 tvg-id="489" tvg-name="CNBC TV18" tvg-logo="http://rc2526.duckdns.org/jtvimage/CNBC_Tv_18.png" tvg-language="English" tvg-type="Business" group-title="Business", CNBC TV18
@@ -173,36 +169,10 @@ http://rc2526.duckdns.org/live/high/502.m3u8
 http://rc2526.duckdns.org/live/high/503.m3u8
 #EXTINF:-1 tvg-id="504" tvg-name="Zee News" tvg-logo="http://rc2526.duckdns.org/jtvimage/Zee_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee News
 http://rc2526.duckdns.org/live/high/504.m3u8
-#EXTINF:-1 tvg-id="510" tvg-name="VIP News" tvg-logo="http://rc2526.duckdns.org/jtvimage/VIP_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", VIP News
-http://rc2526.duckdns.org/live/high/510.m3u8
-#EXTINF:-1 tvg-id="511" tvg-name="Mh One News" tvg-logo="http://rc2526.duckdns.org/jtvimage/Mh_One_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Mh One News
-http://rc2526.duckdns.org/live/high/511.m3u8
-#EXTINF:-1 tvg-id="512" tvg-name="India News UP" tvg-logo="http://rc2526.duckdns.org/jtvimage/India_News_UP.png" tvg-language="Hindi" tvg-type="News" group-title="News", India News UP
-http://rc2526.duckdns.org/live/high/512.m3u8
-#EXTINF:-1 tvg-id="513" tvg-name="India News Rajasthan" tvg-logo="http://rc2526.duckdns.org/jtvimage/India_News_Rajasthan.png" tvg-language="Hindi" tvg-type="News" group-title="News", India News Rajasthan
-http://rc2526.duckdns.org/live/high/513.m3u8
-#EXTINF:-1 tvg-id="514" tvg-name="Sony Ten 1" tvg-logo="http://rc2526.duckdns.org/jtvimage/Ten_1.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 1
-http://rc2526.duckdns.org/live/high/514.m3u8
-#EXTINF:-1 tvg-id="515" tvg-name="India News MP" tvg-logo="http://rc2526.duckdns.org/jtvimage/India_News_MP.png" tvg-language="Hindi" tvg-type="News" group-title="News", India News MP
-http://rc2526.duckdns.org/live/high/515.m3u8
-#EXTINF:-1 tvg-id="516" tvg-name="India News Haryana" tvg-logo="http://rc2526.duckdns.org/jtvimage/India_News_Haryana.png" tvg-language="Hindi" tvg-type="News" group-title="News", India News Haryana
-http://rc2526.duckdns.org/live/high/516.m3u8
-#EXTINF:-1 tvg-id="517" tvg-name="Chardikla Time TV" tvg-logo="http://rc2526.duckdns.org/jtvimage/Chardikla_Time_TV.png" tvg-language="Punjabi" tvg-type="News" group-title="News", Chardikla Time TV
-http://rc2526.duckdns.org/live/high/517.m3u8
-#EXTINF:-1 tvg-id="518" tvg-name="Sudarshan" tvg-logo="http://rc2526.duckdns.org/jtvimage/Sudarshan.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sudarshan
-http://rc2526.duckdns.org/live/high/518.m3u8
-#EXTINF:-1 tvg-id="519" tvg-name="Sadhna News Plus" tvg-logo="http://rc2526.duckdns.org/jtvimage/Sadhna_News_Plus.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sadhna News Plus
-http://rc2526.duckdns.org/live/high/519.m3u8
 #EXTINF:-1 tvg-id="520" tvg-name="Sansad TV HD" tvg-logo="http://rc2526.duckdns.org/jtvimage/DD_Rajyasabha.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sansad TV HD
 http://rc2526.duckdns.org/live/high/520.m3u8
 #EXTINF:-1 tvg-id="522" tvg-name="Sansad TV" tvg-logo="http://rc2526.duckdns.org/jtvimage/Loksabha_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sansad TV
 http://rc2526.duckdns.org/live/high/522.m3u8
-#EXTINF:-1 tvg-id="523" tvg-name="Ten 2" tvg-logo="http://rc2526.duckdns.org/jtvimage/Ten_2.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Ten 2
-http://rc2526.duckdns.org/live/high/523.m3u8
-#EXTINF:-1 tvg-id="524" tvg-name="Sony Ten 3 Hindi" tvg-logo="http://rc2526.duckdns.org/jtvimage/Ten_3.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Ten 3 Hindi
-http://rc2526.duckdns.org/live/high/524.m3u8
-#EXTINF:-1 tvg-id="525" tvg-name="Sony Ten 5" tvg-logo="http://rc2526.duckdns.org/jtvimage/Sony_Six_SD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 5
-http://rc2526.duckdns.org/live/high/525.m3u8
 #EXTINF:-1 tvg-id="527" tvg-name="Investigation Discovery" tvg-logo="http://rc2526.duckdns.org/jtvimage/ID.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Investigation Discovery
 http://rc2526.duckdns.org/live/high/527.m3u8
 #EXTINF:-1 tvg-id="528" tvg-name="DD India" tvg-logo="http://rc2526.duckdns.org/jtvimage/DD_India.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD India
@@ -704,9 +674,9 @@ http://rc2526.duckdns.org/live/high/887.m3u8
 #EXTINF:-1 tvg-id="889" tvg-name="Jio Sports HD" tvg-logo="http://rc2526.duckdns.org/jtvimage/Jio_Sports.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Jio Sports HD
 http://rc2526.duckdns.org/live/high/889.m3u8
 #EXTINF:-1 tvg-id="891" tvg-name="Sony Ten 2 HD" tvg-logo="http://rc2526.duckdns.org/jtvimage/Ten2_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 2 HD
-http://rc2526.duckdns.org/live/high/891.m3u8
-#EXTINF:-1 tvg-id="892" tvg-name="Sony Ten 3 HD Hindi" tvg-logo="http://rc2526.duckdns.org/jtvimage/Ten3_HD.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Ten 3 HD Hindi
-http://rc2526.duckdns.org/live/high/892.m3u8
+https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1764862525~acl=/*~id=18047607377916163169392403609264~hmac=2cdbd9f529e1701187ec12284710e677e48b1e25f527a0a6bddbca9153146c9d
+#EXTINF:-1 tvg-id="892" tvg-name="Sony Ten 3 HD" tvg-logo="http://rc2526.duckdns.org/jtvimage/Ten3_HD.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Ten 3 HD
+https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1764862525~acl=/*~id=18047607377916163169392403609264~hmac=2cdbd9f529e1701187ec12284710e677e48b1e25f527a0a6bddbca9153146c9d
 #EXTINF:-1 tvg-id="894" tvg-name="KTV HD" tvg-logo="http://rc2526.duckdns.org/jtvimage/KTV_HD.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", KTV HD
 http://rc2526.duckdns.org/live/high/894.m3u8
 #EXTINF:-1 tvg-id="895" tvg-name="Sun Music HD" tvg-logo="http://rc2526.duckdns.org/jtvimage/Sun_Music_HD.png" tvg-language="Tamil" tvg-type="Music" group-title="Music", Sun Music HD
@@ -1076,11 +1046,9 @@ http://rc2526.duckdns.org/live/high/1371.m3u8
 #EXTINF:-1 tvg-id="1388" tvg-name="Goodness" tvg-logo="http://rc2526.duckdns.org/jtvimage/Goodness_TV.png" tvg-language="Malayalam" tvg-type="Devotional" group-title="Devotional", Goodness
 http://rc2526.duckdns.org/live/high/1388.m3u8
 #EXTINF:-1 tvg-id="1393" tvg-name="Sony Wah" tvg-logo="http://rc2526.duckdns.org/jtvimage/SonyWAH.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Wah
-http://rc2526.duckdns.org/live/high/1393.m3u8
+https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1764862525~acl=/*~id=18047607377916163169392403609264~hmac=2cdbd9f529e1701187ec12284710e677e48b1e25f527a0a6bddbca9153146c9d
 #EXTINF:-1 tvg-id="1394" tvg-name="Jai Maharashtra" tvg-logo="http://rc2526.duckdns.org/jtvimage/Jai_Maharashtra.png" tvg-language="Marathi" tvg-type="News" group-title="News", Jai Maharashtra
 http://rc2526.duckdns.org/live/high/1394.m3u8
-#EXTINF:-1 tvg-id="1396" tvg-name="Set SD" tvg-logo="http://rc2526.duckdns.org/jtvimage/Sony_SD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Set SD
-http://rc2526.duckdns.org/live/high/1396.m3u8
 #EXTINF:-1 tvg-id="1401" tvg-name="Romedy Now" tvg-logo="http://rc2526.duckdns.org/jtvimage/Romedy_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", Romedy Now
 http://rc2526.duckdns.org/live/high/1401.m3u8
 #EXTINF:-1 tvg-id="1403" tvg-name="Republic Bharat" tvg-logo="http://rc2526.duckdns.org/jtvimage/Republic_Bharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Republic Bharat
@@ -1145,6 +1113,12 @@ http://rc2526.duckdns.org/live/high/1453.m3u8
 http://rc2526.duckdns.org/live/high/1454.m3u8
 #EXTINF:-1 tvg-id="1455" tvg-name="Janapriyam" tvg-logo="http://rc2526.duckdns.org/jtvimage/Janapriyam_News.png" tvg-language="Malayalam" tvg-type="Infotainment" group-title="Infotainment", Janapriyam
 http://rc2526.duckdns.org/live/high/1455.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
+https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1764862525~acl=/*~id=18047607377916163169392403609264~hmac=2cdbd9f529e1701187ec12284710e677e48b1e25f527a0a6bddbca9153146c9d
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/darad3vil014/tuntun/refs/heads/main/bwc.png" group-title="Movies",Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87417&ads.show_id=3259&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-14&ads.episodeRating=PG&ads.language=en&ads.showtitle=Bollywood%20Classic&ads.episodetitle=Bollywood%20Classic&ads.keywords=Bollywood%2CHindu%2CClassic&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/darad3vil014/tuntun/refs/heads/main/Bollywood_HD.png" group-title="Movies",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87418&ads.show_id=3260&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=hi&ads.showtitle=Bollywood%20HD&ads.episodetitle=Bollywood%20HD&ads.keywords=Bollywood%2CHindu%2CMovies&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
 #EXTINF:-1 tvg-id="1457" tvg-name="News Only" tvg-logo="http://rc2526.duckdns.org/jtvimage/News_Only.png" tvg-language="Punjabi" tvg-type="News" group-title="News", News Only
 http://rc2526.duckdns.org/live/high/1457.m3u8
 #EXTINF:-1 tvg-id="1458" tvg-name="Gurkibani" tvg-logo="http://rc2526.duckdns.org/jtvimage/Gurkebaani.png" tvg-language="Punjabi" tvg-type="Devotional" group-title="Devotional", Gurkibani
@@ -1337,14 +1311,6 @@ http://rc2526.duckdns.org/live/high/1763.m3u8
 http://rc2526.duckdns.org/live/high/1764.m3u8
 #EXTINF:-1 tvg-id="1771" tvg-name="Express News" tvg-logo="http://rc2526.duckdns.org/jtvimage/Express_News.png" tvg-language="Bengali" tvg-type="News" group-title="News", Express News
 http://rc2526.duckdns.org/live/high/1771.m3u8
-#EXTINF:-1 tvg-id="1772" tvg-name="Sony Ten 4 HD Tamil" tvg-logo="http://rc2526.duckdns.org/jtvimage/Ten_4_HD_Tamil.png" tvg-language="Tamil" tvg-type="Sports" group-title="Sports", Sony Ten 4 HD Tamil
-http://rc2526.duckdns.org/live/high/1772.m3u8
-#EXTINF:-1 tvg-id="1773" tvg-name="Sony Ten 4 HD Telugu" tvg-logo="http://rc2526.duckdns.org/jtvimage/Ten_4_HD_Telugu.png" tvg-language="Telugu" tvg-type="Sports" group-title="Sports", Sony Ten 4 HD Telugu
-http://rc2526.duckdns.org/live/high/1773.m3u8
-#EXTINF:-1 tvg-id="1774" tvg-name="Sony Ten 4 Tamil" tvg-logo="http://rc2526.duckdns.org/jtvimage/Ten_4_Tamil.png" tvg-language="Tamil" tvg-type="Sports" group-title="Sports", Sony Ten 4 Tamil
-http://rc2526.duckdns.org/live/high/1774.m3u8
-#EXTINF:-1 tvg-id="1775" tvg-name="Sony Ten 4 Telugu" tvg-logo="http://rc2526.duckdns.org/jtvimage/Ten_4_Telugu.png" tvg-language="Telugu" tvg-type="Sports" group-title="Sports", Sony Ten 4 Telugu
-http://rc2526.duckdns.org/live/high/1775.m3u8
 #EXTINF:-1 tvg-id="1777" tvg-name="Bharat News TV" tvg-logo="http://rc2526.duckdns.org/jtvimage/Bharat_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Bharat News TV
 http://rc2526.duckdns.org/live/high/1777.m3u8
 #EXTINF:-1 tvg-id="1780" tvg-name="HooplaKidz TV" tvg-logo="http://rc2526.duckdns.org/jtvimage/Hoopla_Kids_TV.png" tvg-language="English" tvg-type="Kids" group-title="Kids", HooplaKidz TV
@@ -1731,8 +1697,8 @@ http://rc2526.duckdns.org/live/high/3023.m3u8
 http://rc2526.duckdns.org/live/high/3024.m3u8
 #EXTINF:-1 tvg-id="3025" tvg-name="India TV Aap Ki Adalat" tvg-logo="http://rc2526.duckdns.org/jtvimage/Aap_Ki_Adalat.png" tvg-language="Hindi" tvg-type="News" group-title="News", India TV Aap Ki Adalat
 http://rc2526.duckdns.org/live/high/3025.m3u8
-#EXTINF:-1 tvg-id="3026" tvg-name="India TV Speed News" tvg-logo="http://rc2526.duckdns.org/jtvimage/Speed_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", India TV Speed News
-http://rc2526.duckdns.org/live/high/3026.m3u8
+#EXTINF: -1 tvg-id="ts1407" tvg-name="IndiaTV Speed News" tvg-logo="" group-title="News", IndiaTV Speed News
+https://amg01550-amg01550c4-samsung-in-4677.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvspeednewssamsung-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="3027" tvg-name="Desh News" tvg-logo="http://rc2526.duckdns.org/jtvimage/Desh_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Desh News
 http://rc2526.duckdns.org/live/high/3027.m3u8
 #EXTINF:-1 tvg-id="3028" tvg-name="BH OTT India Fest" tvg-logo="http://rc2526.duckdns.org/jtvimage/BHStyle_Icon.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", BH OTT India Fest
