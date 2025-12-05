@@ -68,7 +68,7 @@ http://rc2526.duckdns.org:5001/live/high/289.m3u8
 #EXTINF:-1 tvg-id="290" tvg-name="sonic Tamil" tvg-logo="http://rc2526.duckdns.org:5001/jtvimage/sonic_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", sonic Tamil
 http://rc2526.duckdns.org:5001/live/high/290.m3u8
 #EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="http://rc2526.duckdns.org:5001/jtvimage/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
-https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1764862525~acl=/*~id=18047607377916163169392403609264~hmac=2cdbd9f529e1701187ec12284710e677e48b1e25f527a0a6bddbca9153146c9d
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1764948633~acl=/*~id=37443553791194462976785038393093~hmac=e4965d116570a3997d9e0f8a33803add9b1815da63d8689794660c4fee56407a
 #EXTINF:-1 tvg-id="383" tvg-name="Times NOW" tvg-logo="http://rc2526.duckdns.org:5001/jtvimage/Times_NOW.png" tvg-language="English" tvg-type="News" group-title="News", Times NOW
 http://rc2526.duckdns.org:5001/live/high/383.m3u8
 #EXTINF:-1 tvg-id="400" tvg-name="PM e Vidya 01" tvg-logo="http://rc2526.duckdns.org:5001/jtvimage/evidya_1.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 01
