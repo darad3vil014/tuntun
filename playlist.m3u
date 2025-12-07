@@ -26,7 +26,7 @@ http://rc2526.duckdns.org:5001/live/high/202.m3u8
 #EXTINF:-1 tvg-id="279" tvg-name="Rishtey" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Rishtey
 http://rc2526.duckdns.org:5001/live/high/279.m3u8
 #EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
-https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1765121529~acl=/*~id=36265271396416792059854643269357~hmac=0553eaa864bbd6e8c2dced3c271671f3a0bfcfb9e74622653e345cf1ded984d3
+http://rc2526.duckdns.org:5001/live/high/279.m3u8
 #EXTINF:-1 tvg-id="471" tvg-name="Sony SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" tvg-type="Entertainment" group-title="Entertainment", Sony SAB HD
 https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1765121529~acl=/*~id=36265271396416792059854643269357~hmac=0553eaa864bbd6e8c2dced3c271671f3a0bfcfb9e74622653e345cf1ded984d3
 #EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPAL.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Pal
