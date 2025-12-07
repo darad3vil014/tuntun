@@ -122,9 +122,9 @@ http://rc2526.duckdns.org:5001/live/high/1477.m3u8
 #EXTINF:-1 tvg-id="483" tvg-name="Sony MAX 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony MAX 2
 https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1765164911~acl=/*~id=17176032997944526714135572364876~hmac=0b9db289c60177b7be5287f0c95a832005ef96693502629d0b10c189d9e11919
 #EXTINF:-1 tvg-id="883" tvg-name="Oscar Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png" tvg-language="Bhojpuri" tvg-type="Movies" group-title="Movies", Oscar Movies
-http://rc2526.duckdns.org:5001/live/high/883.m3u8
+https://cdn-4.pishow.tv/live/233/master.m3u8
 #EXTINF:-1 tvg-id="1295" tvg-name="B4U Kadak" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Kadak
-http://rc2526.duckdns.org:5001/live/high/1295.m3u8
+https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 #EXTINF:-1 tvg-id="486" tvg-name="Bhojpuri Cinema" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png" group-title="Movies", Bhojpuri Cinema
 http://rc2526.duckdns.org:5001/live/high/486.m3u8
 #EXTINF:-1 tvg-id="1401" tvg-name="Romedy Now" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Romedy_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", Romedy Now
@@ -288,3 +288,6 @@ http://btuo.duckdns.org:8080/index.php?id=0-9-tvhd_0
 http://btuo.duckdns.org:8080/index.php?id=0-9-tvpictureshd
 #EXTINF:-1 tvg-id="ts517" group-title="Entertainment" tvg-name="Zing" tvg-logo="", Zing
 http://btuo.duckdns.org:8080/index.php?id=0-9-zing
+#EXTINF: -1 tvg-id="ts823" tvg-name="Goldmines" group-title="Movies", Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+
