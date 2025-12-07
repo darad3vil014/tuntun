@@ -149,15 +149,15 @@ https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=17651215
 http://rc2526.duckdns.org:5001/live/high/204.m3u8
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
 https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1765121529~acl=/*~id=36265271396416792059854643269357~hmac=0553eaa864bbd6e8c2dced3c271671f3a0bfcfb9e74622653e345cf1ded984d3
-#EXTINF: -1 tvg-id="ts81" tvg-logo="" group-title="Sports", Sony Sports Ten 1 HD
+#EXTINF: -1 tvg-id="ts81" tvg-logo="" group-title="Sports", Sony Ten 1 HD
 https://dishmt.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1765121529~acl=/*~id=36265271396416792059854643269357~hmac=0553eaa864bbd6e8c2dced3c271671f3a0bfcfb9e74622653e345cf1ded984d3
-#EXTINF: -1 tvg-id="ts462" tvg-logo="" group-title="Sports", Sony Sports Ten 2 HD
+#EXTINF: -1 tvg-id="ts462" tvg-logo="" group-title="Sports", Sony Ten 2 HD
 https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1765121529~acl=/*~id=36265271396416792059854643269357~hmac=0553eaa864bbd6e8c2dced3c271671f3a0bfcfb9e74622653e345cf1ded984d3
-#EXTINF: -1 tvg-id="ts464" tvg-logo="" group-title="Sports", Sony Sports Ten 3 HD
+#EXTINF: -1 tvg-id="ts464" tvg-logo="" group-title="Sports", Sony Ten 3 HD
 https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1765121529~acl=/*~id=36265271396416792059854643269357~hmac=0553eaa864bbd6e8c2dced3c271671f3a0bfcfb9e74622653e345cf1ded984d3
-#EXTINF: -1 tvg-id="ts1192" tvg-logo="" group-title="Sports", Sony Sports Ten 4 HD
+#EXTINF: -1 tvg-id="ts1192" tvg-logo="" group-title="Sports", Sony Ten 4 HD
 https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1765121529~acl=/*~id=36265271396416792059854643269357~hmac=0553eaa864bbd6e8c2dced3c271671f3a0bfcfb9e74622653e345cf1ded984d3
-#EXTINF: -1 tvg-id="ts35" tvg-logo="" group-title="Sports", Sony Sports Ten 5 HD
+#EXTINF: -1 tvg-id="ts35" tvg-logo="" group-title="Sports", Sony Ten 5 HD
 https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1765121529~acl=/*~id=36265271396416792059854643269357~hmac=0553eaa864bbd6e8c2dced3c271671f3a0bfcfb9e74622653e345cf1ded984d3
 #EXTINF:-1 tvg-id="875" tvg-name="Eurosport HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" tvg-type="Sports" group-title="Sports", Eurosport HD
 http://rc2526.duckdns.org:5001/live/high/875.m3u8
