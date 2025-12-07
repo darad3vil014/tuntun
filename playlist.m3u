@@ -42,8 +42,8 @@ http://rc2526.duckdns.org:5001/live/high/698.m3u8
 #EXTINF:-1 tvg-id="701" tvg-name="Dangal" tvg-logo="" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Dangal
 http://rc2526.duckdns.org:5001/live/high/701.m3u8
 #EXTINF:-1 tvg-id="702" tvg-name="DD Oriya" tvg-logo="" tvg-language="Odia" group-title="Odia", DD Oriya
-http://rc2526.duckdns.org:5001/live/high/702.m3u8
-#EXTINF:-1 tvg-id="703" tvg-name="Tarang" tvg-logo="" tvg-language="Odia" group-title="Odia", Tarang
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
+#EXTINF:-1 tvg-id="703" tvg-name="Tarang TV" tvg-logo="" tvg-language="Odia" group-title="Odia", Tarang TV
 https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="756" tvg-name="Colors Bengali HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" tvg-type="Entertainment" group-title="Entertainment", Colors Bengali HD
 http://rc2526.duckdns.org:5001/live/high/756.m3u8
