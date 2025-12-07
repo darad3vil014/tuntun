@@ -150,7 +150,7 @@ http://rc2526.duckdns.org:5001/live/high/204.m3u8
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
 https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1765121529~acl=/*~id=36265271396416792059854643269357~hmac=0553eaa864bbd6e8c2dced3c271671f3a0bfcfb9e74622653e345cf1ded984d3
 #EXTINF: -1 tvg-id="ts81" tvg-logo="" group-title="Sports", Sony Sports Ten 1 HD
-https://dishmt.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1765121529~acl=/*~id=36265271396416792059854643269357~hmac=0553eaa864bbd6e8c2dced3c271671f3a0bfcfb9e74622653e345cf1ded984d3
+https://dishmt.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8?hdbd6e8c2dced3c271671f3a0bfcfb9e74622653e345cf1ded984d3
 #EXTINF: -1 tvg-id="ts462" tvg-logo="" group-title="Sports", Sony Sports Ten 2 HD
 https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1765121529~acl=/*~id=36265271396416792059854643269357~hmac=0553eaa864bbd6e8c2dced3c271671f3a0bfcfb9e74622653e345cf1ded984d3
 #EXTINF: -1 tvg-id="ts464" tvg-logo="" group-title="Sports", Sony Sports Ten 3 HD
