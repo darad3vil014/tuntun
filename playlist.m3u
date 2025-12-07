@@ -26,7 +26,7 @@ http://rc2526.duckdns.org:5001/live/high/202.m3u8
 #EXTINF:-1 tvg-id="279" tvg-name="Rishtey" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Rishtey
 http://rc2526.duckdns.org:5001/live/high/279.m3u8
 #EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
-https://fifabdm.xyz/
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1765121529~acl=/*~id=36265271396416792059854643269357~hmac=0553eaa864bbd6e8c2dced3c271671f3a0bfcfb9e74622653e345cf1ded984d3
 #EXTINF:-1 tvg-id="471" tvg-name="Sony SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" tvg-type="Entertainment" group-title="Entertainment", Sony SAB HD
 https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1765121529~acl=/*~id=36265271396416792059854643269357~hmac=0553eaa864bbd6e8c2dced3c271671f3a0bfcfb9e74622653e345cf1ded984d3
 #EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPAL.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Pal
@@ -114,7 +114,7 @@ http://btuo.duckdns.org:8080/index.php?id=0-9-zeecinemahd
 #EXTINF:-1 tvg-id="182" tvg-name="B4U Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Movies
 http://rc2526.duckdns.org:5001/live/high/182.m3u8
 #EXTINF: -1 tvg-id="ts80" tvg-name="Sony Max HD" tvg-logo="" group-title="Movies", Sony Max HD
-https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1765121529~acl=/*~id=36265271396416792059854643269357~hmac=0553eaa864bbd6e8c2dced3c271671f3a0bfcfb9e74622653e345cf1ded984d3
+https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1765121529~acl=/*~id=36265271396416792059854643269357~hmac=0553eaa864bbd6e8c2dced3c271671f3a0bfcfb9e74622653e345cf1ded984d3
 #EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD
 http://rc2526.duckdns.org:5001/live/high/1477.m3u8
 #EXTINF:-1 tvg-id="483" tvg-name="Sony MAX 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony MAX 2
@@ -149,15 +149,15 @@ https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=17651215
 http://rc2526.duckdns.org:5001/live/high/204.m3u8
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
 https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1765121529~acl=/*~id=36265271396416792059854643269357~hmac=0553eaa864bbd6e8c2dced3c271671f3a0bfcfb9e74622653e345cf1ded984d3
-#EXTINF: -1 tvg-id="ts81" tvg-logo="" group-title="Sports", Sony Sports Ten 1 HD
+#EXTINF: -1 tvg-id="ts81" tvg-logo="" group-title="Sports", Sony Ten 1 HD
 https://dishmt.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1765121529~acl=/*~id=36265271396416792059854643269357~hmac=0553eaa864bbd6e8c2dced3c271671f3a0bfcfb9e74622653e345cf1ded984d3
-#EXTINF: -1 tvg-id="ts462" tvg-logo="" group-title="Sports", Sony Sports Ten 2 HD
+#EXTINF: -1 tvg-id="ts462" tvg-logo="" group-title="Sports", Sony Ten 2 HD
 https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1765121529~acl=/*~id=36265271396416792059854643269357~hmac=0553eaa864bbd6e8c2dced3c271671f3a0bfcfb9e74622653e345cf1ded984d3
-#EXTINF: -1 tvg-id="ts464" tvg-logo="" group-title="Sports", Sony Sports Ten 3 HD
+#EXTINF: -1 tvg-id="ts464" tvg-logo="" group-title="Sports", Sony Ten 3 HD
 https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1765121529~acl=/*~id=36265271396416792059854643269357~hmac=0553eaa864bbd6e8c2dced3c271671f3a0bfcfb9e74622653e345cf1ded984d3
-#EXTINF: -1 tvg-id="ts1192" tvg-logo="" group-title="Sports", Sony Sports Ten 4 HD
+#EXTINF: -1 tvg-id="ts1192" tvg-logo="" group-title="Sports", Sony Ten 4 HD
 https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1765121529~acl=/*~id=36265271396416792059854643269357~hmac=0553eaa864bbd6e8c2dced3c271671f3a0bfcfb9e74622653e345cf1ded984d3
-#EXTINF: -1 tvg-id="ts35" tvg-logo="" group-title="Sports", Sony Sports Ten 5 HD
+#EXTINF: -1 tvg-id="ts35" tvg-logo="" group-title="Sports", Sony Ten 5 HD
 https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1765121529~acl=/*~id=36265271396416792059854643269357~hmac=0553eaa864bbd6e8c2dced3c271671f3a0bfcfb9e74622653e345cf1ded984d3
 #EXTINF:-1 tvg-id="875" tvg-name="Eurosport HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" tvg-type="Sports" group-title="Sports", Eurosport HD
 http://rc2526.duckdns.org:5001/live/high/875.m3u8
