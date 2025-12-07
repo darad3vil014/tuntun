@@ -12,7 +12,7 @@ http://rc2526.duckdns.org:5001/live/high/259.m3u8
 #EXTINF:-1 tvg-id="1907" tvg-name="ET Now Swadesh" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now_Swadesh.png" tvg-language="Hindi" tvg-type="Business" group-title="Business", ET Now Swadesh
 http://rc2526.duckdns.org:5001/live/high/1907.m3u8
 #EXTINF: -1 tvg-id="ts260" tvg-name="Zee Business" tvg-logo="" group-title="Business", Zee Business
-http://rc2526.duckdns.org:5001/live/high/657.m3u8
+http://btuo.duckdns.org:8080/index.php?id=0-9-zeebusiness
 #EXTINF:-1 tvg-id="3155" tvg-name="Bloomberg TV+" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bloomberg_TV.png" tvg-language="English" tvg-type="Business" group-title="Business", Bloomberg TV+
 http://rc2526.duckdns.org:5001/live/high/3155.m3u8
 #EXTINF:-1 tvg-id="3154" tvg-name="Bloomberg Originals" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" tvg-language="English" tvg-type="Business" group-title="Business", Bloomberg Originals
@@ -50,7 +50,7 @@ http://rc2526.duckdns.org:5001/live/high/756.m3u8
 #EXTINF:-1 tvg-id="1393" tvg-name="Sony Wah" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SonyWAH.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Wah
 https://fifabdm.xyz/OPPLEX/RANAPK/play.php?id=112979&|User-Agent=RANAPK
 #EXTINF: -1 tvg-id="ts597" tvg-name="Zee Sarthak" tvg-chno="722" tvg-logo="" group-title="Odia", Zee Sarthak
-http://192.168.1.100/index.php?id=0-9-sarthaktv
+http://btuo.duckdns.org:8080/index.php?id=0-9-sarthaktv
 #EXTINF: -1 tvg-id="ts419" tvg-logo="" group-title="Odia", OTV
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="ts376" tvg-name="Kanak News" tvg-chno="718" tvg-logo="" group-title="Odia", Kanak News
@@ -86,13 +86,13 @@ http://rc2526.duckdns.org:5001/live/high/3022.m3u8
 #EXTINF:-1 tvg-id="3028" tvg-name="BH OTT India Fest" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BHStyle_Icon.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", BH OTT India Fest
 http://rc2526.duckdns.org:5001/live/high/3028.m3u8
 #EXTINF: -1 tvg-id="ts63" tvg-name="Zee TV HD" tvg-logo="" group-title="Entertainment", Zee TV HD
-http://192.168.1.100/index.php?id=0-9-zeetvhd
+http://btuo.duckdns.org:8080/index.php?id=0-9-zeetvhd
 #EXTINF:-1 tvg-id="3382" tvg-name="EPIC TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/EPIC_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", EPIC TV
 http://rc2526.duckdns.org:5001/live/high/3382.m3u8
 #EXTINF: -1 tvg-id="ts523" tvg-name="Zee Anmol" tvg-chno="473" tvg-logo="" group-title="Entertainment", Zee Anmol
-http://192.168.1.100/index.php?id=0-9-zeeanmol
+http://btuo.duckdns.org:8080/index.php?id=0-9-zeeanmol
 #EXTINF: -1 tvg-id="ts382" tvg-name="Zee Zest HD" tvg-logo="" group-title="Entertainment", Zee Zest HD
-http://192.168.1.100/index.php?id=0-9-348
+http://btuo.duckdns.org:8080/index.php?id=0-9-348
 #EXTINF:-1 tvg-id="146" tvg-name="History TV18 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="Infotainment", History TV18 HD
 http://rc2526.duckdns.org:5001/live/high/146.m3u8
 #EXTINF:-1 tvg-id="463" tvg-name="Discovery HD World" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment", Discovery HD World
@@ -110,7 +110,7 @@ http://rc2526.duckdns.org:5001/live/high/2437.m3u8
 #EXTINF:-1 tvg-id="3389" tvg-name="INWILD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Inwild.png" group-title="Infotainment", INWILD
 http://rc2526.duckdns.org:5001/live/high/3389.m3u8
 #EXTINF: -1 tvg-id="ts503" tvg-name="Zee Cinema HD" tvg-chno="165" tvg-logo="" group-title="Movies", Zee Cinema HD
-http://192.168.1.100/index.php?id=0-9-zeecinemahd
+http://btuo.duckdns.org:8080/index.php?id=0-9-zeecinemahd
 #EXTINF:-1 tvg-id="182" tvg-name="B4U Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Movies
 http://rc2526.duckdns.org:5001/live/high/182.m3u8
 #EXTINF: -1 tvg-id="ts80" tvg-name="Sony Max HD" tvg-logo="" group-title="Movies", Sony Max HD
@@ -138,11 +138,11 @@ http://rc2526.duckdns.org:5001/live/high/1657.m3u8
 #EXTINF:-1 tvg-id="3075" tvg-name="Shemaroo Bollywood" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/smrbol.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Shemaroo Bollywood
 http://rc2526.duckdns.org:5001/live/high/3075.m3u8
 #EXTINF: -1 tvg-id="ts123" tvg-name="Zee Cinema" tvg-chno="484" tvg-logo="" group-title="Movies", Zee Cinema
-http://192.168.1.100/index.php?id=0-9-zeecinema
+http://btuo.duckdns.org:8080/index.php?id=0-9-zeecinema
 #EXTINF: -1 tvg-id="1691" tvg-name="Zee Classic" tvg-chno="1691" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic_SD.png" group-title="Movies", Zee Classic
-http://192.168.1.100/index.php?id=0-9-176
+http://btuo.duckdns.org:8080/index.php?id=0-9-176
 #EXTINF: -1 tvg-id="ts100" tvg-name="Zee Action" tvg-chno="488" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Movies", Zee Action
-http://192.168.1.100/index.php?id=0-9-zeeaction
+http://btuo.duckdns.org:8080/index.php?id=0-9-zeeaction
 #EXTINF: -1 tvg-id="" tvg-name="Sony Pix HD" group-title="Movies", Sony Pix HD
 https://fifabdm.xyz/OPPLEX/RANAPK/play.php?id=66224&|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="204" tvg-name="DD Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports", DD Sports
