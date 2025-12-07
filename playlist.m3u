@@ -101,6 +101,8 @@ http://rc2526.duckdns.org:5001/live/high/463.m3u8
 http://rc2526.duckdns.org:5001/live/high/575.m3u8
 #EXTINF:-1 tvg-id="286" tvg-name="Animal Planet HD World" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="Infotainment", Animal Planet HD World
 http://rc2526.duckdns.org:5001/live/high/286.m3u8
+#EXTINF:-1 tvg-id="566" tvg-name="Animal Planet Hindi" tvg-logo="http://rc2526.duckdns.org:5001/jtvimage/Animal_Planet_Hindi.png" group-title="Infotainment", Animal Planet Hindi
+http://rc2526.duckdns.org:5001/live/high/566.m3u8
 #EXTINF:-1 tvg-id="568" tvg-name="Discovery Science" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery Science
 http://rc2526.duckdns.org:5001/live/high/568.m3u8
 #EXTINF:-1 tvg-id="541" tvg-name="Discovery Turbo" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery Turbo
@@ -161,8 +163,7 @@ https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1765121
 https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1765121529~acl=/*~id=36265271396416792059854643269357~hmac=0553eaa864bbd6e8c2dced3c271671f3a0bfcfb9e74622653e345cf1ded984d3
 #EXTINF:-1 tvg-id="875" tvg-name="Eurosport HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" tvg-type="Sports" group-title="Sports", Eurosport HD
 http://rc2526.duckdns.org:5001/live/high/875.m3u8
-#EXTINF:-1 tvg-id="1889" tvg-name="Jio Sports 1 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_1_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Jio Sports 1 HD
-http://rc2526.duckdns.org:5001/live/high/1889.m3u8
+
 #EXTINF:-1 tvg-id="1984" tvg-name="Star Sports 2 Hindi HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Star Sports 2 Hindi HD
 http://rc2526.duckdns.org:5001/live/high/1984.m3u8
 #EXTINF:-1 tvg-id="1998" tvg-name="Star Sports Khel" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Star Sports Khel
@@ -269,3 +270,21 @@ http://rc2526.duckdns.org:5001/live/high/1735.m3u8
 http://rc2526.duckdns.org:5001/live/high/1481.m3u8
 #EXTINF:-1 tvg-id="1251" tvg-name="TV9 Bharatvarsh" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png" tvg-language="Hindi" tvg-type="News" group-title="News", TV9 Bharatvarsh
 http://rc2526.duckdns.org:5001/live/high/1251.m3u8
+#EXTINF:-1 tvg-id="560" tvg-name="GOOD TiMES" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png" tvg-type="Lifestyle" group-title="Lifestyle", GOOD TiMES
+http://rc2526.duckdns.org:5001/live/high/560.m3u8
+#EXTINF:-1 tvg-id="877" tvg-name="MNX HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" group-title="Movies", MNX HD
+http://rc2526.duckdns.org:5001/live/high/877.m3u8
+#EXTINF:-1 tvg-id="3281" tvg-name="Mahua Play" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mahua_Play.png" group-title="Movies", Mahua Play
+http://rc2526.duckdns.org:5001/live/high/3281.m3u8
+#EXTINF: -1 tvg-id="487" tvg-name="Zee Bollywood" tvg-chno="487" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Movies", Zee Bollywood
+http://btuo.duckdns.org:8080/index.php?id=0-9-zeeclassic
+#EXTINF: -1 tvg-id="ts64" tvg-name="Zee Anmol Cinema" tvg-chno="415" tvg-logo="" group-title="Movies", Zee Anmol Cinema
+http://btuo.duckdns.org:8080/index.php?id=0-9-zeeanmolcinema
+#EXTINF: -1 tvg-id="ts297" tvg-name="Big Magic" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Big_Magic.png" group-title="Entertainment", Big Magic
+http://btuo.duckdns.org:8080/index.php?id=0-9-bigmagic_1786965389
+#EXTINF: -1 tvg-id="472" tvg-name="&TV HD" tvg-chno="472" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment", &TV HD
+http://btuo.duckdns.org:8080/index.php?id=0-9-tvhd_0
+#EXTINF: -1 tvg-id="ts267" tvg-name="&Pictures HD" tvg-chno="185" tvg-logo="" group-title="Movies", &Pictures HD
+http://btuo.duckdns.org:8080/index.php?id=0-9-tvpictureshd
+#EXTINF:-1 tvg-id="ts517" group-title="Entertainment" tvg-name="Zing" tvg-logo="", Zing
+http://btuo.duckdns.org:8080/index.php?id=0-9-zing
