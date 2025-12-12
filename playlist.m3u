@@ -292,4 +292,29 @@ http://btuo.duckdns.org:8080/index.php?id=0-9-tvpictureshd
 http://btuo.duckdns.org:8080/index.php?id=0-9-zing
 #EXTINF: -1 tvg-id="ts823" tvg-name="Goldmines" group-title="Movies", Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
-
+#EXTINF: -1 tvg-id="Zee Bangla"  group-title="Entertainment ", Zee Bangla
+http://btuo.duckdns.org:8080/index.php?id=0-9-zeebangla
+#EXTINF:-1 tvg-id="2078" tvg-name="Shemaroo Umang" tvg-logo=http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" tvg-type="Entertainment" group-title="Entertainment", Shemaroo Umang
+http://rc2526.duckdns.org:5001/live/high/2078.m3u8
+#EXTINF:-1 tvg-id="1955" tvg-name="Foodxp" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_XP.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", Foodxp
+http://rc2526.duckdns.org:5001/live/high/1955.m3u8
+#EXTINF:-1 tvg-id="1763" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Movies", Colors Cineplex Bollywood
+http://rc2526.duckdns.org:5001/live/high/1763.m3u8
+#EXTINF: -1 tvg-id="" group-title="Movies ", &flix
+http://btuo.duckdns.org:8080/index.php?id=0-9-channel_2105335046
+#EXTINF:-1 tvg-id="591" tvg-name="E 24" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" group-title="Music", E 24
+http://rc2526.duckdns.org:5001/live/high/591.m3u8
+#EXTINF:-1 tvg-id="2252" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Music_Station.png" group-title="Music", Desi Music Station
+http://rc2526.duckdns.org:5001/live/high/2252.m3u8
+#EXTINF:-1 tvg-id="3074" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/smrfgn.png" group-title="Music", Shemaroo Filmy Gaane
+http://rc2526.duckdns.org:5001/live/high/3074.m3u8
+#EXTINF:-1 tvg-id="1906" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png" group-title="News", Times Now Navbharat
+http://rc2526.duckdns.org:5001/live/high/1906.m3u8
+#EXTINF:-1 tvg-id="1403" tvg-name="Republic Bharat" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_Bharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Republic Bharat
+http://rc2526.duckdns.org:5001/live/high/1403.m3u8
+#EXTINF:-1 tvg-id="791" tvg-name="Taaza TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Taaza_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Taaza TV
+http://rc2526.duckdns.org:5001/live/high/791.m3u8
+#EXTINF:-1 tvg-id="502" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tez.png" group-title="News", Good News Today
+http://rc2526.duckdns.org:5001/live/high/502.m3u8
+#EXTINF:-1 tvg-id="2353" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_Express.png" group-title="News", Bharat Express
+http://rc2526.duckdns.org:5001/live/high/2353.m3u8
