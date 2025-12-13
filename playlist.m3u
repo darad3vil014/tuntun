@@ -69,8 +69,6 @@ http://rc2526.duckdns.org:5001/live/high/1957.m3u8
 http://rc2526.duckdns.org:5001/live/high/1958.m3u8
 #EXTINF: -1 tvg-id="ts1169" tvg-name="Jay Jagannath TV" tvg-logo="" group-title="Odia", Jay Jagannath TV
 http://rc2526.duckdns.org:5001/live/high/3115.m3u8
-#EXTINF:-1 tvg-id="595" tvg-name="Prarthana Life" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prarthana_Life.png" group-title="Odia", Prarthana Life
-http://rc2526.duckdns.org:5001/live/high/595.m3u8
 #EXTINF:-1 tvg-id="1961" tvg-name="Shemaroo TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Shemaroo TV
 http://rc2526.duckdns.org:5001/live/high/1961.m3u8
 #EXTINF:-1 tvg-id="2817" tvg-name="Boogle Bangla" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Boogle_Bangla.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="Entertainment", Boogle Bangla
