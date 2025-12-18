@@ -113,7 +113,7 @@ http://rc2526.duckdns.org:5001/live/high/3389.m3u8
 http://btuo.duckdns.org:8080/index.php?id=0-9-zeecinemahd
 #EXTINF:-1 tvg-id="182" tvg-name="B4U Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Movies
 http://rc2526.duckdns.org:5001/live/high/182.m3u8
-#EXTINF: -1 tvg-id="ts80" tvg-name="Sony Max HD" tvg-logo="" group-title="Movies", Sony Max HD
+#EXTINF: -1 tvg-id="ts80" tvg-name="Sony Max HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png" group-title="Movies", Sony Max HD
 http://87.255.35.150:18851
 #EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD
 http://rc2526.duckdns.org:5001/live/high/1477.m3u8
