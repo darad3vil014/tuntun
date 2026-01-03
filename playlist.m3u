@@ -113,8 +113,11 @@ http://rc2526.duckdns.org:5001/live/high/3389.m3u8
 http://btuo.duckdns.org:8080/index.php?id=0-9-zeecinemahd
 #EXTINF:-1 tvg-id="182" tvg-name="B4U Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Movies
 http://rc2526.duckdns.org:5001/live/high/182.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://btuo.duckdns.org:8080/tp/widevine.php?id=80
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF: -1 tvg-id="ts80" tvg-name="Sony Max HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png" group-title="Movies", Sony Max HD
-http://rc2526.duckdns.org:5001/live/high/476.m3u8
+http://btuo.duckdns.org:8080/tp/manifest.php?id=80|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD
 http://rc2526.duckdns.org:5001/live/high/1477.m3u8
 #EXTINF:-1 tvg-id="483" tvg-name="Sony MAX 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony MAX 2
