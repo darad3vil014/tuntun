@@ -17,7 +17,6 @@ http://192.168.8.2/TP/tpm3u/manifest.php?id=8|User-Agent=Mozilla/5.0 (Windows NT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ts48" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png",SONY SAB HD
 http://192.168.8.2/TP/tpm3u/manifest.php?id=48|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-
 #EXTINF: -1 tvg-id="ts63" tvg-name="Zee TV HD" tvg-logo="" group-title="Entertainment", Zee TV HD
 http://192.168.1.100/index.php?id=0-9-zeetvhd
 #EXTINF: -1 tvg-name="STAR UTSAV" group-title="Entertainment", STAR UTSAV
@@ -315,8 +314,8 @@ https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://192.168.8.2/TP/tpm3u/widevine.php?id=24
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="ts24" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Sports" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",Star Sports 1 Hindi HD
-http://192.168.8.2/TP/tpm3u/manifest.php?id=24|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#EXTINF:-1 tvg-id="ts24" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Sports" tvg-logo="",Star Sports 1 Hindi HD
+http://192.168.8.2/TP/tpm3u/manifest.php?id=24
 #EXTINF: -1 tvg-name="STAR SPORTS 2 HD" tvg-logo="" group-title="Sports", STAR SPORTS 2 HD
 https://deadpooll.vercel.app/DEAD/93303.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS SELECT 1 HD" group-title="Sports", STAR SPORTS SELECT 1 HD
@@ -361,6 +360,7 @@ http://192.168.1.33:8080/live/high/2258.m3u8
 http://192.168.1.33:8080/live/high/2774.m3u8
 #EXTINF: -1 tvg-name="Sony Kal" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/6/6e/Sony_Kal_Logo.jpeg" group-title="Entertainment", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_3000k.m3u8
+
 
 
 
