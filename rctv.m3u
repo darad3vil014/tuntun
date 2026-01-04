@@ -3,7 +3,7 @@
 #KODIPROP:inputstream.adaptive.license_key=http://192.168.8.2/TP/tpm3u/widevine.php?id=80
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ts80" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png",SONY MAX HD
-http://192.168.8.2/TP/tpm3u/manifest.php?id=80|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+http://192.168.8.2/TP/tpm3u/manifest.php?id=80
 #EXTINF: -1 tvg-id="ts15" tvg-logo="" tvg-name="SET HD" group-title="Entertainment", SET HD
 https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF: -1 tvg-id="ts52" tvg-name="Colors HD" tvg-chno="144" tvg-logo="" group-title="Entertainment", Colors HD
@@ -352,6 +352,7 @@ http://192.168.1.33:8080/live/high/2258.m3u8
 http://192.168.1.33:8080/live/high/2774.m3u8
 #EXTINF: -1 tvg-name="Sony Kal" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/6/6e/Sony_Kal_Logo.jpeg" group-title="Entertainment", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_3000k.m3u8
+
 
 
 
