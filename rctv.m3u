@@ -101,10 +101,16 @@ http://192.168.1.33:8080/live/high/580.m3u8
 http://192.168.1.33:8080/live/high/583.m3u8
 #EXTINF: -1 tvg-id="ts503" tvg-name="Zee Cinema HD" tvg-chno="165" tvg-logo="" group-title="Movies", Zee Cinema HD
 http://192.168.8.2/ZEE5/index.php?id=0-9-zeecinemahd
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" group-title="Movies" tvg-logo="" ,STAR GOLD HD
-https://deadpooll.vercel.app/DEAD/85208.m3u8
-#EXTINF: -1 group-title="Movies" tvg-logo="", Sony Max 2
-https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.8.2/TP/tpm3u/widevine.php?id=245
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="ts245" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png",Star GOLD HD
+http://192.168.8.2/TP/tpm3u/manifest.php?id=245|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.8.2/TP/tpm3u/widevine.php?id=120
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="ts120" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png",SONY MAX 2
+http://192.168.8.2/TP/tpm3u/manifest.php?id=120|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF: -1 tvg-name="STAR GOLD SELECT HD" group-title="Movies", STAR GOLD SELECT HD
 https://deadpooll.vercel.app/DEAD/85209.m3u8
 #EXTINF: -1 tvg-id="ts267" tvg-name="&Pictures HD" tvg-chno="185" tvg-logo="" group-title="Movies", &Pictures HD
@@ -382,6 +388,7 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist_3000k.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ts1340" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ETVBBHD_Thumbnail-v1/ETVBBHD_Thumbnail.png",ETV Bal Bharat HD
 http://192.168.8.2/TP/tpm3u/manifest.php?id=1340|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
 
 
 
