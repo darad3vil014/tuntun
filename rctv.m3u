@@ -183,8 +183,11 @@ https://deadpooll.vercel.app/DEAD/92417.m3u8
 https://deadpooll.vercel.app/DEAD/122082.m3u8
 #EXTINF: -1 tvg-logo="" tvg-name="Sony YAY!" group-title="Kids", Sony YAY!
 https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
-#EXTINF:-1 tvg-id="ts587" tvg-name="Super Hungama" group-title="Kids" tvg-logo="" ,Super Hungama
-https://uxplaylists-live.vercel.app/starshare.m3u8?id=66162
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.8.2/TP/tpm3u/widevine.php?id=587
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="ts587" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png",Super Hungama
+http://192.168.8.2/TP/tpm3u/manifest.php?id=587|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF:-1 tvg-id="ts144" group-title="Kids" tvg-logo="" ,Disney Junior
 https://deadpooll.vercel.app/DEAD/92419.m3u8
 #EXTINF: -1 tvg-id="ts138" tvg-name="Nick" tvg-logo="" group-title="Kids", Nick
@@ -373,6 +376,7 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist_3000k.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ts1340" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ETVBBHD_Thumbnail-v1/ETVBBHD_Thumbnail.png",ETV Bal Bharat HD
 http://192.168.8.2/TP/tpm3u/manifest.php?id=1340|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
 
 
 
