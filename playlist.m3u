@@ -315,8 +315,11 @@ http://btuo.duckdns.org:8080/index.php?id=0-9-tvhd_0
 http://btuo.duckdns.org:8080/index.php?id=0-9-tvpictureshd
 #EXTINF:-1 tvg-id="ts517" group-title="Entertainment" tvg-name="Zing" tvg-logo="", Zing
 http://btuo.duckdns.org:8080/index.php?id=0-9-zing
-#EXTINF: -1 tvg-id="ts823" tvg-name="Goldmines" group-title="Movies", Goldmines
-https://cdn-2.pishow.tv/live/1459/master.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://btuo.duckdns.org:8080/tp/widevine.php?id=823
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="ts823" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53943-kblsqraw-v3/imageContent-53943-kblsqraw-m4.png",Goldmines
+http://btuo.duckdns.org:8080/tp/manifest.php?id=823|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF: -1 tvg-id="Zee Bangla"  group-title="Entertainment ", Zee Bangla
 http://btuo.duckdns.org:8080/index.php?id=0-9-zeebangla
 #EXTINF:-1 tvg-id="2078" tvg-name="Shemaroo Umang" tvg-logo=http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" tvg-type="Entertainment" group-title="Entertainment", Shemaroo Umang
