@@ -25,18 +25,30 @@ http://rc2526.duckdns.org:5001/live/high/144.m3u8
 http://rc2526.duckdns.org:5001/live/high/202.m3u8
 #EXTINF:-1 tvg-id="279" tvg-name="Rishtey" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Rishtey
 http://rc2526.duckdns.org:5001/live/high/279.m3u8
-#EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
-http://rc2526.duckdns.org:5001/live/high/291.m3u8
-#EXTINF:-1 tvg-id="471" tvg-name="Sony SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" tvg-type="Entertainment" group-title="Entertainment", Sony SAB HD
-http://rc2526.duckdns.org:5001/live/high/471.m3u8
-#EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPAL.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Pal
-http://rc2526.duckdns.org:5001/live/high/474.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://btuo.duckdns.org:8080/tp/widevine.php?id=15
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="ts15" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png",SET HD
+http://btuo.duckdns.org:8080/tp/manifest.php?id=15|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://btuo.duckdns.org:8080/tp/widevine.php?id=48
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="ts48" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png",SONY SAB HD
+http://btuo.duckdns.org:8080/tp/manifest.php?id=48|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://btuo.duckdns.org:8080/tp/widevine.php?id=554
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="ts554" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12071-j9oa4gbc-v5/imageContent-12071-j9oa4gbc-m4.png",Sony Pal
+http://btuo.duckdns.org:8080/tp/manifest.php?id=554|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF:-1 tvg-id="527" tvg-name="Investigation Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.png" tvg-type="Entertainment" group-title="Entertainment", Investigation Discovery
 http://rc2526.duckdns.org:5001/live/high/527.m3u8
 #EXTINF:-1 tvg-id="528" tvg-name="DD India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", DD India
 http://rc2526.duckdns.org:5001/live/high/528.m3u8
-#EXTINF:-1 tvg-id="697" tvg-name="Sony Aath" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SonyAATH.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="Entertainment", Sony Aath
-http://rc2526.duckdns.org:5001/live/high/697.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://btuo.duckdns.org:8080/tp/widevine.php?id=34
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="ts34" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Bengali" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png",SONY AATH
+http://btuo.duckdns.org:8080/tp/manifest.php?id=34|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF:-1 tvg-id="698" tvg-name="Aakash Aath" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="Entertainment", Aakash Aath
 http://rc2526.duckdns.org:5001/live/high/698.m3u8
 #EXTINF:-1 tvg-id="701" tvg-name="Dangal" tvg-logo="" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Dangal
@@ -47,8 +59,11 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/in
 https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="756" tvg-name="Colors Bengali HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" tvg-type="Entertainment" group-title="Entertainment", Colors Bengali HD
 http://rc2526.duckdns.org:5001/live/high/756.m3u8
-#EXTINF:-1 tvg-id="1393" tvg-name="Sony Wah" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SonyWAH.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Wah
-http://rc2526.duckdns.org:5001/live/high/1393.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://btuo.duckdns.org:8080/tp/widevine.php?id=56
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="ts56" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-198-j5fsr7mw-v2/imageContent-198-j5fsr7mw-m3.png",Sony Wah
+http://btuo.duckdns.org:8080/tp/manifest.php?id=56|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF: -1 tvg-id="ts597" tvg-name="Zee Sarthak" tvg-chno="722" tvg-logo="" group-title="Odia", Zee Sarthak
 http://btuo.duckdns.org:8080/index.php?id=0-9-sarthaktv
 #EXTINF: -1 tvg-id="ts419" tvg-logo="" group-title="Odia", OTV
@@ -120,8 +135,11 @@ http://rc2526.duckdns.org:5001/live/high/182.m3u8
 http://btuo.duckdns.org:8080/tp/manifest.php?id=80|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD
 http://rc2526.duckdns.org:5001/live/high/1477.m3u8
-#EXTINF:-1 tvg-id="483" tvg-name="Sony MAX 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony MAX 2
-http://rc2526.duckdns.org:5001/live/high/483.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://btuo.duckdns.org:8080/tp/widevine.php?id=120
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="ts120" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png",SONY MAX 2
+http://btuo.duckdns.org:8080/tp/manifest.php?id=120|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF:-1 tvg-id="883" tvg-name="Oscar Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png" tvg-language="Bhojpuri" tvg-type="Movies" group-title="Movies", Oscar Movies
 https://cdn-4.pishow.tv/live/233/master.m3u8
 #EXTINF:-1 tvg-id="1295" tvg-name="B4U Kadak" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Kadak
@@ -146,6 +164,11 @@ http://btuo.duckdns.org:8080/index.php?id=0-9-zeecinema
 http://btuo.duckdns.org:8080/index.php?id=0-9-176
 #EXTINF: -1 tvg-id="ts100" tvg-name="Zee Action" tvg-chno="488" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Movies", Zee Action
 http://btuo.duckdns.org:8080/index.php?id=0-9-zeeaction
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://btuo.duckdns.org:8080/tp/widevine.php?id=24
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="ts24" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Sports" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",Star Sports 1 Hindi HD
+http://btuo.duckdns.org:8080/tp/manifest.php?id=24|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF:-1 tvg-id="204" tvg-name="DD Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports", DD Sports
 http://rc2526.duckdns.org:5001/live/high/204.m3u8
 #EXTINF: -1 tvg-id="ts81" tvg-logo="" group-title="Sports", Sony Sports Ten 1 HD
@@ -154,14 +177,20 @@ http://rc2526.duckdns.org:5001/live/high/162.m3u8
 http://rc2526.duckdns.org:5001/live/high/891.m3u8
 #EXTINF: -1 tvg-id="ts464" tvg-logo="" group-title="Sports", Sony Sports Ten 3 HD
 http://rc2526.duckdns.org:5001/live/high/892.m3u8
-#EXTINF: -1 tvg-id="" tvg-logo="" group-title="Sports", Star Sports Select 1 HD
-http://87.255.35.150:18893
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://btuo.duckdns.org:8080/tp/widevine.php?id=246
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="ts246" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Sports" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG",Star Sports Select 1 HD
+http://btuo.duckdns.org:8080/tp/manifest.php?id=246|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF: -1 tvg-id="ts35" tvg-logo="" group-title="Sports", Sony Sports Ten 5 HD
 http://rc2526.duckdns.org:5001/live/high/155.m3u8
 #EXTINF:-1 tvg-id="875" tvg-name="Eurosport HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" tvg-type="Sports" group-title="Sports", Eurosport HD
 http://rc2526.duckdns.org:5001/live/high/875.m3u8
-#EXTINF:-1 tvg-id="1984" tvg-name="Star Sports 2 Hindi HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Star Sports 2 Hindi HD
-http://rc2526.duckdns.org:5001/live/high/1984.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://btuo.duckdns.org:8080/tp/widevine.php?id=1033
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="ts1033" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Sports" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Star Sports 2 Hindi HD_Thumbnail_7b031415-8d1d-4c5d-a3f8-a2315faa5e4e.png",Star Sports 2 Hindi HD
+http://btuo.duckdns.org:8080/tp/manifest.php?id=1033|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF:-1 tvg-id="1998" tvg-name="Star Sports Khel" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Star Sports Khel
 http://rc2526.duckdns.org:5001/live/high/1998.m3u8
 #EXTINF:-1 tvg-id="3146" tvg-name="All Women's Sports Network" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AWSN.png" tvg-language="English" tvg-type="Sports" group-title="Sports", All Women's Sports Network
@@ -314,5 +343,14 @@ http://rc2526.duckdns.org:5001/live/high/791.m3u8
 http://rc2526.duckdns.org:5001/live/high/502.m3u8
 #EXTINF:-1 tvg-id="2353" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_Express.png" group-title="News", Bharat Express
 http://rc2526.duckdns.org:5001/live/high/2353.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Star Gold HD
-http://87.255.35.150:18859
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://btuo.duckdns.org:8080/tp/widevine.php?id=8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="ts8" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",STAR Plus HD
+http://btuo.duckdns.org:8080/tp/manifest.php?id=8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://btuo.duckdns.org:8080/tp/widevine.php?id=245
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="ts245" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png",Star GOLD HD
+http://btuo.duckdns.org:8080/tp/manifest.php?id=245|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
