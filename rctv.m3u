@@ -18,7 +18,7 @@ https://buti.quizriot.site/tp/manifest.php?id=8|User-Agent=Mozilla/5.0 (Windows 
 #EXTINF:-1 tvg-id="ts48" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png",SONY SAB HD
 https://buti.quizriot.site/tp/manifest.php?id=48|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF: -1 tvg-id="ts63" tvg-name="Zee TV HD" tvg-logo="" group-title="Entertainment", Zee TV HD
-http://192.168.1.100/index.php?id=0-9-zeetvhd
+https://buti.quizriot.site/tp/cobra.php?id=0-9-zeetvhd
 #EXTINF: -1 tvg-name="STAR UTSAV" group-title="Entertainment", STAR UTSAV
 https://starshare.org:443/live/5045123/5045123/158970.m3u8
 #EXTINF: -1 group-title="Entertainment", Sony Pal
@@ -26,7 +26,7 @@ https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF: -1 tvg-id="ts237" tvg-name="Tarang TV" tvg-logo="" group-title="Odia", Tarang TV
 https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="ts597" tvg-name="Zee Sarthak" tvg-chno="722" tvg-logo="" group-title="Odia", Zee Sarthak
-http://192.168.1.100/index.php?id=0-9-sarthaktv
+https://buti.quizriot.site/tp/cobra.php?id=0-9-sarthaktv
 #EXTINF: -1 tvg-id="ts419" tvg-logo="" group-title="Odia", OTV
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 #EXTINF: -1 tvg-id="ts376" tvg-name="Kanak News" tvg-chno="718" tvg-logo="" group-title="Odia", Kanak News
@@ -52,9 +52,9 @@ http://192.168.1.33:8080/live/high/279.m3u8
 #EXTINF: -1 tvg-name="MTV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Entertainment", MTV HD
 http://192.168.1.33:8080/live/high/1145.m3u8
 #EXTINF: -1 tvg-id="472" tvg-name="&TV HD" tvg-chno="472" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment", &TV HD
-http://192.168.1.100/index.php?id=0-9-tvhd_0
+https://buti.quizriot.site/tp/cobra.php?id=0-9-tvhd_0
 #EXTINF: -1 tvg-id="ts523" tvg-name="Zee Anmol" tvg-chno="473" tvg-logo="" group-title="Entertainment", Zee Anmol
-http://192.168.1.100/index.php?id=0-9-zeeanmol
+https://buti.quizriot.site/tp/cobra.php?id=0-9-zeeanmol
 #EXTINF: -1 tvg-id="481" tvg-name="Epic" tvg-chno="481" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Entertainment", Epic
 http://192.168.1.33:8080/live/high/481.m3u8
 #EXTINF: -1 tvg-id="ts633" tvg-name="Investigation Discovery" tvg-chno="527" tvg-logo="" group-title="Entertainment", Investigation Discovery
@@ -68,7 +68,7 @@ http://192.168.1.33:8080/live/high/701.m3u8
 #EXTINF: -1 tvg-id="ts187" tvg-name="Colors Infinity HD" tvg-chno="1158" tvg-logo="" group-title="Entertainment", Colors Infinity HD
 http://192.168.1.33:8080/live/high/1158.m3u8
 #EXTINF: -1 tvg-id="ts297" tvg-name="Big Magic" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Big_Magic.png" group-title="Entertainment", Big Magic
-http://192.168.1.100/index.php?id=0-9-bigmagic_1786965389
+https://buti.quizriot.site/tp/cobra.php?id=0-9-bigmagic_1786965389
 #EXTINF: -1 tvg-id="ts931" tvg-name="Green Chillies" tvg-chno="1834" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Green_Chillies_TV.png" group-title="Entertainment", Green Chillies
 http://192.168.1.33:8080/live/high/1834.m3u8
 #EXTINF: -1 tvg-id="1961" tvg-name="Shemaroo TV" tvg-chno="1961" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png" group-title="Entertainment", Shemaroo TV
@@ -114,7 +114,7 @@ https://buti.quizriot.site/tp/manifest.php?id=120|User-Agent=Mozilla/5.0 (Window
 #EXTINF: -1 tvg-name="STAR GOLD SELECT HD" group-title="Movies", STAR GOLD SELECT HD
 https://deadpooll.vercel.app/DEAD/85209.m3u8
 #EXTINF: -1 tvg-id="ts267" tvg-name="&Pictures HD" tvg-chno="185" tvg-logo="" group-title="Movies", &Pictures HD
-http://192.168.1.100/index.php?id=0-9-tvpictureshd
+https://buti.quizriot.site/tp/cobra.php?id=0-9-tvpictureshd
 #EXTINF: -1 tvg-name="Star Gold 2 HD" group-title="Movies", Star Gold 2 HD
 https://deadpooll.vercel.app/DEAD/85210.m3u8
 #EXTINF: -1 group-title="Movies", Sony Wah
@@ -133,29 +133,29 @@ http://119.152.240.15:8001/play/a02f/index.m3u8
 #EXTINF: -1 tvg-id="182" tvg-name="B4U Movies" tvg-chno="182" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies", B4U Movies
 http://192.168.1.33:8080/live/high/182.m3u8
 #EXTINF: -1 tvg-id="ts64" tvg-name="Zee Anmol Cinema" tvg-chno="415" tvg-logo="" group-title="Movies", Zee Anmol Cinema
-http://192.168.1.100/index.php?id=0-9-zeeanmolcinema
+https://buti.quizriot.site/tp/cobra.php?id=0-9-zeeanmolcinema
 #EXTINF: -1 tvg-name="STAR GOLD THRILLS" group-title="Movies", STAR GOLD THRILLS
 https://deadpooll.vercel.app/DEAD/95903.m3u8
 #EXTINF: -1 tvg-id="ts100" tvg-name="Zee Action" tvg-chno="488" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Movies", Zee Action
-http://192.168.1.100/index.php?id=0-9-zeeaction
+https://buti.quizriot.site/tp/cobra.php?id=0-9-zeeaction
 #EXTINF: -1 tvg-id="ts53" tvg-name="Colors Cineplex" tvg-chno="482" tvg-logo="" group-title="Movies", Colors Cineplex
 http://192.168.1.33:8080/live/high/482.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD ROMANCE" group-title="Movies", STAR GOLD ROMANCE
 https://deadpooll.vercel.app/DEAD/95902.m3u8
 #EXTINF: -1 tvg-id="487" tvg-name="Zee Bollywood" tvg-chno="487" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Movies", Zee Bollywood
-http://192.168.1.100/index.php?id=0-9-zeeclassic
+https://buti.quizriot.site/tp/cobra.php?id=0-9-zeeclassic
 #EXTINF: -1 tvg-id="1295" tvg-name="B4U Kadak" tvg-chno="1295" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="Movies", B4U Kadak
 http://192.168.1.33:8080/live/high/1295.m3u8
 #EXTINF: -1 tvg-id="ts148" tvg-name="&Pictures" tvg-chno="1839" tvg-logo="" group-title="Movies", &Pictures
-http://192.168.1.100/index.php?id=0-9-pictures
+https://buti.quizriot.site/tp/cobra.php?id=0-9-pictures
 #EXTINF: -1 tvg-name="STAR GOLD" group-title="Movies", STAR GOLD
 https://deadpooll.vercel.app/DEAD/119057.m3u8
 #EXTINF: -1 tvg-id="ts1183" tvg-logo="" group-title="Movies", &Xplor HD
-http://192.168.1.100/index.php?id=0-9-209
+https://buti.quizriot.site/tp/cobra.php?id=0-9-209
 #EXTINF: -1 tvg-id="ts123" tvg-name="Zee Cinema" tvg-chno="484" tvg-logo="" group-title="Movies", Zee Cinema
-http://192.168.1.100/index.php?id=0-9-zeecinema
+https://buti.quizriot.site/tp/cobra.php?id=0-9-zeecinema
 #EXTINF: -1 tvg-id="ts506" tvg-name="&Flix HD" tvg-logo="" group-title="Movies", &Flix HD
-http://192.168.1.100/index.php?id=0-9-channel_2105335046
+https://buti.quizriot.site/tp/cobra.php?id=0-9-channel_2105335046
 #EXTINF: -1 tvg-id="ts1370" tvg-name="Sun Neo HD" tvg-logo="" group-title="Entertainment", Sun Neo HD
 http://192.168.1.33:8080/live/high/3088.m3u8
 #EXTINF: -1 group-title="Movies", Sony Pix HD
@@ -163,17 +163,17 @@ https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF: -1 group-title="Movies", STAR Movies HD
 https://deadpooll.vercel.app/DEAD/74798.m3u8
 #EXTINF: -1 tvg-id="ts530" tvg-name="&Prive HD" tvg-chno="1349" tvg-logo="" group-title="Movies", &Prive HD
-http://192.168.1.100/index.php?id=0-9-9z5543514
+https://buti.quizriot.site/tp/cobra.php?id=0-9-9z5543514
 #EXTINF: -1 tvg-id="ts61" tvg-name="Colors Cineplex HD" tvg-chno="1477" tvg-logo="" group-title="Movies", Colors Cineplex HD
 http://192.168.1.33:8080/live/high/1477.m3u8  
 #EXTINF: -1 tvg-id="1691" tvg-name="Zee Classic" tvg-chno="1691" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic_SD.png" group-title="Movies", Zee Classic
-http://192.168.1.100/index.php?id=0-9-176
+https://buti.quizriot.site/tp/cobra.php?id=0-9-176
 #EXTINF: -1 tvg-id="1450" tvg-name="Colors Cineplex Superhits" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Movies", Colors Cineplex Superhits
 http://192.168.1.33:8080/live/high/1450.m3u8
 #EXTINF: -1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" tvg-chno="1763" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Movies", Colors Cineplex Bollywood
 http://192.168.1.33:8080/live/high/1763.m3u8
 #EXTINF: -1 tvg-id="ts382" tvg-name="Zee Zest HD" tvg-logo="" group-title="Infotainment", Zee Zest HD
-http://192.168.1.100/index.php?id=0-9-348
+https://buti.quizriot.site/tp/cobra.php?id=0-9-348
 #EXTINF: -1 tvg-id="ts484" tvg-name="Travelxp HD" tvg-chno="164" tvg-logo="" group-title="Infotainment", Travelxp HD
 http://192.168.1.33:8080/live/high/164.m3u8
 #EXTINF: -1 tvg-id="ts480" tvg-name="TLC HD" tvg-chno="479" tvg-logo="" group-title="Infotainment", TLC HD
@@ -274,7 +274,7 @@ http://192.168.1.33:8080/live/high/657.m3u8
 #EXTINF: -1 tvg-id="ts375" tvg-name="Kalinga TV" tvg-chno="781" tvg-logo="" group-title="Odia", Kalinga TV
 https://server.thelegitpro.in/kalingatv/kalingatv/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="ts517" group-title="Entertainment" tvg-name="Zing" tvg-logo="", Zing
-http://192.168.1.100/index.php?id=0-9-zing
+https://buti.quizriot.site/tp/cobra.php?id=0-9-zing
 #EXTINF: -1 tvg-id="858" tvg-name="Republic TV" tvg-chno="858" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="News", Republic TV
 http://192.168.1.33:8080/live/high/858.m3u8
 #EXTINF: -1 tvg-id="ts90" tvg-name="Times NOW" tvg-chno="383" tvg-logo="" group-title="News", Times NOW
@@ -414,6 +414,7 @@ https://buti.quizriot.site/tp/manifest.php?id=413|User-Agent=Mozilla/5.0 (Window
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ts184" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Infotainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-438-j5jt26xc-v2/imageContent-438-j5jt26xc-m2.png",Nat Geo Wild
 https://buti.quizriot.site/tp/manifest.php?id=184|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
 
 
 
