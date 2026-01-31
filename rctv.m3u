@@ -1,22 +1,22 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz,https://avkb.short.gy/epg.xml.gz,https://fhux.short.gy/epg.xml.gz"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://192.168.8.2/TP/tpm3u/widevine.php?id=80
+#KODIPROP:inputstream.adaptive.license_key=https://buti.quizriot.site/tp/widevine.php?id=80
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ts80" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png",SONY MAX HD
-http://192.168.8.2/TP/tpm3u/manifest.php?id=80|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/#EXTINF: -1 tvg-id="ts15" tvg-logo="" tvg-name="SET HD" group-title="Entertainment", SET HD
+https://buti.quizriot.site/tp/manifest.php?id=80|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/#EXTINF: -1 tvg-id="ts15" tvg-logo="" tvg-name="SET HD" group-title="Entertainment", SET HD
 https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF: -1 tvg-id="ts52" tvg-name="Colors HD" tvg-chno="144" tvg-logo="" group-title="Entertainment", Colors HD
 http://192.168.1.33:8080/live/high/144.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://192.168.8.2/TP/tpm3u/widevine.php?id=8
+#KODIPROP:inputstream.adaptive.license_key=https://buti.quizriot.site/tp/widevine.php?id=8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ts8" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",STAR Plus HD
-http://192.168.8.2/TP/tpm3u/manifest.php?id=8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+https://buti.quizriot.site/tp/manifest.php?id=8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://192.168.8.2/TP/tpm3u/widevine.php?id=48
+#KODIPROP:inputstream.adaptive.license_key=https://buti.quizriot.site/tp/widevine.php?id=48
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ts48" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png",SONY SAB HD
-http://192.168.8.2/TP/tpm3u/manifest.php?id=48|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+https://buti.quizriot.site/tp/manifest.php?id=48|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF: -1 tvg-id="ts63" tvg-name="Zee TV HD" tvg-logo="" group-title="Entertainment", Zee TV HD
 http://192.168.1.100/index.php?id=0-9-zeetvhd
 #EXTINF: -1 tvg-name="STAR UTSAV" group-title="Entertainment", STAR UTSAV
@@ -102,15 +102,15 @@ http://192.168.1.33:8080/live/high/583.m3u8
 #EXTINF: -1 tvg-id="ts503" tvg-name="Zee Cinema HD" tvg-chno="165" tvg-logo="" group-title="Movies", Zee Cinema HD
 http://192.168.8.2/ZEE5/index.php?id=0-9-zeecinemahd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://192.168.8.2/TP/tpm3u/widevine.php?id=245
+#KODIPROP:inputstream.adaptive.license_key=https://buti.quizriot.site/tp/widevine.php?id=245
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ts245" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png",Star GOLD HD
-http://192.168.8.2/TP/tpm3u/manifest.php?id=245|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+https://buti.quizriot.site/tp/manifest.php?id=245|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://192.168.8.2/TP/tpm3u/widevine.php?id=120
+#KODIPROP:inputstream.adaptive.license_key=https://buti.quizriot.site/tp/widevine.php?id=120
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ts120" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png",SONY MAX 2
-http://192.168.8.2/TP/tpm3u/manifest.php?id=120|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+https://buti.quizriot.site/tp/manifest.php?id=120|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF: -1 tvg-name="STAR GOLD SELECT HD" group-title="Movies", STAR GOLD SELECT HD
 https://deadpooll.vercel.app/DEAD/85209.m3u8
 #EXTINF: -1 tvg-id="ts267" tvg-name="&Pictures HD" tvg-chno="185" tvg-logo="" group-title="Movies", &Pictures HD
@@ -120,10 +120,10 @@ https://deadpooll.vercel.app/DEAD/85210.m3u8
 #EXTINF: -1 group-title="Movies", Sony Wah
 https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://192.168.8.2/TP/tpm3u/widevine.php?id=823
+#KODIPROP:inputstream.adaptive.license_key=https://buti.quizriot.site/tp/widevine.php?id=823
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ts823" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Marathi" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53943-kblsqraw-v3/imageContent-53943-kblsqraw-m4.png",Goldmines
-http://192.168.8.2/TP/tpm3u/manifest.php?id=823|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+https://buti.quizriot.site/tp/manifest.php?id=823|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/darad3vil014/tuntun/refs/heads/main/bwc.png" group-title="Movies",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87417&ads.show_id=3259&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-14&ads.episodeRating=PG&ads.language=en&ads.showtitle=Bollywood%20Classic&ads.episodetitle=Bollywood%20Classic&ads.keywords=Bollywood%2CHindu%2CClassic&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/darad3vil014/tuntun/refs/heads/main/Bollywood_HD.png" group-title="Movies",Bollywood HD
@@ -189,20 +189,20 @@ http://192.168.1.33:8080/live/high/816.m3u8
 #EXTINF: -1 tvg-id="ts345" tvg-name="Hungama" group-title="Kids", Hungama
 https://deadpooll.vercel.app/DEAD/92417.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://192.168.8.2/TP/tpm3u/widevine.php?id=114
+#KODIPROP:inputstream.adaptive.license_key=https://buti.quizriot.site/tp/widevine.php?id=114
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ts114" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",Disney
-http://192.168.8.2/TP/tpm3u/manifest.php?id=114|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+https://buti.quizriot.site/tp/manifest.php?id=114|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://192.168.8.2/TP/tpm3u/widevine.php?id=45
+#KODIPROP:inputstream.adaptive.license_key=https://buti.quizriot.site/tp/widevine.php?id=45
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ts45" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png",SONY YAY!
-http://192.168.8.2/TP/tpm3u/manifest.php?id=45|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+https://buti.quizriot.site/tp/manifest.php?id=45|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://192.168.8.2/TP/tpm3u/widevine.php?id=587
+#KODIPROP:inputstream.adaptive.license_key=https://buti.quizriot.site/tp/widevine.php?id=587
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ts587" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png",Super Hungama
-http://192.168.8.2/TP/tpm3u/manifest.php?id=587|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+https://buti.quizriot.site/tp/manifest.php?id=587|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF:-1 tvg-id="ts144" group-title="Kids" tvg-logo="" ,Disney Junior
 https://deadpooll.vercel.app/DEAD/92419.m3u8
 #EXTINF: -1 tvg-id="ts138" tvg-name="Nick" tvg-logo="" group-title="Kids", Nick
@@ -320,10 +320,10 @@ http://192.168.1.33:8080/live/high/2752.m3u8
 #EXTINF: -1 tvg-id="2753" tvg-name="YRF Music" tvg-chno="2753" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music", YRF Music
 http://192.168.1.33:8080/live/high/2753.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://192.168.8.2/TP/tpm3u/widevine.php?id=81
+#KODIPROP:inputstream.adaptive.license_key=https://buti.quizriot.site/tp/widevine.php?id=81
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ts81" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Sports" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png",SONY SPORTS TEN 1 HD
-http://192.168.8.2/TP/tpm3u/manifest.php?id=81|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+https://buti.quizriot.site/tp/manifest.php?id=81|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF: -1 tvg-id="ts462" tvg-logo="" group-title="Sports", Sony Ten 2 HD
 https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 #EXTINF: -1 tvg-id="ts464" tvg-logo="" group-title="Sports", Sony Ten 3 HD
@@ -333,10 +333,10 @@ https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF: -1 tvg-id="ts35" tvg-logo="" group-title="Sports", Sony Ten 5 HD
 https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://192.168.8.2/TP/tpm3u/widevine.php?id=24
+#KODIPROP:inputstream.adaptive.license_key=https://buti.quizriot.site/tp/widevine.php?id=24
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ts24" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Sports" tvg-logo="",Star Sports 1 Hindi HD
-http://192.168.8.2/TP/tpm3u/manifest.php?id=24|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+https://buti.quizriot.site/tp/manifest.php?id=24|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF: -1 tvg-name="STAR SPORTS 2 HD" tvg-logo="" group-title="Sports", STAR SPORTS 2 HD
 https://deadpooll.vercel.app/DEAD/93303.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS SELECT 1 HD" group-title="Sports", STAR SPORTS SELECT 1 HD
@@ -348,10 +348,10 @@ http://192.168.1.33:8080/live/high/875.m3u8
 #EXTINF: -1 tvg-id="ts1033" tvg-name="Star Sports 2 Hindi HD" tvg-logo="" group-title="Sports", Star Sports 2 Hindi HD
 http://192.168.1.33:8080/live/high/1984.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://192.168.8.2/TP/tpm3u/widevine.php?id=664
+#KODIPROP:inputstream.adaptive.license_key=https://buti.quizriot.site/tp/widevine.php?id=664
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ts664" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Sports" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31405-jm2isen4-v1/imageContent-31405-jm2isen4-m1.png",Star Sports 3
-http://192.168.8.2/TP/tpm3u/manifest.php?id=664|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+https://buti.quizriot.site/tp/manifest.php?id=664|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF: -1 tvg-id="" tvg-name="Star Sports Khel" tvg-logo="" group-title="Sports", Star Sports Khel
 http://192.168.1.33:8080/live/high/1998.m3u8
 #EXTINF: -1 tvg-id="204" tvg-name="DD Sports" tvg-chno="204" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports", DD Sports
@@ -387,33 +387,34 @@ http://192.168.1.33:8080/live/high/2774.m3u8
 #EXTINF: -1 tvg-name="Sony Kal" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/6/6e/Sony_Kal_Logo.jpeg" group-title="Entertainment", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_3000k.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://192.168.8.2/TP/tpm3u/widevine.php?id=1340
+#KODIPROP:inputstream.adaptive.license_key=https://buti.quizriot.site/tp/widevine.php?id=1340
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ts1340" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ETVBBHD_Thumbnail-v1/ETVBBHD_Thumbnail.png",ETV Bal Bharat HD
-http://192.168.8.2/TP/tpm3u/manifest.php?id=1340|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+https://buti.quizriot.site/tp/manifest.php?id=1340|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://192.168.8.2/TP/tpm3u/widevine.php?id=605
+#KODIPROP:inputstream.adaptive.license_key=https://buti.quizriot.site/tp/widevine.php?id=605
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ts605" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Infotainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png",National Geographic HD
-http://192.168.8.2/TP/tpm3u/manifest.php?id=605|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+https://buti.quizriot.site/tp/manifest.php?id=605|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://192.168.8.2/TP/tpm3u/widevine.php?id=137
+#KODIPROP:inputstream.adaptive.license_key=https://buti.quizriot.site/tp/widevine.php?id=137
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ts137" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Infotainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-462-j5jw44hk-v2/imageContent-462-j5jw44hk-m3.png",National Geographic
-http://192.168.8.2/TP/tpm3u/manifest.php?id=137|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+https://buti.quizriot.site/tp/manifest.php?id=137|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://192.168.8.2/TP/tpm3u/widevine.php?id=413
+#KODIPROP:inputstream.adaptive.license_key=https://buti.quizriot.site/tp/widevine.php?id=413
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ts413" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Infotainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png",Nat Geo Wild HD
-http://192.168.8.2/TP/tpm3u/manifest.php?id=413|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+https://buti.quizriot.site/tp/manifest.php?id=413|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://192.168.8.2/TP/tpm3u/widevine.php?id=184
+#KODIPROP:inputstream.adaptive.license_key=https://buti.quizriot.site/tp/widevine.php?id=184
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ts184" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Infotainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-438-j5jt26xc-v2/imageContent-438-j5jt26xc-m2.png",Nat Geo Wild
-http://192.168.8.2/TP/tpm3u/manifest.php?id=184|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+https://buti.quizriot.site/tp/manifest.php?id=184|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
 
 
 
